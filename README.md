@@ -1,5 +1,5 @@
 # hoyoGPT data processor
-[![Python application](https://github.com/MuGeminorum/hoyoGPT/actions/workflows/python-app.yml/badge.svg?branch=data)](https://github.com/MuGeminorum/hoyoGPT/actions/workflows/python-app.yml)
+[![Python application](https://github.com/MuGeminorum/hoyoGPT/actions/workflows/python-app.yml/badge.svg)](https://github.com/MuGeminorum/hoyoGPT/actions/workflows/python-app.yml)
 
 ## Environment
 ```
