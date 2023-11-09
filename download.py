@@ -13,12 +13,12 @@ def get_score_urls(keyword='genshin'):
     i = 1
     url_title = {}
     while True:
-        print(f"第{i}页...", end="")
+        print(f"Page {i}...", end="\n")
         page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={keyword}'
         response = requests.get(page_url)
 
         if re.findall('No results', response.text):
-            print(f"共{i - 1}页")
+            print(f"{i - 1} pages in total\n", '-' * 50)
             break
 
         url_pattern = r'https://musescore.com/user/\d+/scores/\d+'
@@ -47,7 +47,7 @@ def get_title(response, url, substr='file_score_title":"'):
     index = response_txt.index(url)
     last_index = response_txt.rfind(substr, 0, index)
     if last_index != -1:
-        return str(response_txt[last_index + len(substr):index]).split('","')[0].replace('\\n', '')
+        return str(response_txt[last_index + len(substr):index]).split('","')[0].replace('\\n.', '.').replace('\\n', '_')
     else:
         return None
 
@@ -61,13 +61,13 @@ def download(urls: dict, save_folder="./genshin"):
         if response.status_code == 200:
             with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
                 file.write(response.content)
-            print(f"Downloaded: {file_url} => {score_name}")
+
+            print(f"Downloaded: {score_name}")
+
         else:
-            print(f"Failed to download: {file_url}")
-        print("-" * 50)
+            print(f"Failed to download: {file_url} => {score_name}")
 
 
 if __name__ == "__main__":
     score_urls = get_score_urls("genshin furina")
-    print(score_urls)
     download(urls=score_urls)
