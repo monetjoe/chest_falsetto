@@ -2,3 +2,4 @@ __pycache__/*
 output/*
 rename.sh
 test.py
+*.mid

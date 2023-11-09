@@ -1,27 +1,35 @@
 import re
+import os
+import html
 import requests
-from bs4 import BeautifulSoup
 
 
-def get_score_urls(text='genshin'):
-    score_urls = []
+def create_dir(dirpath):
+    if not os.path.exists(dirpath):
+        os.makedirs(dirpath)
+
+
+def get_score_urls(keyword='genshin'):
     i = 1
+    url_title = {}
     while True:
         print(f"第{i}页...", end="")
-        page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={text}'
+        page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={keyword}'
         response = requests.get(page_url)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        url_pattern = r'https://musescore.com/user/\d+/scores/\d+'
-
-        urls = re.findall(url_pattern, response.text)
 
         if re.findall('No results', response.text):
             print(f"共{i - 1}页")
             break
+
+        url_pattern = r'https://musescore.com/user/\d+/scores/\d+'
+        urls = list(set(re.findall(url_pattern, response.text)))
+
+        for url in urls:
+            url_title[url] = get_title(response.text, url)
+
         i += 1
-        score_urls += urls
-    score_urls = list(set(score_urls))
-    return score_urls
+
+    return url_title
 
 
 def get_file_url(id):
@@ -34,20 +42,32 @@ def get_file_url(id):
         return info.get("url")
 
 
-def download(urls, save_folder="./genshin"):
-    for score_url in urls:
+def get_title(response, url, substr='file_score_title":"'):
+    response_txt = html.unescape(str(response))
+    index = response_txt.index(url)
+    last_index = response_txt.rfind(substr, 0, index)
+    if last_index != -1:
+        return str(response_txt[last_index + len(substr):index]).split('","')[0].replace('\\n', '')
+    else:
+        return None
+
+
+def download(urls: dict, save_folder="./genshin"):
+    create_dir(save_folder)
+    for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])
-        score_name = file_url.split('-Signature=')[1]
+        score_name = urls[score_url]
         response = requests.get(file_url)
         if response.status_code == 200:
             with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
                 file.write(response.content)
-            print(f"下载完成: {file_url} => {score_name}")
+            print(f"Downloaded: {file_url} => {score_name}")
         else:
-            print(f"下载失败: {file_url}")
+            print(f"Failed to download: {file_url}")
         print("-" * 50)
 
 
 if __name__ == "__main__":
-    score_urls = get_score_urls("furina")
+    score_urls = get_score_urls("genshin furina")
+    print(score_urls)
     download(urls=score_urls)
