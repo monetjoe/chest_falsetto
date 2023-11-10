@@ -1,12 +1,14 @@
 import re
-import os
 import html
 import requests
+from utils import *
 
 
-def create_dir(dirpath):
-    if not os.path.exists(dirpath):
-        os.makedirs(dirpath)
+def add_tags(keyword):
+    if keyword == 'Furina':
+        return ['Furina', 'Fontaine']
+
+    return None
 
 
 def get_score_urls(keyword='genshin'):
@@ -41,6 +43,8 @@ def get_file_url(id):
     if info:
         return info.get("url")
 
+    return None
+
 
 def get_title(response, url, substr='file_score_title":"'):
     response_txt = html.unescape(str(response))
@@ -48,15 +52,15 @@ def get_title(response, url, substr='file_score_title":"'):
     last_index = response_txt.rfind(substr, 0, index)
     if last_index != -1:
         return str(response_txt[last_index + len(substr):index]).split('","')[0].replace('\\n.', '.').replace('\\n', '_')
-    else:
-        return None
+
+    return None
 
 
-def download(urls: dict, save_folder="./genshin"):
+def download(urls: dict, save_folder=f"{DATA_DIR}/genshin", tags=[]):
     create_dir(save_folder)
     for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])
-        score_name = urls[score_url]
+        score_name = '#'.join(set([urls[score_url]] + tags))
         response = requests.get(file_url)
         if response.status_code == 200:
             with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
@@ -69,5 +73,7 @@ def download(urls: dict, save_folder="./genshin"):
 
 
 if __name__ == "__main__":
-    score_urls = get_score_urls("genshin furina")
-    download(urls=score_urls)
+    keyword = "furina"
+    tag_list = add_tags(keyword)
+    score_urls = get_score_urls(f"genshin {keyword}")
+    download(urls=score_urls, tags=tag_list)

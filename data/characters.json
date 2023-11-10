@@ -1,0 +1,586 @@
+{
+    "Albedo": {
+        "Chinese_name": "阿贝多",
+        "tags": [
+            "Geo",
+            "Mondstadt",
+            "Medium_Male"
+        ]
+    },
+    "Alhaitham": {
+        "Chinese_name": "艾尔海森",
+        "tags": [
+            "Dendro",
+            "Sumeru",
+            "Tall_Male"
+        ]
+    },
+    "Amber": {
+        "Chinese_name": "安柏",
+        "tags": [
+            "Pyro",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Arataki_Itto": {
+        "Chinese_name": "荒泷一斗",
+        "tags": [
+            "Geo",
+            "Inazuma",
+            "Tall_Male"
+        ]
+    },
+    "Baizhu": {
+        "Chinese_name": "白术",
+        "tags": [
+            "Dendro",
+            "Liyue",
+            "Tall_Male"
+        ]
+    },
+    "Barbara": {
+        "Chinese_name": "芭芭拉",
+        "tags": [
+            "Hydro",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Beidou": {
+        "Chinese_name": "北斗",
+        "tags": [
+            "Electro",
+            "Liyue",
+            "Tall_Female"
+        ]
+    },
+    "Bennett": {
+        "Chinese_name": "班尼特",
+        "tags": [
+            "Pyro",
+            "Mondstadt",
+            "Medium_Male"
+        ]
+    },
+    "Candace": {
+        "Chinese_name": "坎蒂丝",
+        "tags": [
+            "Hydro",
+            "Sumeru",
+            "Tall_Female"
+        ]
+    },
+    "Charlotte": {
+        "Chinese_name": "夏洛蒂",
+        "tags": [
+            "Cryo",
+            "Fontaine",
+            "Medium_Female"
+        ]
+    },
+    "Chongyun": {
+        "Chinese_name": "重云",
+        "tags": [
+            "Cryo",
+            "Liyue",
+            "Medium_Male"
+        ]
+    },
+    "Collei": {
+        "Chinese_name": "柯莱",
+        "tags": [
+            "Dendro",
+            "Sumeru",
+            "Medium_Female"
+        ]
+    },
+    "Cyno": {
+        "Chinese_name": "赛诺",
+        "tags": [
+            "Electro",
+            "Sumeru",
+            "Medium_Male"
+        ]
+    },
+    "Dehya": {
+        "Chinese_name": "迪希雅",
+        "tags": [
+            "Pyro",
+            "Sumeru",
+            "Tall_Female"
+        ]
+    },
+    "Diluc": {
+        "Chinese_name": "迪卢克",
+        "tags": [
+            "Pyro",
+            "Mondstadt",
+            "Tall_Male"
+        ]
+    },
+    "Diona": {
+        "Chinese_name": "迪奥娜",
+        "tags": [
+            "Cryo",
+            "Mondstadt",
+            "Short_Female"
+        ]
+    },
+    "Dori": {
+        "Chinese_name": "多莉",
+        "tags": [
+            "Electro",
+            "Sumeru",
+            "Short_Female"
+        ]
+    },
+    "Eula": {
+        "Chinese_name": "优菈",
+        "tags": [
+            "Cryo",
+            "Mondstadt",
+            "Tall_Female"
+        ]
+    },
+    "Faruzan": {
+        "Chinese_name": "珐露珊",
+        "tags": [
+            "Anemo",
+            "Sumeru",
+            "Medium_Female"
+        ]
+    },
+    "Fischl": {
+        "Chinese_name": "菲谢尔",
+        "tags": [
+            "Electro",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Freminet": {
+        "Chinese_name": "菲米尼",
+        "tags": [
+            "Cryo",
+            "Fontaine",
+            "Medium_Male"
+        ]
+    },
+    "Furina": {
+        "Chinese_name": "芙宁娜",
+        "tags": [
+            "Hydro",
+            "Fontaine",
+            "Medium_Female"
+        ]
+    },
+    "Ganyu": {
+        "Chinese_name": "甘雨",
+        "tags": [
+            "Cryo",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Gorou": {
+        "Chinese_name": "五郎",
+        "tags": [
+            "Geo",
+            "Inazuma",
+            "Medium_Male"
+        ]
+    },
+    "Hu_Tao": {
+        "Chinese_name": "胡桃",
+        "tags": [
+            "Pyro",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Jean": {
+        "Chinese_name": "琴",
+        "tags": [
+            "Anemo",
+            "Mondstadt",
+            "Tall_Female"
+        ]
+    },
+    "Kaedehara_Kazuha": {
+        "Chinese_name": "枫原万叶",
+        "tags": [
+            "Anemo",
+            "Inazuma",
+            "Medium_Male"
+        ]
+    },
+    "Kaeya": {
+        "Chinese_name": "凯亚",
+        "tags": [
+            "Cryo",
+            "Mondstadt",
+            "Tall_Male"
+        ]
+    },
+    "Kamisato_Ayaka": {
+        "Chinese_name": "神里绫华",
+        "tags": [
+            "Cryo",
+            "Inazuma",
+            "Medium_Female"
+        ]
+    },
+    "Kamisato_Ayato": {
+        "Chinese_name": "神里绫人",
+        "tags": [
+            "Hydro",
+            "Inazuma",
+            "Tall_Male"
+        ]
+    },
+    "Kaveh": {
+        "Chinese_name": "卡维",
+        "tags": [
+            "Dendro",
+            "Sumeru",
+            "Tall_Male"
+        ]
+    },
+    "Keqing": {
+        "Chinese_name": "刻晴",
+        "tags": [
+            "Electro",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Kirara": {
+        "Chinese_name": "绮良良",
+        "tags": [
+            "Dendro",
+            "Inazuma",
+            "Medium_Female"
+        ]
+    },
+    "Klee": {
+        "Chinese_name": "可莉",
+        "tags": [
+            "Pyro",
+            "Mondstadt",
+            "Short_Female"
+        ]
+    },
+    "Kujou_Sara": {
+        "Chinese_name": "九条裟罗",
+        "tags": [
+            "Electro",
+            "Inazuma",
+            "Tall_Female"
+        ]
+    },
+    "Kuki_Shinobu": {
+        "Chinese_name": "久岐忍",
+        "tags": [
+            "Electro",
+            "Inazuma",
+            "Medium_Female"
+        ]
+    },
+    "Layla": {
+        "Chinese_name": "莱依拉",
+        "tags": [
+            "Cryo",
+            "Sumeru",
+            "Medium_Female"
+        ]
+    },
+    "Lisa": {
+        "Chinese_name": "丽莎",
+        "tags": [
+            "Electro",
+            "Mondstadt",
+            "Tall_Female"
+        ]
+    },
+    "Lynette": {
+        "Chinese_name": "琳妮特",
+        "tags": [
+            "Anemo",
+            "Fontaine",
+            "Medium_Female"
+        ]
+    },
+    "Lyney": {
+        "Chinese_name": "林尼",
+        "tags": [
+            "Pyro",
+            "Fontaine",
+            "Medium_Male"
+        ]
+    },
+    "Mika": {
+        "Chinese_name": "米卡",
+        "tags": [
+            "Cryo",
+            "Mondstadt",
+            "Medium_Male"
+        ]
+    },
+    "Mona": {
+        "Chinese_name": "莫娜",
+        "tags": [
+            "Hydro",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Nahida": {
+        "Chinese_name": "纳西妲",
+        "tags": [
+            "Dendro",
+            "Sumeru",
+            "Short_Female"
+        ]
+    },
+    "Neuvillette": {
+        "Chinese_name": "那维莱特",
+        "tags": [
+            "Hydro",
+            "Fontaine",
+            "Tall_Male"
+        ]
+    },
+    "Nilou": {
+        "Chinese_name": "妮露",
+        "tags": [
+            "Hydro",
+            "Sumeru",
+            "Medium_Female"
+        ]
+    },
+    "Ningguang": {
+        "Chinese_name": "凝光",
+        "tags": [
+            "Geo",
+            "Liyue",
+            "Tall_Female"
+        ]
+    },
+    "Noelle": {
+        "Chinese_name": "诺艾尔",
+        "tags": [
+            "Geo",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Qiqi": {
+        "Chinese_name": "七七",
+        "tags": [
+            "Cryo",
+            "Liyue",
+            "Short_Female"
+        ]
+    },
+    "Raiden_Shogun": {
+        "Chinese_name": "雷电将军",
+        "tags": [
+            "Electro",
+            "Inazuma",
+            "Tall_Female"
+        ]
+    },
+    "Razor": {
+        "Chinese_name": "雷泽",
+        "tags": [
+            "Electro",
+            "Mondstadt",
+            "Medium_Male"
+        ]
+    },
+    "Rosaria": {
+        "Chinese_name": "罗莎莉亚",
+        "tags": [
+            "Cryo",
+            "Mondstadt",
+            "Tall_Female"
+        ]
+    },
+    "Sangonomiya_Kokomi": {
+        "Chinese_name": "珊瑚宫心海",
+        "tags": [
+            "Hydro",
+            "Inazuma",
+            "Medium_Female"
+        ]
+    },
+    "Sayu": {
+        "Chinese_name": "早柚",
+        "tags": [
+            "Anemo",
+            "Inazuma",
+            "Short_Female"
+        ]
+    },
+    "Shenhe": {
+        "Chinese_name": "申鹤",
+        "tags": [
+            "Cryo",
+            "Liyue",
+            "Tall_Female"
+        ]
+    },
+    "Shikanoin_Heizou": {
+        "Chinese_name": "鹿野院平藏",
+        "tags": [
+            "Anemo",
+            "Inazuma",
+            "Medium_Male"
+        ]
+    },
+    "Sucrose": {
+        "Chinese_name": "砂糖",
+        "tags": [
+            "Anemo",
+            "Mondstadt",
+            "Medium_Female"
+        ]
+    },
+    "Tartaglia": {
+        "Chinese_name": "达达利亚",
+        "tags": [
+            "Hydro",
+            "Snezhnaya",
+            "Tall_Male"
+        ]
+    },
+    "Thoma": {
+        "Chinese_name": "托马",
+        "tags": [
+            "Pyro",
+            "Inazuma",
+            "Tall_Male"
+        ]
+    },
+    "Tighnari": {
+        "Chinese_name": "提纳里",
+        "tags": [
+            "Dendro",
+            "Sumeru",
+            "Medium_Male"
+        ]
+    },
+    "Venti": {
+        "Chinese_name": "温迪",
+        "tags": [
+            "Anemo",
+            "Mondstadt",
+            "Medium_Male"
+        ]
+    },
+    "Wanderer": {
+        "Chinese_name": "流浪者",
+        "tags": [
+            "Anemo",
+            "Sumeru",
+            "Medium_Male"
+        ]
+    },
+    "Wriothesley": {
+        "Chinese_name": "莱欧斯利",
+        "tags": [
+            "Cryo",
+            "Fontaine",
+            "Tall_Male"
+        ]
+    },
+    "Xiangling": {
+        "Chinese_name": "香菱",
+        "tags": [
+            "Pyro",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Xiao": {
+        "Chinese_name": "魈",
+        "tags": [
+            "Anemo",
+            "Liyue",
+            "Medium_Male"
+        ]
+    },
+    "Xingqiu": {
+        "Chinese_name": "行秋",
+        "tags": [
+            "Hydro",
+            "Liyue",
+            "Medium_Male"
+        ]
+    },
+    "Xinyan": {
+        "Chinese_name": "辛焱",
+        "tags": [
+            "Pyro",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Yae_Miko": {
+        "Chinese_name": "八重神子",
+        "tags": [
+            "Electro",
+            "Inazuma",
+            "Tall_Female"
+        ]
+    },
+    "Yanfei": {
+        "Chinese_name": "烟绯",
+        "tags": [
+            "Pyro",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Yaoyao": {
+        "Chinese_name": "瑶瑶",
+        "tags": [
+            "Dendro",
+            "Liyue",
+            "Short_Female"
+        ]
+    },
+    "Yelan": {
+        "Chinese_name": "夜兰",
+        "tags": [
+            "Hydro",
+            "Liyue",
+            "Tall_Female"
+        ]
+    },
+    "Yoimiya": {
+        "Chinese_name": "宵宫",
+        "tags": [
+            "Pyro",
+            "Inazuma",
+            "Medium_Female"
+        ]
+    },
+    "Yun_Jin": {
+        "Chinese_name": "云堇",
+        "tags": [
+            "Geo",
+            "Liyue",
+            "Medium_Female"
+        ]
+    },
+    "Zhongli": {
+        "Chinese_name": "钟离",
+        "tags": [
+            "Geo",
+            "Liyue",
+            "Tall_Male"
+        ]
+    }
+}

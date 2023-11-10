@@ -1,0 +1,30 @@
+from utils import *
+import requests
+from bs4 import BeautifulSoup
+
+
+areas, subareas = {}, {}
+
+
+def get_area(region='Mondstadt'):
+    page_url = f"https://genshin-impact.fandom.com/wiki/{region}"
+    response = requests.get(page_url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        areas_div = soup.find('div', id='gallery-2')
+        area_divs = areas_div.find_all('div', class_='wikia-gallery-item')
+        for area_div in area_divs:
+            area_a = area_div.find('a')
+            area_url = area_a.get('href')
+            area_name = area_a.get('title')
+            areas[area_name] = {
+                'Chinese_name': '',
+                'tags': [region] + add_tags(region)
+            }
+
+
+def get_subarea(area_url):
+    response = requests.get(area_url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        print(soup)
