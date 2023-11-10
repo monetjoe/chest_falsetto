@@ -5,9 +5,6 @@ from tqdm import tqdm
 from bs4 import BeautifulSoup
 from utils import *
 
-FORCE_UPD = True
-DOMAIN = 'https://genshin-impact.fandom.com'
-
 
 def get_Chinese_char_name(char_url):
     response = requests.get(f'{DOMAIN}{char_url}')
@@ -19,7 +16,7 @@ def get_Chinese_char_name(char_url):
     return ''
 
 
-def get_characters(page_url="https://genshin-impact.fandom.com/wiki/Character/List"):
+def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
     characters = {}
     response = requests.get(page_url)
     if response.status_code == 200:

@@ -1,5 +1,7 @@
+FORCE_UPD = True
 DATA_DIR = './data'
 CHARACTER_PATH = f'{DATA_DIR}/characters.json'
+DOMAIN = 'https://genshin-impact.fandom.com'
 
 Teyvat = {
     'Mondstadt': {
@@ -45,3 +47,17 @@ def create_dir(dirpath):
     import os
     if not os.path.exists(dirpath):
         os.makedirs(dirpath)
+
+
+def trim_str_list(input_list):
+    """
+    Removes leading and trailing whitespace from all elements in a list of strings.
+
+    Parameters:
+    - input_list (list): A list of strings.
+
+    Returns:
+    - list: A new list with leading and trailing whitespace removed from each element.
+    """
+    result_list = [s.strip() for s in input_list]
+    return result_list

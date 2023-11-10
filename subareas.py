@@ -3,10 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 
 
-areas, subareas = {}, {}
+areas, subareas, soundtracks = {}, {}, {}
 
 
-def get_area(region='Mondstadt'):
+def get_areas(region='Mondstadt'):
     page_url = f"https://genshin-impact.fandom.com/wiki/{region}"
     response = requests.get(page_url)
     if response.status_code == 200:
@@ -18,9 +18,17 @@ def get_area(region='Mondstadt'):
             area_url = area_a.get('href')
             area_name = area_a.get('title')
             areas[area_name] = {
-                'Chinese_name': '',
-                'tags': [region] + add_tags(region)
+                'Chinese_name': get_subareas(area_url),
+                'tags': list(set([region] + Teyvat[region]['tags']))
             }
+
+
+def get_subareas(area_url='https://genshin-impact.fandom.com/wiki/Lisha'):
+    response = requests.get(area_url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        cname = soup.find('span', lang='zh-Hans').text
+        print(cname)
 
 
 def get_subarea(area_url):
@@ -28,3 +36,7 @@ def get_subarea(area_url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         print(soup)
+
+
+if __name__ == "__main__":
+    get_subareas()
