@@ -1,0 +1,1361 @@
+{
+    "\"A Lonely Place\"": {
+        "Chinese_name": "「寂寞的地方」",
+        "tags": [
+            "Within Elynas: Northern Zone"
+        ]
+    },
+    "\"A Very Bright Place\"": {
+        "Chinese_name": "「很明亮的地方」",
+        "tags": [
+            "Within Elynas: Southern Zone"
+        ]
+    },
+    "\"A Very Warm Place\"": {
+        "Chinese_name": "「特别温暖的地方」",
+        "tags": [
+            "Within Elynas: Northern Zone"
+        ]
+    },
+    "\"Seiraimaru\"": {
+        "Chinese_name": "「清籁丸」",
+        "tags": [
+            "Seirai Island",
+            "Inazuma"
+        ]
+    },
+    "Aaru Village": {
+        "Chinese_name": "阿如村",
+        "tags": [
+            "Land of Lower Setekh",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Abdju Pit": {
+        "Chinese_name": "舍身陷坑",
+        "tags": [
+            "Land of Lower Setekh",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Ad-Hoc Main Tunnel": {
+        "Chinese_name": "临时主矿道",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "Amakane Island": {
+        "Chinese_name": "甘金岛",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Amakumo Peak": {
+        "Chinese_name": "天云峠",
+        "tags": [
+            "Seirai Island",
+            "Inazuma"
+        ]
+    },
+    "Annapausis": {
+        "Chinese_name": "安眠处",
+        "tags": [
+            "Annapausis"
+        ]
+    },
+    "Apam Woods": {
+        "Chinese_name": "水天丛林",
+        "tags": [
+            "Ashavan Realm",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Araumi": {
+        "Chinese_name": "荒海",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Asase Shrine": {
+        "Chinese_name": "浅濑神社",
+        "tags": [
+            "Seirai Island",
+            "Inazuma"
+        ]
+    },
+    "Asipattravana Swamp": {
+        "Chinese_name": "锋刃林泽",
+        "tags": [
+            "Realm of Farakhkert",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Autake Plains": {
+        "Chinese_name": "逢岳之野",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Bourou Village": {
+        "Chinese_name": "望泷村",
+        "tags": [
+            "Watatsumi Island",
+            "Inazuma"
+        ]
+    },
+    "Brightcrown Canyon": {
+        "Chinese_name": "明冠峡",
+        "tags": [
+            "Brightcrown Mountains",
+            "Mondstadt"
+        ]
+    },
+    "Broken Isle": {
+        "Chinese_name": "破破岛",
+        "tags": [
+            "Golden Apple Archipelago"
+        ]
+    },
+    "Byakko Plain": {
+        "Chinese_name": "白狐之野",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Cape Oath": {
+        "Chinese_name": "誓言岬",
+        "tags": [
+            "Galesong Hill",
+            "Mondstadt"
+        ]
+    },
+    "Caravan Ribat": {
+        "Chinese_name": "喀万驿",
+        "tags": [
+            "Ashavan Realm",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Central Laboratory Ruins": {
+        "Chinese_name": "中央实验室遗址",
+        "tags": [
+            "Fontaine Research Institute of Kinetic Energy Engineering Region",
+            "Fontaine"
+        ]
+    },
+    "Chatrakam Cave": {
+        "Chinese_name": "茸蕈窟",
+        "tags": [
+            "Lokapala Jungle",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Chemin de L'Espoir": {
+        "Chinese_name": "希望之路",
+        "tags": [
+            "Source of All Waters: The Great Fontaine Lake"
+        ]
+    },
+    "Chinju Forest": {
+        "Chinese_name": "镇守之森",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Chinvat Ravine": {
+        "Chinese_name": "离渡谷",
+        "tags": [
+            "Avidya Forest",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Chirai Shrine": {
+        "Chinese_name": "千来神祠",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Cider Lake": {
+        "Chinese_name": "果酒湖",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Cinnabar Cliff": {
+        "Chinese_name": "丹砂崖",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Court of Fontaine": {
+        "Chinese_name": "枫丹廷",
+        "tags": [
+            "Court of Fontaine Region",
+            "Fontaine"
+        ]
+    },
+    "Cuijue Slope": {
+        "Chinese_name": "翠玦坡",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Dadaupa Gorge": {
+        "Chinese_name": "达达乌帕谷",
+        "tags": [
+            "Galesong Hill",
+            "Mondstadt"
+        ]
+    },
+    "Dainichi Mikoshi": {
+        "Chinese_name": "大日御舆",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "Dar al-Shifa": {
+        "Chinese_name": "活力之家",
+        "tags": [
+            "Land of Lower Setekh",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Dawn Winery": {
+        "Chinese_name": "晨曦酒庄",
+        "tags": [
+            "Windwail Highland",
+            "Mondstadt"
+        ]
+    },
+    "Debris of Panjvahe": {
+        "Chinese_name": "「五绿洲」的孑遗",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Devantaka Mountain": {
+        "Chinese_name": "降诸魔山",
+        "tags": [
+            "Ardravi Valley",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Dihua Marsh": {
+        "Chinese_name": "荻花洲",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Dunes of Steel": {
+        "Chinese_name": "镔铁沙丘",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Dunyu Ruins": {
+        "Chinese_name": "遁玉陵",
+        "tags": [
+            "Lisha",
+            "Liyue"
+        ]
+    },
+    "East Slopes of Mont Automnequi": {
+        "Chinese_name": "秋分山东侧",
+        "tags": [
+            "Morte Region",
+            "Fontaine"
+        ]
+    },
+    "Elton Trench": {
+        "Chinese_name": "埃尔顿海沟",
+        "tags": [
+            "Source of All Waters: The Great Fontaine Lake"
+        ]
+    },
+    "Elynas": {
+        "Chinese_name": "厄里那斯",
+        "tags": [
+            "Beryl Region",
+            "Fontaine"
+        ]
+    },
+    "Entombed City - Ancient Palace": {
+        "Chinese_name": "雪葬之都・旧宫",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Entombed City - Outskirts": {
+        "Chinese_name": "雪葬之都・近郊",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Evernight Temple": {
+        "Chinese_name": "常夜灵庙",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "Falcon Coast": {
+        "Chinese_name": "鹰翔海滩",
+        "tags": [
+            "Galesong Hill",
+            "Mondstadt"
+        ]
+    },
+    "Fane of Ashvattha": {
+        "Chinese_name": "觉王之殿",
+        "tags": [
+            "Vissudha Field",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Foggy Forest Path": {
+        "Chinese_name": "幽林雾道",
+        "tags": [
+            "Erinnyes Forest",
+            "Fontaine"
+        ]
+    },
+    "Fort Charybdis Ruins": {
+        "Chinese_name": "卡布狄斯堡遗迹",
+        "tags": [
+            "Morte Region",
+            "Fontaine"
+        ]
+    },
+    "Fort Fujitou": {
+        "Chinese_name": "藤兜砦",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Fort Hiraumi": {
+        "Chinese_name": "平海砦",
+        "tags": [
+            "Seirai Island",
+            "Inazuma"
+        ]
+    },
+    "Fort Mumei": {
+        "Chinese_name": "无明砦",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Fortress of Meropide": {
+        "Chinese_name": "梅洛彼得堡",
+        "tags": [
+            "Fortress of Meropide: Reception AreaFortress of Meropide: Dormitory BlockFortress of Meropide: Administrative AreaFortress of Meropide: Production Zone Upper LevelFortress of Meropide: Production Zone Lower LevelFortress of Meropide: Abandoned Production Zone"
+        ]
+    },
+    "Fountain of Lucine": {
+        "Chinese_name": "露景泉",
+        "tags": [
+            "Court of Fontaine Region",
+            "Fontaine"
+        ]
+    },
+    "Fuao Vale": {
+        "Chinese_name": "伏鳌谷",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Gandha Hill": {
+        "Chinese_name": "香醉坡",
+        "tags": [
+            "Avidya Forest",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Gandharva Ville": {
+        "Chinese_name": "化城郭",
+        "tags": [
+            "Avidya Forest",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Gate of Zulqarnain": {
+        "Chinese_name": "阻勒隘",
+        "tags": [
+            "Gavireh Lajavard",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Glaze Peak": {
+        "Chinese_name": "琉璃峰",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Grand Narukami Shrine": {
+        "Chinese_name": "鸣神大社",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Guili Plains": {
+        "Chinese_name": "归离原",
+        "tags": [
+            "Qiongji Estuary",
+            "Liyue"
+        ]
+    },
+    "Guyun Stone Forest": {
+        "Chinese_name": "孤云阁",
+        "tags": [
+            "Sea of Clouds",
+            "Liyue"
+        ]
+    },
+    "Higi Village": {
+        "Chinese_name": "绯木村",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Hills of Barsom": {
+        "Chinese_name": "跋松顶",
+        "tags": [
+            "Realm of Farakhkert",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Huaguang Stone Forest": {
+        "Chinese_name": "华光林",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Inazuma City": {
+        "Chinese_name": "稻妻城",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Institute of Natural Philosophy": {
+        "Chinese_name": "自然哲学学院",
+        "tags": [
+            "Submerged Ruins: OutskirtsSubmerged Ruins: Central QuartierSubmerged Ruins: Northern Quartier"
+        ]
+    },
+    "Jakotsu Mine": {
+        "Chinese_name": "蛇骨矿洞",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Jinren Island": {
+        "Chinese_name": "刃连岛",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Jueyun Karst": {
+        "Chinese_name": "绝云间",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Kamisato Estate": {
+        "Chinese_name": "神里屋敷",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Khaj-Nisut": {
+        "Chinese_name": "圣显厅",
+        "tags": [
+            "Land of Lower Setekh",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Khemenu Temple": {
+        "Chinese_name": "秘仪圣殿",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Konda Village": {
+        "Chinese_name": "绀田村",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Koseki Village": {
+        "Chinese_name": "越石村",
+        "tags": [
+            "Seirai Island",
+            "Inazuma"
+        ]
+    },
+    "Kujou Encampment": {
+        "Chinese_name": "九条阵屋",
+        "tags": [
+            "Kannazuka",
+            "Inazuma"
+        ]
+    },
+    "Kunado's Locus": {
+        "Chinese_name": "歧之地",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "Lingju Pass": {
+        "Chinese_name": "灵矩关",
+        "tags": [
+            "Lisha",
+            "Liyue"
+        ]
+    },
+    "Liyue Harbor": {
+        "Chinese_name": "璃月港",
+        "tags": [
+            "Sea of Clouds",
+            "Liyue"
+        ]
+    },
+    "Loch Urania": {
+        "Chinese_name": "优兰尼娅湖",
+        "tags": [
+            "Erinnyes Forest",
+            "Fontaine"
+        ]
+    },
+    "Luhua Pool": {
+        "Chinese_name": "渌华池",
+        "tags": [
+            "Qiongji Estuary",
+            "Liyue"
+        ]
+    },
+    "Lumberpick Valley": {
+        "Chinese_name": "采樵谷",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Lumidouce Harbor": {
+        "Chinese_name": "柔灯港",
+        "tags": [
+            "Erinnyes Forest",
+            "Fontaine"
+        ]
+    },
+    "Marcotte Station": {
+        "Chinese_name": "茉洁站",
+        "tags": [
+            "Court of Fontaine Region",
+            "Fontaine"
+        ]
+    },
+    "Mawtiyima Forest": {
+        "Chinese_name": "无郁稠林",
+        "tags": [
+            "Lokapala Jungle",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Merusea Village": {
+        "Chinese_name": "海沫村",
+        "tags": [
+            "Within Elynas: Northern Zone"
+        ]
+    },
+    "Minacious Isle": {
+        "Chinese_name": "危危岛",
+        "tags": [
+            "Golden Apple Archipelago"
+        ]
+    },
+    "Mingyun Village": {
+        "Chinese_name": "明蕴镇",
+        "tags": [
+            "Qiongji Estuary",
+            "Liyue"
+        ]
+    },
+    "Mondstadt City": {
+        "Chinese_name": "蒙德城",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Mont Esus East": {
+        "Chinese_name": "芒索斯山东麓",
+        "tags": [
+            "Liffey Region",
+            "Fontaine"
+        ]
+    },
+    "Moshiri Ceremonial Site": {
+        "Chinese_name": "茂知祭场",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Mouun Shrine": {
+        "Chinese_name": "曚云神社",
+        "tags": [
+            "Watatsumi Island",
+            "Inazuma"
+        ]
+    },
+    "Mt. Aocang": {
+        "Chinese_name": "奥藏山",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Mt. Damavand": {
+        "Chinese_name": "达马山",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Mt. Hulao": {
+        "Chinese_name": "琥牢山",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Mt. Kanna": {
+        "Chinese_name": "菅名山",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Mt. Tianheng": {
+        "Chinese_name": "天衡山",
+        "tags": [
+            "Sea of Clouds",
+            "Liyue"
+        ]
+    },
+    "Mt. Yougou": {
+        "Chinese_name": "影向山",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Musk Reef": {
+        "Chinese_name": "马斯克",
+        "tags": [
+            "Galesong Hill",
+            "Mondstadt"
+        ]
+    },
+    "Musoujin Gorge": {
+        "Chinese_name": "无想刃狭间",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Nameless Ruins": {
+        "Chinese_name": "无名遗迹",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "Nantianmen": {
+        "Chinese_name": "南天门",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Nazuchi Beach": {
+        "Chinese_name": "名椎滩",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "New Fontaine Research Institute": {
+        "Chinese_name": "新枫丹科学院",
+        "tags": [
+            "Fontaine Research Institute of Kinetic Energy Engineering Region",
+            "Fontaine"
+        ]
+    },
+    "Oina Beach": {
+        "Chinese_name": "笈名海滨",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Old Vanarana": {
+        "Chinese_name": "往昔的桓那兰那",
+        "tags": [
+            "Lost Nursery",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Opera Epiclese": {
+        "Chinese_name": "欧庇克莱歌剧院",
+        "tags": [
+            "Court of Fontaine Region",
+            "Fontaine"
+        ]
+    },
+    "Overgrown Valley": {
+        "Chinese_name": "蔓生溪谷",
+        "tags": [
+            "Veluriyam Mirage"
+        ]
+    },
+    "Pardis Dhyai": {
+        "Chinese_name": "禅那园",
+        "tags": [
+            "Ashavan Realm",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Passage of Ghouls": {
+        "Chinese_name": "亡者狭廊",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Pavilion of Hermits": {
+        "Chinese_name": "隐众游园",
+        "tags": [
+            "Veluriyam Mirage"
+        ]
+    },
+    "Poisson": {
+        "Chinese_name": "白淞镇",
+        "tags": [
+            "Belleau Region",
+            "Fontaine"
+        ]
+    },
+    "Port Ormos": {
+        "Chinese_name": "奥摩斯港",
+        "tags": [
+            "Ardravi Valley",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Pudding Isle": {
+        "Chinese_name": "布丁岛",
+        "tags": [
+            "Golden Apple Archipelago"
+        ]
+    },
+    "Qingce Village": {
+        "Chinese_name": "轻策庄",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Qingxu Pool": {
+        "Chinese_name": "青墟浦",
+        "tags": [
+            "Lisha",
+            "Liyue"
+        ]
+    },
+    "Qingyun Peak": {
+        "Chinese_name": "庆云顶",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Qusayr Al-Inkhida'": {
+        "Chinese_name": "愚妄行宫",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Ritou": {
+        "Chinese_name": "离岛",
+        "tags": [
+            "Narukami Island",
+            "Inazuma"
+        ]
+    },
+    "Romaritime Harbor": {
+        "Chinese_name": "海露港",
+        "tags": [
+            "Belleau Region",
+            "Fontaine"
+        ]
+    },
+    "Ruins of Dahri": {
+        "Chinese_name": "荼诃之座",
+        "tags": [
+            "Ashavan Realm",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Safhe Shatranj": {
+        "Chinese_name": "「神的棋盘」",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Sal Terrae": {
+        "Chinese_name": "地中之盐",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Salacia Plain": {
+        "Chinese_name": "塞洛海原",
+        "tags": [
+            "Source of All Waters: The Great Fontaine Lake"
+        ]
+    },
+    "Samudra Coast": {
+        "Chinese_name": "聚香海岸",
+        "tags": [
+            "Realm of Farakhkert",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Sangonomiya Shrine": {
+        "Chinese_name": "珊瑚宫",
+        "tags": [
+            "Watatsumi Island",
+            "Inazuma"
+        ]
+    },
+    "Serpent's Head": {
+        "Chinese_name": "蛇神之首",
+        "tags": [
+            "Yashiori Island",
+            "Inazuma"
+        ]
+    },
+    "Shirikoro Peak": {
+        "Chinese_name": "知比山",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Silver Bottle Courtyard": {
+        "Chinese_name": "银瓶庭院",
+        "tags": [
+            "Veluriyam Mirage"
+        ]
+    },
+    "Skyfrost Nail": {
+        "Chinese_name": "寒天之钉",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Snow-Covered Path": {
+        "Chinese_name": "覆雪之路",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Sobek Oasis": {
+        "Chinese_name": "丰饶绿洲",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Springvale": {
+        "Chinese_name": "清泉镇",
+        "tags": [
+            "Windwail Highland",
+            "Mondstadt"
+        ]
+    },
+    "Starfell Lake": {
+        "Chinese_name": "星落湖",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Starglow Cavern": {
+        "Chinese_name": "星荧洞窟",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Starsnatch Cliff": {
+        "Chinese_name": "摘星崖",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Stone Gate": {
+        "Chinese_name": "石门",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Stony Halls": {
+        "Chinese_name": "崎岖石厅",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "Stormbearer Mountains": {
+        "Chinese_name": "望风山地",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Stormbearer Point": {
+        "Chinese_name": "望风角",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Stormterror's Lair": {
+        "Chinese_name": "风龙废墟",
+        "tags": [
+            "Brightcrown Mountains",
+            "Mondstadt"
+        ]
+    },
+    "Suigetsu Pool": {
+        "Chinese_name": "水月池",
+        "tags": [
+            "Watatsumi Island",
+            "Inazuma"
+        ]
+    },
+    "Sumeru City": {
+        "Chinese_name": "须弥城",
+        "tags": [
+            "Avidya Forest",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Tanit Camps": {
+        "Chinese_name": "塔尼特露营地",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Tatarasuna": {
+        "Chinese_name": "踏鞴砂",
+        "tags": [
+            "Kannazuka",
+            "Inazuma"
+        ]
+    },
+    "Temir Mountains": {
+        "Chinese_name": "铁穆山",
+        "tags": [
+            "Gavireh Lajavard",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Thalatta Submarine Canyon": {
+        "Chinese_name": "塔拉塔海谷",
+        "tags": [
+            "Source of All Waters: The Great Fontaine Lake"
+        ]
+    },
+    "The Chasm's Maw": {
+        "Chinese_name": "巨渊之口",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "The Chasm: Main Mining Area": {
+        "Chinese_name": "巨渊主矿区",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "The Dune of Carouses": {
+        "Chinese_name": "饱饮之丘",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Dune of Elusion": {
+        "Chinese_name": "避让之丘",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Dune of Magma": {
+        "Chinese_name": "铄石之丘",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Glowing Narrows": {
+        "Chinese_name": "荧光狭道",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "The Mausoleum of King Deshret": {
+        "Chinese_name": "赤王陵",
+        "tags": [
+            "Hypostyle Desert",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Narrows": {
+        "Chinese_name": "狭间之街",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "The Palace of Alcazarzaray": {
+        "Chinese_name": "卡萨扎莱宫",
+        "tags": [
+            "Lokapala Jungle",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "The Sands of Al-Azif": {
+        "Chinese_name": "啁哳之沙",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Sands of Three Canals": {
+        "Chinese_name": "「三运河之地」",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "The Serpent's Bowels": {
+        "Chinese_name": "蛇肠之路",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "The Serpent's Cave": {
+        "Chinese_name": "巨蛇岩洞",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "The Serpent's Heart": {
+        "Chinese_name": "蛇心之地",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "The Surface": {
+        "Chinese_name": "地面矿区",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Thinkers' Theater": {
+        "Chinese_name": "寄想者剧场",
+        "tags": [
+            "Veluriyam Mirage"
+        ]
+    },
+    "Thousand Winds Temple": {
+        "Chinese_name": "千风神殿",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Tiangong Gorge": {
+        "Chinese_name": "天工峡",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
+    },
+    "Tianqiu Valley": {
+        "Chinese_name": "天遒谷",
+        "tags": [
+            "Minlin",
+            "Liyue"
+        ]
+    },
+    "Tunigi Hollow": {
+        "Chinese_name": "荼泥黑渊",
+        "tags": [
+            "Gavireh Lajavard",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Twinning Isle": {
+        "Chinese_name": "双双岛",
+        "tags": [
+            "Golden Apple Archipelago"
+        ]
+    },
+    "Underground Waterway": {
+        "Chinese_name": "地下水泽",
+        "tags": [
+            "The Chasm: Underground Mines",
+            "Liyue"
+        ]
+    },
+    "Valley of Dahri": {
+        "Chinese_name": "荼诃落谷",
+        "tags": [
+            "Land of Upper Setekh",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Vanarana": {
+        "Chinese_name": "桓那兰那",
+        "tags": [
+            "Vanarana",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Vimara Village": {
+        "Chinese_name": "维摩庄",
+        "tags": [
+            "Ardravi Valley",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Vourukasha Oasis": {
+        "Chinese_name": "甘露花海",
+        "tags": [
+            "Realm of Farakhkert",
+            "Girdle of the Sands",
+            "Sumeru"
+        ]
+    },
+    "Wadi Al-Majuj": {
+        "Chinese_name": "巨人峡谷",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Wakukau Shoal": {
+        "Chinese_name": "惑饲滩",
+        "tags": [
+            "Tsurumi Island",
+            "Inazuma"
+        ]
+    },
+    "Wangshu Inn": {
+        "Chinese_name": "望舒客栈",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Weeping Willow of the Lake": {
+        "Chinese_name": "湖中垂柳",
+        "tags": [
+            "Erinnyes Forest",
+            "Fontaine"
+        ]
+    },
+    "West Slopes of Mont Automnequi": {
+        "Chinese_name": "秋分山西侧",
+        "tags": [
+            "Belleau Region",
+            "Fontaine"
+        ]
+    },
+    "Whispering Woods": {
+        "Chinese_name": "低语森林",
+        "tags": [
+            "Starfell Valley",
+            "Mondstadt"
+        ]
+    },
+    "Windrise": {
+        "Chinese_name": "风起地",
+        "tags": [
+            "Galesong Hill",
+            "Mondstadt"
+        ]
+    },
+    "Wolvendom": {
+        "Chinese_name": "奔狼领",
+        "tags": [
+            "Windwail Highland",
+            "Mondstadt"
+        ]
+    },
+    "Wounded Shin Valley": {
+        "Chinese_name": "折胫谷",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Sumeru"
+        ]
+    },
+    "Wuwang Hill": {
+        "Chinese_name": "无妄坡",
+        "tags": [
+            "Bishui Plain",
+            "Liyue"
+        ]
+    },
+    "Wyrmrest Valley": {
+        "Chinese_name": "眠龙谷",
+        "tags": [
+            "Dragonspine",
+            "Mondstadt"
+        ]
+    },
+    "Yachimatahiko's Locus": {
+        "Chinese_name": "八衢彦之地",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "Yachimatahime's Locus": {
+        "Chinese_name": "八衢姬之地",
+        "tags": [
+            "Enkanomiya",
+            "Inazuma"
+        ]
+    },
+    "Yaoguang Shoal": {
+        "Chinese_name": "瑶光滩",
+        "tags": [
+            "Qiongji Estuary",
+            "Liyue"
+        ]
+    },
+    "Yasna Monument": {
+        "Chinese_name": "谒颂幽境",
+        "tags": [
+            "Ashavan Realm",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    },
+    "Yazadaha Pool": {
+        "Chinese_name": "天臂池",
+        "tags": [
+            "Avidya Forest",
+            "Dharma Forest",
+            "Sumeru"
+        ]
+    }
+}

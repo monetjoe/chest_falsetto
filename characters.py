@@ -12,7 +12,7 @@ def get_Chinese_char_name(char_url):
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup.find('span', lang='zh-Hans').text
 
-    print(f'Failed to get Chinese name of {char_url.split("/")[-1]}')
+    print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
     return ''
 
 
@@ -31,13 +31,14 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
             url = char_tds[0].find('a').get('href')
             name = url.split('/')[-1]
             element = char_tds[3].find('a').get('href').split('/')[-1]
+            weapon = char_tds[4].find('a').get('href').split('/')[-1]
             region = char_tds[5].find('a').get('href').split('/')[-1]
             gender = char_tds[6].find('a').get('href').split(
-                ':')[-1].replace('_Characters', '')
+                ':')[-1].replace('_Characters', '').replace('_', ' ')
 
             characters[name] = {
                 'Chinese_name': get_Chinese_char_name(url),
-                'tags': [element, region, gender]
+                'tags': [element, region, weapon, gender]
             }
 
     else:
@@ -53,4 +54,4 @@ if __name__ == "__main__":
         with open(CHARACTER_PATH, 'w', encoding='utf-8') as json_file:
             json.dump(char_dict, json_file, ensure_ascii=False)
 
-        print(f'Characters has been updated into {CHARACTER_PATH}.')
+        print(f'Characters have been updated into {CHARACTER_PATH}.')

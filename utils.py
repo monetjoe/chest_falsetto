@@ -1,3 +1,5 @@
+from urllib.parse import quote
+
 FORCE_UPD = True
 DATA_DIR = './data'
 CHARACTER_PATH = f'{DATA_DIR}/characters.json'
@@ -31,6 +33,10 @@ Teyvat = {
     'Snezhnaya': {
         'Chinese_name': '至冬',
         'tags': ['Cryo']
+    },
+    "Khaenri'ah": {
+        'Chinese_name': '坎瑞亚',
+        'tags': []
     }
 }
 
@@ -61,3 +67,19 @@ def trim_str_list(input_list):
     """
     result_list = [s.strip() for s in input_list]
     return result_list
+
+
+def merge_dicts(dict1, dict2):
+    """
+    Merge two dictionaries.
+
+    Parameters:
+    - dict1 (dict): The first dictionary.
+    - dict2 (dict): The second dictionary.
+
+    Returns:
+    - dict: The merged dictionary.
+    """
+    merged_dict = dict1.copy()
+    merged_dict.update(dict2)
+    return merged_dict

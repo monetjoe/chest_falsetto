@@ -19,7 +19,7 @@ def get_area_info(area_url):
             'tags': trim_str_list(tags)
         }
 
-    print(f'Failed to get Chinese name of {area_url.split("/")[-1]}')
+    print(f'\nFailed to get Chinese name of {area_url.split("/")[-1]}')
     return None
 
 
@@ -35,9 +35,9 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
             for area_div in tqdm(area_divs, desc=f'Updating areas {i+1}...'):
                 area_a = area_div.find(
                     'div', class_='lightbox-caption').find('a')
-                area_name = area_a.text.replace(' ', '_')
-                area_url = f'{DOMAIN}/wiki/{area_name}'
-                areas[area_name] = get_area_info(area_url)
+                area_name = area_a.text.strip()
+                area_url = f'{DOMAIN}/wiki/{quote(area_name)}'
+                areas[area_name.replace('"', '')] = get_area_info(area_url)
 
             i += 1
 
@@ -55,4 +55,4 @@ if __name__ == "__main__":
         with open(areas_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False)
 
-        print(f'Characters has been updated into {areas_path}.')
+        print(f'Areas have been updated into {areas_path}.')
