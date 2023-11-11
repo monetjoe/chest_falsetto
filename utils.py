@@ -1,3 +1,4 @@
+import os
 from urllib.parse import quote
 
 DOMAIN = 'https://genshin-impact.fandom.com'
@@ -47,7 +48,6 @@ Archon = {
 
 
 def create_dir(dirpath='./data'):
-    import os
     if not os.path.exists(dirpath):
         os.makedirs(dirpath)
 

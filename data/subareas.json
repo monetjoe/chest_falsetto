@@ -1,23 +1,26 @@
 {
-    "\"A Lonely Place\"": {
+    "A Lonely Place": {
         "Chinese_name": "「寂寞的地方」",
         "tags": [
-            "Within Elynas: Northern Zone"
+            "Beryl Region",
+            "Fontaine"
         ]
     },
-    "\"A Very Bright Place\"": {
+    "A Very Bright Place": {
         "Chinese_name": "「很明亮的地方」",
         "tags": [
-            "Within Elynas: Southern Zone"
+            "Beryl Region",
+            "Fontaine"
         ]
     },
-    "\"A Very Warm Place\"": {
+    "A Very Warm Place": {
         "Chinese_name": "「特别温暖的地方」",
         "tags": [
-            "Within Elynas: Northern Zone"
+            "Beryl Region",
+            "Fontaine"
         ]
     },
-    "\"Seiraimaru\"": {
+    "Seiraimaru": {
         "Chinese_name": "「清籁丸」",
         "tags": [
             "Seirai Island",
@@ -64,7 +67,8 @@
     "Annapausis": {
         "Chinese_name": "安眠处",
         "tags": [
-            "Annapausis"
+            "Court of Fontaine Region",
+            "Fontaine"
         ]
     },
     "Apam Woods": {
@@ -164,7 +168,8 @@
     "Chemin de L'Espoir": {
         "Chinese_name": "希望之路",
         "tags": [
-            "Source of All Waters: The Great Fontaine Lake"
+            "Court of Fontaine Region",
+            "Fontaine"
         ]
     },
     "Chinju Forest": {
@@ -294,7 +299,8 @@
     "Elton Trench": {
         "Chinese_name": "埃尔顿海沟",
         "tags": [
-            "Source of All Waters: The Great Fontaine Lake"
+            "Beryl Region",
+            "Fontaine"
         ]
     },
     "Elynas": {
@@ -378,7 +384,8 @@
     "Fortress of Meropide": {
         "Chinese_name": "梅洛彼得堡",
         "tags": [
-            "Fortress of Meropide: Reception AreaFortress of Meropide: Dormitory BlockFortress of Meropide: Administrative AreaFortress of Meropide: Production Zone Upper LevelFortress of Meropide: Production Zone Lower LevelFortress of Meropide: Abandoned Production Zone"
+            "Liffey Region",
+            "Fontaine"
         ]
     },
     "Fountain of Lucine": {
@@ -479,7 +486,8 @@
     "Institute of Natural Philosophy": {
         "Chinese_name": "自然哲学学院",
         "tags": [
-            "Submerged Ruins: OutskirtsSubmerged Ruins: Central QuartierSubmerged Ruins: Northern Quartier"
+            "Court of Fontaine Region",
+            "Fontaine"
         ]
     },
     "Jakotsu Mine": {
@@ -614,7 +622,8 @@
     "Merusea Village": {
         "Chinese_name": "海沫村",
         "tags": [
-            "Within Elynas: Northern Zone"
+            "Beryl Region",
+            "Fontaine"
         ]
     },
     "Minacious Isle": {
@@ -883,7 +892,8 @@
     "Salacia Plain": {
         "Chinese_name": "塞洛海原",
         "tags": [
-            "Source of All Waters: The Great Fontaine Lake"
+            "Court of Fontaine Region",
+            "Fontaine"
         ]
     },
     "Samudra Coast": {
@@ -1047,7 +1057,8 @@
     "Thalatta Submarine Canyon": {
         "Chinese_name": "塔拉塔海谷",
         "tags": [
-            "Source of All Waters: The Great Fontaine Lake"
+            "Court of Fontaine Region",
+            "Fontaine"
         ]
     },
     "The Chasm's Maw": {

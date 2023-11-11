@@ -1,4 +1,3 @@
-import os
 import json
 import requests
 from tqdm import tqdm
@@ -10,7 +9,15 @@ def get_Chinese_char_name(char_url):
     response = requests.get(f'{DOMAIN}{char_url}')
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        return soup.find('span', lang='zh-Hans').text
+        cname_tds = soup.find_all('small', string='(Simplified)')
+        cname = []
+        if len(cname_tds) > 0:
+            for cname_td in cname_tds:
+                cname.append(
+                    cname_td.find_next(name='span', lang='zh-Hans').text
+                )
+
+        return '/'.join(cname)
 
     print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
     return ''

@@ -1,4 +1,3 @@
-import os
 import json
 import requests
 from tqdm import tqdm
@@ -10,15 +9,27 @@ def get_area_info(area_url):
     response = requests.get(area_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        cname = soup.find('span', lang='zh-Hans').text
-        tags = soup.find_all(
-            name='div',
-            class_='pi-data-value',
-            limit=2
-        )[1].text.split(',')
+        cname_tds = soup.find_all('small', string='(Simplified)')
+        tags, cname = [], []
+        if len(cname_tds) > 0:
+            for cname_td in cname_tds:
+                cname.append(
+                    cname_td.find_next(name='span', lang='zh-Hans').text
+                )
+
+        loc_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string='Location'
+        )
+        if loc_h3:
+            tags += loc_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text.split(',')
 
         return {
-            'Chinese_name': cname,
+            'Chinese_name': '/'.join(cname),
             'tags': trim_str_list(tags)
         }
 

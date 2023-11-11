@@ -1,4 +1,3 @@
-import os
 import time
 import json
 import random
@@ -14,20 +13,24 @@ def get_song_info(song_url):
         response = requests.get(song_url)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
-            tags = []
-            cname = soup.find('span', lang='zh-Hans')
-            if cname:
-                cname = cname.text
-            else:
-                cname = ''
+            cname_tds = soup.find_all('small', string='(Simplified)')
+            tags, cname = [], []
+            if len(cname_tds) > 0:
+                for cname_td in cname_tds:
+                    cname.append(
+                        cname_td.find_next(name='span', lang='zh-Hans').text
+                    )
 
-            play_h3 = soup.find(
+            loc_h3 = soup.find(
                 name='h3',
                 class_='pi-data-label',
                 string='Played In'
             )
-            if play_h3:
-                tags.append(play_h3.find_next('div').text)
+            if loc_h3:
+                tags += loc_h3.find_next(
+                    name='div',
+                    class_='pi-data-value'
+                ).text.split(',')
 
             album_h3 = soup.find(
                 name='h3',
@@ -35,7 +38,12 @@ def get_song_info(song_url):
                 string='Album'
             )
             if album_h3:
-                tags.append(album_h3.find_next('div').text)
+                tags.append(
+                    album_h3.find_next(
+                        name='div',
+                        class_='pi-data-value'
+                    ).text
+                )
 
             feature_h3 = soup.find(
                 name='h3',
@@ -43,10 +51,15 @@ def get_song_info(song_url):
                 string='Featured in'
             )
             if feature_h3:
-                tags.append(feature_h3.find_next('div').text)
+                tags.append(
+                    feature_h3.find_next(
+                        name='div',
+                        class_='pi-data-value'
+                    ).text
+                )
 
             return {
-                'Chinese_name': cname,
+                'Chinese_name': '/'.join(cname),
                 'tags': trim_str_list(tags)
             }
 
