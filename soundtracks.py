@@ -6,60 +6,87 @@ from bs4 import BeautifulSoup
 from utils import *
 
 
-def get_song_info(subarea_url):
-    response = requests.get(subarea_url)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        cname = soup.find('span', lang='zh-Hans').text
-        tags = soup.find_all(
-            name='div',
-            class_='pi-data-value',
-            limit=2
-        )[1].text.split(',')
+def get_song_info(song_url):
+    try:
+        response = requests.get(song_url)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            tags = []
+            cname = soup.find('span', lang='zh-Hans')
+            if cname:
+                cname = cname.text
+            else:
+                cname = ''
 
-        return {
-            'Chinese_name': cname,
-            'tags': trim_str_list(tags)
-        }
+            play_h3 = soup.find(
+                name='h3',
+                class_='pi-data-label',
+                string='Played In'
+            )
+            if play_h3:
+                tags.append(play_h3.find_next('div').text)
 
-    print(f'\nFailed to get Chinese name of {subarea_url.split("/")[-1]}')
+            album_h3 = soup.find(
+                name='h3',
+                class_='pi-data-label',
+                string='Album'
+            )
+            if album_h3:
+                tags.append(album_h3.find_next('div').text)
+
+            feature_h3 = soup.find(
+                name='h3',
+                class_='pi-data-label',
+                string='Featured in'
+            )
+            if feature_h3:
+                tags.append(feature_h3.find_next('div').text)
+
+            return {
+                'Chinese_name': cname,
+                'tags': trim_str_list(tags)
+            }
+
+        print(f'Failed to get Chinese name of {song_url.split("/")[-1]}')
+
+    except requests.RequestException as e:
+        print(f'Error making request of {song_url.split("/")[-1]} : {e}')
+
     return None
 
 
-def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtracks"):
-    subareas = {}
+def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
+    soundtracks = {}
     response = requests.get(page_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        subareas_div = soup.find('div', class_='category-page__members')
-        subarea_as = subareas_div.find_all(
+        songs_div = soup.find('div', class_='category-page__members')
+        song_as = songs_div.find_all(
             name='a',
             class_='category-page__member-link'
         )
-        for subarea_a in tqdm(subarea_as, desc='Updating subareas...'):
-            subarea_name = subarea_a.get('title').split('/')[0]
-            subarea_url = f"{DOMAIN}/wiki/{quote(subarea_name)}"
-            subareas[subarea_name.replace('"', '')] = get_song_info(
-                subarea_url
-            )
+        for song_a in tqdm(song_as, desc='Updating soundtracks...'):
+            song_name = song_a.get('title').strip()
+            song_url = f"{DOMAIN}{song_a.get('href')}"
+            soundtracks[song_name] = get_song_info(song_url)
 
         nextpage = soup.find('a', class_='category-page__pagination-next')
         if nextpage:
             nextpage_url = nextpage.get('href')
-            subareas = merge_dicts(subareas, get_songs(nextpage_url))
+            soundtracks = merge_dicts(soundtracks, get_songs(nextpage_url))
 
     else:
         print(f'Failed to request {page_url} : HTTP {response.status_code}')
 
-    return subareas
+    return soundtracks
 
 
 if __name__ == "__main__":
-    subareas_path = './data/subareas.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(subareas_path))):
+    soundtrack_path = './data/soundtracks.json'
+    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(soundtrack_path))):
         create_dir(DATA_DIR)
-        area_dict = get_songs()
-        with open(subareas_path, 'w', encoding='utf-8') as json_file:
-            json.dump(area_dict, json_file, ensure_ascii=False)
+        soundtrack_dict = get_songs()
+        with open(soundtrack_path, 'w', encoding='utf-8') as json_file:
+            json.dump(soundtrack_dict, json_file, ensure_ascii=False)
 
-        print(f'Subareas have been updated into {subareas_path}.')
+        print(f'Soundtracks have been updated into {soundtrack_path}.')

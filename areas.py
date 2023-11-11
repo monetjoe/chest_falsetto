@@ -37,7 +37,9 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
             area_divs = areas_div.find_all('div', class_='wikia-gallery-item')
             for area_div in tqdm(area_divs, desc=f'Updating areas {i+1}...'):
                 area_a = area_div.find(
-                    'div', class_='lightbox-caption').find('a')
+                    name='div',
+                    class_='lightbox-caption'
+                ).find('a')
                 area_name = area_a.text.strip()
                 area_url = f'{DOMAIN}/wiki/{quote(area_name)}'
                 areas[area_name.replace('"', '')] = get_area_info(area_url)
