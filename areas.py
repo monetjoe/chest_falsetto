@@ -52,12 +52,15 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
     return areas
 
 
-if __name__ == "__main__":
-    areas_path = './data/areas.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(areas_path))):
-        create_dir(DATA_DIR)
+def save_areas(areas_path='./data/areas.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(areas_path))):
         area_dict = get_areas()
         with open(areas_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False)
 
         print(f'Areas have been updated into {areas_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_areas()

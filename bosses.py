@@ -47,12 +47,15 @@ def get_bosses(page_url=f"{DOMAIN}/wiki/Weekly_Boss"):
     return weeklybosses
 
 
-if __name__ == "__main__":
-    points_path = './data/bosses.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(points_path))):
-        create_dir(DATA_DIR)
+def save_weekly_bosses(boss_path='./data/bosses.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(boss_path))):
         area_dict = get_bosses()
-        with open(points_path, 'w', encoding='utf-8') as json_file:
+        with open(boss_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False)
 
-        print(f'Weekly bosses have been updated into {points_path}.')
+        print(f'Weekly bosses have been updated into {boss_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_weekly_bosses()

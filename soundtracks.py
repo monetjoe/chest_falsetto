@@ -91,12 +91,15 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
     return soundtracks
 
 
-if __name__ == "__main__":
-    soundtrack_path = './data/soundtracks.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(soundtrack_path))):
-        create_dir(DATA_DIR)
+def save_soundtracks(soundtrack_path='./data/soundtracks.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(soundtrack_path))):
         soundtrack_dict = get_songs()
         with open(soundtrack_path, 'w', encoding='utf-8') as json_file:
             json.dump(soundtrack_dict, json_file, ensure_ascii=False)
 
         print(f'Soundtracks have been updated into {soundtrack_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_soundtracks()

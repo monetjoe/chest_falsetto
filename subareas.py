@@ -54,12 +54,15 @@ def get_subareas(page_url=f"{DOMAIN}/wiki/Category:Subareas"):
     return subareas
 
 
-if __name__ == "__main__":
-    subareas_path = './data/subareas.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(subareas_path))):
-        create_dir(DATA_DIR)
+def save_subareas(subareas_path='./data/subareas.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(subareas_path))):
         area_dict = get_subareas()
         with open(subareas_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False)
 
         print(f'Subareas have been updated into {subareas_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_subareas()

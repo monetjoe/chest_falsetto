@@ -56,7 +56,7 @@ def get_title(response, url, substr='file_score_title":"'):
     return None
 
 
-def download(urls: dict, save_folder=f"{DATA_DIR}/genshin", tags=[]):
+def download(urls: dict, save_folder="./data/genshin", tags=[]):
     create_dir(save_folder)
     for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])

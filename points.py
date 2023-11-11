@@ -32,39 +32,42 @@ def get_point_info(point_url):
 
 
 def get_points(page_url=f"{DOMAIN}/wiki/Category:Points_of_Interest"):
-    subareas = {}
+    points = {}
     response = requests.get(page_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        subareas_div = soup.find('div', class_='category-page__members')
-        subarea_as = subareas_div.find_all(
+        points_div = soup.find('div', class_='category-page__members')
+        point_as = points_div.find_all(
             name='a',
             class_='category-page__member-link'
         )
-        for subarea_a in tqdm(subarea_as, desc='Updating points of interest...'):
-            subarea_name = subarea_a.get('title').split('/')[0]
-            subarea_url = f"{DOMAIN}/wiki/{quote(subarea_name)}"
-            subareas[subarea_name.replace('"', '')] = get_point_info(
-                subarea_url
+        for point_a in tqdm(point_as, desc='Updating points of interest...'):
+            point_name = point_a.get('title').split('/')[0]
+            point_url = f"{DOMAIN}/wiki/{quote(point_name)}"
+            points[point_name.replace('"', '')] = get_point_info(
+                point_url
             )
 
         nextpage = soup.find('a', class_='category-page__pagination-next')
         if nextpage:
             nextpage_url = nextpage.get('href')
-            subareas = merge_dicts(subareas, get_points(nextpage_url))
+            points = merge_dicts(points, get_points(nextpage_url))
 
     else:
         print(f'\nFailed to request {page_url} : HTTP {response.status_code}')
 
-    return subareas
+    return points
 
 
-if __name__ == "__main__":
-    points_path = './data/points.json'
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(points_path))):
-        create_dir(DATA_DIR)
+def save_points_of_interest(points_path='./data/points.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(points_path))):
         area_dict = get_points()
         with open(points_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False)
 
         print(f'Points of interest have been updated into {points_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_points_of_interest()

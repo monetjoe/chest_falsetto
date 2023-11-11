@@ -1,8 +1,5 @@
 from urllib.parse import quote
 
-FORCE_UPD = True
-DATA_DIR = './data'
-CHARACTER_PATH = f'{DATA_DIR}/characters.json'
 DOMAIN = 'https://genshin-impact.fandom.com'
 
 Teyvat = {
@@ -49,7 +46,7 @@ Archon = {
 }
 
 
-def create_dir(dirpath):
+def create_dir(dirpath='./data'):
     import os
     if not os.path.exists(dirpath):
         os.makedirs(dirpath)

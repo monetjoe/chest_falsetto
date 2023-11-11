@@ -47,11 +47,15 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
     return characters
 
 
-if __name__ == "__main__":
-    if FORCE_UPD or ((not FORCE_UPD) and (not os.path.exists(CHARACTER_PATH))):
-        create_dir(DATA_DIR)
+def save_characters(character_path=f'./data/characters.json', force_upd=True):
+    if force_upd or ((not force_upd) and (not os.path.exists(character_path))):
         char_dict = get_characters()
-        with open(CHARACTER_PATH, 'w', encoding='utf-8') as json_file:
+        with open(character_path, 'w', encoding='utf-8') as json_file:
             json.dump(char_dict, json_file, ensure_ascii=False)
 
-        print(f'Characters have been updated into {CHARACTER_PATH}.')
+        print(f'Characters have been updated into {character_path}.')
+
+
+if __name__ == "__main__":
+    create_dir()
+    save_characters()
