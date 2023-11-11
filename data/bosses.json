@@ -1,0 +1,65 @@
+{
+    "Andrius": {
+        "Chinese_name": "北风的王狼，奔狼的领主",
+        "tags": [
+            "Wolvendom",
+            "Mondstadt"
+        ]
+    },
+    "Stormterror Dvalin": {
+        "Chinese_name": "裂空的魔龙",
+        "tags": [
+            "Stormterror's Lair",
+            "Mondstadt"
+        ]
+    },
+    "Childe": {
+        "Chinese_name": "「公子」",
+        "tags": [
+            "Golden House",
+            "Liyue"
+        ]
+    },
+    "Azhdaha": {
+        "Chinese_name": "若陀龙王",
+        "tags": [
+            "Nantianmen",
+            "Liyue"
+        ]
+    },
+    "La Signora": {
+        "Chinese_name": "焚尽的炽炎魔女",
+        "tags": [
+            "Tenshukaku",
+            "Inazuma"
+        ]
+    },
+    "Magatsu Mitake Narukami no Mikoto": {
+        "Chinese_name": "祸津御建鸣神命",
+        "tags": [
+            "Grand Narukami Shrine",
+            "Inazuma"
+        ]
+    },
+    "Everlasting Lord of Arcane Wisdom": {
+        "Chinese_name": "「正机之神」",
+        "tags": [
+            "Chinvat Ravine",
+            "Sumeru"
+        ]
+    },
+    "Guardian of Apep's Oasis": {
+        "Chinese_name": "阿佩普的绿洲守望者",
+        "tags": [
+            "Desert of Hadramaveth",
+            "Sumeru"
+        ]
+    },
+    "All-Devouring Narwhal": {
+        "Chinese_name": "吞星之鲸",
+        "tags": [
+            "Salacia Plain",
+            "Fontaine"
+        ]
+    }
+}

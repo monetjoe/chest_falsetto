@@ -11,8 +11,11 @@ def get_area_info(area_url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname = soup.find('span', lang='zh-Hans').text
-        tags = soup.find_all('div', class_='pi-data-value',
-                             limit=2)[1].text.split(',')
+        tags = soup.find_all(
+            name='div',
+            class_='pi-data-value',
+            limit=2
+        )[1].text.split(',')
 
         return {
             'Chinese_name': cname,

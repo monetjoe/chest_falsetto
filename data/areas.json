@@ -1,5 +1,5 @@
 {
-    "Brightcrown_Mountains": {
+    "Brightcrown Mountains": {
         "Chinese_name": "明冠山地",
         "tags": [
             "Mondstadt"
@@ -11,25 +11,25 @@
             "Mondstadt"
         ]
     },
-    "Galesong_Hill": {
+    "Galesong Hill": {
         "Chinese_name": "风啸山坡",
         "tags": [
             "Mondstadt"
         ]
     },
-    "Starfell_Valley": {
+    "Starfell Valley": {
         "Chinese_name": "坠星山谷",
         "tags": [
             "Mondstadt"
         ]
     },
-    "Windwail_Highland": {
+    "Windwail Highland": {
         "Chinese_name": "苍风高地",
         "tags": [
             "Mondstadt"
         ]
     },
-    "Bishui_Plain": {
+    "Bishui Plain": {
         "Chinese_name": "碧水原",
         "tags": [
             "Liyue"
@@ -47,26 +47,26 @@
             "Liyue"
         ]
     },
-    "Qiongji_Estuary": {
+    "Qiongji Estuary": {
         "Chinese_name": "琼玑野",
         "tags": [
             "Liyue"
         ]
     },
-    "Sea_of_Clouds": {
+    "Sea of Clouds": {
         "Chinese_name": "云来海",
         "tags": [
             "Liyue"
         ]
     },
-    "The_Chasm": {
+    "The Chasm": {
         "Chinese_name": "层岩巨渊",
         "tags": [
             "The Chasm",
             "Liyue"
         ]
     },
-    "The_Chasm:_Underground_Mines": {
+    "The Chasm: Underground Mines": {
         "Chinese_name": "地下矿区",
         "tags": [
             "The Chasm",
@@ -85,65 +85,65 @@
             "Inazuma"
         ]
     },
-    "Narukami_Island": {
+    "Narukami Island": {
         "Chinese_name": "鸣神岛",
         "tags": [
             "Inazuma"
         ]
     },
-    "Seirai_Island": {
+    "Seirai Island": {
         "Chinese_name": "清籁岛",
         "tags": [
             "Inazuma"
         ]
     },
-    "Tsurumi_Island": {
+    "Tsurumi Island": {
         "Chinese_name": "鹤观",
         "tags": [
             "Inazuma"
         ]
     },
-    "Watatsumi_Island": {
+    "Watatsumi Island": {
         "Chinese_name": "海祇岛",
         "tags": [
             "Inazuma"
         ]
     },
-    "Yashiori_Island": {
+    "Yashiori Island": {
         "Chinese_name": "八酝岛",
         "tags": [
             "Inazuma"
         ]
     },
-    "Ardravi_Valley": {
+    "Ardravi Valley": {
         "Chinese_name": "阿陀河谷",
         "tags": [
             "Dharma Forest",
             "Sumeru"
         ]
     },
-    "Ashavan_Realm": {
+    "Ashavan Realm": {
         "Chinese_name": "善见",
         "tags": [
             "Dharma Forest",
             "Sumeru"
         ]
     },
-    "Avidya_Forest": {
+    "Avidya Forest": {
         "Chinese_name": "道成林",
         "tags": [
             "Dharma Forest",
             "Sumeru"
         ]
     },
-    "Lokapala_Jungle": {
+    "Lokapala Jungle": {
         "Chinese_name": "护世森",
         "tags": [
             "Dharma Forest",
             "Sumeru"
         ]
     },
-    "Lost_Nursery": {
+    "Lost Nursery": {
         "Chinese_name": "失落的苗圃",
         "tags": [
             "Dharma Forest",
@@ -158,110 +158,110 @@
             "Sumeru"
         ]
     },
-    "Vissudha_Field": {
+    "Vissudha Field": {
         "Chinese_name": "二净甸",
         "tags": [
             "Dharma Forest",
             "Sumeru"
         ]
     },
-    "Desert_of_Hadramaveth": {
+    "Desert of Hadramaveth": {
         "Chinese_name": "千壑沙地",
         "tags": [
             "Great Red Sand",
             "Sumeru"
         ]
     },
-    "Hypostyle_Desert": {
+    "Hypostyle Desert": {
         "Chinese_name": "列柱沙原",
         "tags": [
             "Great Red Sand",
             "Sumeru"
         ]
     },
-    "Land_of_Lower_Setekh": {
+    "Land of Lower Setekh": {
         "Chinese_name": "下风蚀地",
         "tags": [
             "Great Red Sand",
             "Sumeru"
         ]
     },
-    "Land_of_Upper_Setekh": {
+    "Land of Upper Setekh": {
         "Chinese_name": "上风蚀地",
         "tags": [
             "Great Red Sand",
             "Sumeru"
         ]
     },
-    "Gavireh_Lajavard": {
+    "Gavireh Lajavard": {
         "Chinese_name": "荒石苍漠",
         "tags": [
             "Girdle of the Sands",
             "Sumeru"
         ]
     },
-    "Realm_of_Farakhkert": {
+    "Realm of Farakhkert": {
         "Chinese_name": "浮罗囿",
         "tags": [
             "Girdle of the Sands",
             "Sumeru"
         ]
     },
-    "Belleau_Region": {
+    "Belleau Region": {
         "Chinese_name": "白露区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Beryl_Region": {
+    "Beryl Region": {
         "Chinese_name": "苍晶区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Court_of_Fontaine_Region": {
+    "Court of Fontaine Region": {
         "Chinese_name": "枫丹廷区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Erinnyes_Forest": {
+    "Erinnyes Forest": {
         "Chinese_name": "伊黎耶林区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region": {
+    "Fontaine Research Institute of Kinetic Energy Engineering Region": {
         "Chinese_name": "枫丹动能工程科学研究院区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Liffey_Region": {
+    "Liffey Region": {
         "Chinese_name": "黎翡区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Morte_Region": {
+    "Morte Region": {
         "Chinese_name": "莫尔泰区",
         "tags": [
             "Fontaine"
         ]
     },
-    "Golden_Apple_Archipelago": {
+    "Golden Apple Archipelago": {
         "Chinese_name": "金苹果群岛",
         "tags": [
             "Midsummer Island AdventureSummertime Odyssey"
         ]
     },
-    "Three_Realms_Gateway_Offering": {
+    "Three Realms Gateway Offering": {
         "Chinese_name": "三界路飨祭",
         "tags": [
             "Official AnnouncementGameplay Details"
         ]
     },
-    "Veluriyam_Mirage": {
+    "Veluriyam Mirage": {
         "Chinese_name": "琉形蜃境",
         "tags": [
             "Secret Summer Paradise"

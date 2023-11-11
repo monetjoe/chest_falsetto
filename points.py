@@ -11,14 +11,16 @@ def get_point_info(point_url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname = soup.find('span', lang='zh-Hans')
-        if cname == None:
+        if cname:
+            cname = cname.text
+        else:
             cname = ''
 
-        else:
-            cname = cname.text
-
-        tags = soup.find_all('div', class_='pi-data-value',
-                             limit=2)[1].text.split(',')
+        tags = soup.find_all(
+            name='div',
+            class_='pi-data-value',
+            limit=2
+        )[1].text.split(',')
 
         return {
             'Chinese_name': cname,
@@ -36,12 +38,15 @@ def get_points(page_url=f"{DOMAIN}/wiki/Category:Points_of_Interest"):
         soup = BeautifulSoup(response.text, 'html.parser')
         subareas_div = soup.find('div', class_='category-page__members')
         subarea_as = subareas_div.find_all(
-            'a', class_='category-page__member-link')
+            name='a',
+            class_='category-page__member-link'
+        )
         for subarea_a in tqdm(subarea_as, desc='Updating points of interest...'):
             subarea_name = subarea_a.get('title').split('/')[0]
             subarea_url = f"{DOMAIN}/wiki/{quote(subarea_name)}"
-            subareas[subarea_name.replace(
-                '"', '')] = get_point_info(subarea_url)
+            subareas[subarea_name.replace('"', '')] = get_point_info(
+                subarea_url
+            )
 
         nextpage = soup.find('a', class_='category-page__pagination-next')
         if nextpage:

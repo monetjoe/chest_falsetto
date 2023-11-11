@@ -11,8 +11,11 @@ def get_subarea_info(subarea_url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname = soup.find('span', lang='zh-Hans').text
-        tags = soup.find_all('div', class_='pi-data-value',
-                             limit=2)[1].text.split(',')
+        tags = soup.find_all(
+            name='div',
+            class_='pi-data-value',
+            limit=2
+        )[1].text.split(',')
 
         return {
             'Chinese_name': cname,
@@ -30,12 +33,20 @@ def get_subareas(page_url=f"{DOMAIN}/wiki/Category:Subareas"):
         soup = BeautifulSoup(response.text, 'html.parser')
         subareas_div = soup.find('div', class_='category-page__members')
         subarea_as = subareas_div.find_all(
-            'a', class_='category-page__member-link')
+            name='a',
+            class_='category-page__member-link'
+        )
         for subarea_a in tqdm(subarea_as, desc='Updating subareas...'):
             subarea_name = subarea_a.get('title').split('/')[0]
             subarea_url = f"{DOMAIN}/wiki/{quote(subarea_name)}"
-            subareas[subarea_name.replace(
-                '"', '')] = get_subarea_info(subarea_url)
+            subareas[subarea_name.replace('"', '')] = get_subarea_info(
+                subarea_url
+            )
+
+        nextpage = soup.find('a', class_='category-page__pagination-next')
+        if nextpage:
+            nextpage_url = nextpage.get('href')
+            subareas = merge_dicts(subareas, get_subareas(nextpage_url))
 
     else:
         print(f'Failed to request {page_url} : HTTP {response.status_code}')

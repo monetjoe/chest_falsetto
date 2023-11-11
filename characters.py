@@ -38,7 +38,7 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
 
             characters[name] = {
                 'Chinese_name': get_Chinese_char_name(url),
-                'tags': [element, region, weapon, gender]
+                'tags': [element, region, gender, weapon]
             }
 
     else:
