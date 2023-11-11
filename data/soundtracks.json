@@ -1,0 +1,6474 @@
+{
+    "Mondstadt (Soundtrack)": {
+        "Chinese_name": "蒙德",
+        "tags": [
+            "Full Concert Arrangement",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Novatio Novena": {
+        "Chinese_name": "九彻生识",
+        "tags": [
+            "Character Demo - \"Wanderer: Of Solitude Past and Present\""
+        ]
+    },
+    "Twilight Serenity (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "宁静的黄昏",
+        "tags": [
+            "Login Menu (Dawn & Dusk)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Legend of the Wind": {
+        "Chinese_name": "风的传说",
+        "tags": [
+            "Animated cutscene in Glide With the Wind and Wind, Courage, and Wings",
+            "City of Winds and Idylls"
+        ]
+    },
+    "The City Favored by Wind": {
+        "Chinese_name": "风所爱之城",
+        "tags": [
+            "Mondstadt City (Day)",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Bustling Afternoon in Mondstadt": {
+        "Chinese_name": "蒙德城繁忙的午后",
+        "tags": [
+            "Mondstadt City (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Dusk in Mondstadt": {
+        "Chinese_name": "蒙德的黄昏",
+        "tags": [
+            "Mondstadt City (Dusk)",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Mondstadt Starlit": {
+        "Chinese_name": "星光下的蒙德",
+        "tags": [
+            "Mondstadt City (Night)",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Moonlight in Mondstadt": {
+        "Chinese_name": "蒙德的月光",
+        "tags": [
+            "Mondstadt City (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Another Day in Mondstadt": {
+        "Chinese_name": "蒙德的又一日",
+        "tags": [
+            "Mondstadt City (Dawn)",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Windborne Hymn": {
+        "Chinese_name": "风带来的圣歌",
+        "tags": [
+            "Favonius Cathedral",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Knights of Favonius (Soundtrack)": {
+        "Chinese_name": "西风骑士团",
+        "tags": [
+            "Knights of Favonius Headquarters",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Angel's Share (Soundtrack)": {
+        "Chinese_name": "天使的馈赠",
+        "tags": [
+            "Angel's Share",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Silhouette and Silk Steps": {
+        "Chinese_name": "剪影与蹑步",
+        "tags": [
+            "Stealth challenges",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Perilous Path": {
+        "Chinese_name": "危险的小径",
+        "tags": [
+            "Dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Say My Name": {
+        "Chinese_name": "直面",
+        "tags": [
+            "Animated cutscene in Master's Day Off, dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Welp, Didn't Expect That": {
+        "Chinese_name": "呃，这可没想到…",
+        "tags": [
+            "Dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "An Interesting Labor": {
+        "Chinese_name": "有趣的挑战",
+        "tags": [
+            "Time-limited challenges",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Make Haste, Partner": {
+        "Chinese_name": "速度加快",
+        "tags": [
+            "Challenges in Lost Treasure of Arcadia and The Reward for Courage is Flight, animated cutscene in Legend of the Darknight Hero",
+            "City of Winds and Idylls"
+        ]
+    },
+    "A Happy Day": {
+        "Chinese_name": "开心的一天",
+        "tags": [
+            "Dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Reunion in the Whispering Woods": {
+        "Chinese_name": "低语森林的重逢",
+        "tags": [
+            "Animated cutscene in Forest Rendezvous",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Startled": {
+        "Chinese_name": "震惊",
+        "tags": [
+            "City of Winds and Idylls"
+        ]
+    },
+    "Meeting Amber": {
+        "Chinese_name": "初遇安柏",
+        "tags": [
+            "Animated cutscene in Wind-Riding Knight",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Storm Befalls": {
+        "Chinese_name": "风暴降临",
+        "tags": [
+            "Animated cutscene in Dragon Storm",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Slight Distress": {
+        "Chinese_name": "淡淡的不安",
+        "tags": [
+            "Animated cutscene in Knights of Favonius, dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Tender Strength": {
+        "Chinese_name": "同伴的力量",
+        "tags": [
+            "Dialogue scenes",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Imminent Triumph": {
+        "Chinese_name": "将至的凯歌",
+        "tags": [
+            "Animated cutscene and dialogue scene in Shadow Over Mondstadt",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Beckoning (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "情不自禁",
+        "tags": [
+            "Mondstadt (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Hence, Begins the Journey": {
+        "Chinese_name": "旅途的开始",
+        "tags": [
+            "Animated cutscene in Bird's Eye View",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Dawn Winery Theme (City of Winds and Idylls)": {
+        "Chinese_name": "晨曦酒庄",
+        "tags": [
+            "Dawn Winery (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Before Dawn, at the Winery": {
+        "Chinese_name": "破晓前的流光",
+        "tags": [
+            "Dawn Winery (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "A Familiar Sight and Leisure": {
+        "Chinese_name": "见惯的风景",
+        "tags": [
+            "Emerald Peak (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Cold Night": {
+        "Chinese_name": "饰金的夜色",
+        "tags": [
+            "Mondstadt (Night), Emerald Peak (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Whispering Plain": {
+        "Chinese_name": "平原的低语",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Statue of The Seven (Soundtrack)": {
+        "Chinese_name": "七天神像",
+        "tags": [
+            "Statue of The Seven, Wish Menu",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Acquaintance (Statue of The Seven)": {
+        "Chinese_name": "命运的初识",
+        "tags": [
+            "Statue of The Seven (Offering)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Stealing Words of the Moon": {
+        "Chinese_name": "月亮处盗来的歌",
+        "tags": [
+            "Mondstadt (Night), Emerald Peak (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Wayfarer's Peace": {
+        "Chinese_name": "旅人的暂歇",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Wind-Washed Mountains": {
+        "Chinese_name": "风洗的群山",
+        "tags": [
+            "Mondstadt (Day), animated cutscene in Where Ancient Stars Align",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Wayward Souls": {
+        "Chinese_name": "不散的魂灵",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Reminiscence (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "追忆",
+        "tags": [
+            "Login Menu (All Times), dialogue scenes in That Green Fellow, Crystal Tears, Ending Note, Should You Be Trapped in a Windless Land",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Restless Blazing Sun": {
+        "Chinese_name": "烈日之残响",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Remembrance (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "一段回忆",
+        "tags": [
+            "Mondstadt (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "The Horizon": {
+        "Chinese_name": "地平",
+        "tags": [
+            "Mondstadt (Day, Rain), Nameless Island",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Awaiting the Future": {
+        "Chinese_name": "静候未来",
+        "tags": [
+            "Mondstadt (Night), Emerald Peak (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Moonlit Wilderness": {
+        "Chinese_name": "月照的荒野",
+        "tags": [
+            "Mondstadt (Night)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "A New Day with Hope": {
+        "Chinese_name": "希望的新一天",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Journey of Hope (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "希望之旅",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Forlorn Child of Archaic Winds (Dvalin's Nest)": {
+        "Chinese_name": "万古之风的弃儿",
+        "tags": [
+            "Stormterror's Lair, dialogue scene in Farewell, Sweet Salt",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Forsaken Child of Ancient Times (Dvalin's Nest)": {
+        "Chinese_name": "太古时光的遗孤",
+        "tags": [
+            "Stormterror's Lair",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Midday Prospects": {
+        "Chinese_name": "午日的眺望",
+        "tags": [
+            "Animated cutscene in Where Ancient Stars Align",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Dwelling in the Past": {
+        "Chinese_name": "久住往昔",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Eternal Anamnesis (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "永恒的回忆",
+        "tags": [
+            "Mondstadt (Day)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Photon of Fluctuation": {
+        "Chinese_name": "光辉的涨落",
+        "tags": [
+            "Mondstadt, Dragonspine (Combat), Domains",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "His Resolution": {
+        "Chinese_name": "解决之道",
+        "tags": [
+            "Mondstadt (Combat)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Rhythm from Ancient Times": {
+        "Chinese_name": "亘古的韵律",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Endless Echoes": {
+        "Chinese_name": "无尽的回响",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Charge! Fearless Warriors": {
+        "Chinese_name": "冲啊！无畏的勇士",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Beats of Water Drops": {
+        "Chinese_name": "水滴的节拍",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Magic Intrigues": {
+        "Chinese_name": "魔导的深秘",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Against All Odds": {
+        "Chinese_name": "无数的逆境",
+        "tags": [
+            "Domains",
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Perpetual Motion of Wind": {
+        "Chinese_name": "不休的风航",
+        "tags": [
+            "Mondstadt City (Dragon Storm)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Riders of the Wind, Onward": {
+        "Chinese_name": "乘风前行",
+        "tags": [
+            "Aerial challenges in Dragon Storm and Storming Terror",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Whirl of Boreal Wind": {
+        "Chinese_name": "冰风回荡",
+        "tags": [
+            "Wolf of the North Challenge (Phase 1)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Symphony of Boreal Wind": {
+        "Chinese_name": "冰封交响曲",
+        "tags": [
+            "Wolf of the North Challenge (Phase 2)",
+            "City of Winds and Idylls"
+        ]
+    },
+    "Devastation and Redemption": {
+        "Chinese_name": "神女劈观・唤情",
+        "tags": [
+            "Animated cutscene in Where the Heart Finds Rest",
+            "Fleeting Colors in Flight (Album)"
+        ]
+    },
+    "Myriad of Lights": {
+        "Chinese_name": "华灯星聚",
+        "tags": [
+            "Animated cutscene in The Stars Inscribe the Year's Wishes",
+            "Fleeting Colors in Flight (Album)"
+        ]
+    },
+    "Devastation and Redemption - Instrumental": {
+        "Chinese_name": "神女劈观・唤情",
+        "tags": [
+            "Animated cutscene in Where the Heart Finds Rest",
+            "Fleeting Colors in Flight (Album)"
+        ]
+    },
+    "As Light Rain Falls Without Reason (Soundtrack)": {
+        "Chinese_name": "仿若无因飘落的轻雨",
+        "tags": [
+            "Version 4.0 \"As Light Rain Falls Without Reason\" Trailer",
+            "Footprints of the Traveler (CN)"
+        ]
+    },
+    "To the Stars Shining in the Depths (Soundtrack)": {
+        "Chinese_name": "向深水中的晨星",
+        "tags": [
+            "Version 4.1 \"To the Stars Shining in the Depths\" Trailer",
+            "Footprints of the Traveler (CN)"
+        ]
+    },
+    "Masquerade of the Guilty (Soundtrack)": {
+        "Chinese_name": "罪人舞步旋",
+        "tags": [
+            "Version 4.2 \"Masquerade of the Guilty\" Trailer",
+            "Footprints of the Traveler (CN)"
+        ]
+    },
+    "The Morn a Thousand Roses Brings (Soundtrack)": {
+        "Chinese_name": "千朵玫瑰带来的黎明",
+        "tags": [
+            "Version 3.0 \"The Morn a Thousand Roses Brings\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "King Deshret and the Three Magi (Soundtrack)": {
+        "Chinese_name": "赤土之王与三朝圣者",
+        "tags": [
+            "Version 3.1 \"King Deshret and the Three Magi\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "Akasha Pulses, the Kalpa Flame Rises (Soundtrack)": {
+        "Chinese_name": "虚空鼓动，劫火高扬",
+        "tags": [
+            "Version 3.2 \"Akasha Pulses, the Kalpa Flame Rises\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "All Senses Clear, All Existence Void (Soundtrack)": {
+        "Chinese_name": "六入尽明，诸相皆无",
+        "tags": [
+            "Version 3.3 \"All Senses Clear, All Existence Void\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "The Exquisite Night Chimes (Soundtrack)": {
+        "Chinese_name": "磬弦奏华夜",
+        "tags": [
+            "Version 3.4 \"The Exquisite Night Chimes\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "Windblume's Breath (Soundtrack)": {
+        "Chinese_name": "风花的呼吸",
+        "tags": [
+            "Version 3.5 \"Windblume's Breath\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "A Parade of Providence (Soundtrack)": {
+        "Chinese_name": "盛典与慧业",
+        "tags": [
+            "Version 3.6 \"A Parade of Providence\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "Duel! The Summoners' Summit! (Soundtrack)": {
+        "Chinese_name": "决斗！召唤之巅！",
+        "tags": [
+            "Version 3.7 \"Duel! The Summoners' Summit!\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "Secret Summer Paradise (Soundtrack)": {
+        "Chinese_name": "清夏！乐园？大秘境！",
+        "tags": [
+            "Version 3.8 \"Secret Summer Paradise\" Trailer",
+            "Footprints of the Traveler Vol. 2"
+        ]
+    },
+    "A New Star Approaches (Soundtrack)": {
+        "Chinese_name": "迫近的客星",
+        "tags": [
+            "Version 1.1 \"A New Star Approaches\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "The Chalk Prince and the Dragon (Soundtrack)": {
+        "Chinese_name": "白垩与黑龙",
+        "tags": [
+            "Version 1.2 \"The Chalk Prince and the Dragon\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "All That Glitters (Soundtrack)": {
+        "Chinese_name": "明霄升海平",
+        "tags": [
+            "Version 1.3 \"All That Glitters\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Invitation of Windblume (Footprints of the Traveler)": {
+        "Chinese_name": "风花的邀约",
+        "tags": [
+            "Version 1.4 \"Invitation of Windblume\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Beneath the Light of Jadeite (Soundtrack)": {
+        "Chinese_name": "玉扉绕尘歌",
+        "tags": [
+            "Version 1.5 \"Beneath the Light of Jadeite\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Midsummer Island Adventure (Soundtrack)": {
+        "Chinese_name": "盛夏！海岛？大冒险！",
+        "tags": [
+            "Version 1.6 \"Midsummer Island Adventure\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "The Immovable God and the Eternal Euthymia (Soundtrack)": {
+        "Chinese_name": "不动鸣神，恒常乐土",
+        "tags": [
+            "Version 2.0 \"The Immovable God and the Eternal Euthymia\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Floating World Under the Moonlight (Soundtrack)": {
+        "Chinese_name": "韶光抚月，天下人间",
+        "tags": [
+            "Version 2.1 \"Floating World Under the Moonlight\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Into the Perilous Labyrinth of Fog (Soundtrack)": {
+        "Chinese_name": "雾海悬谜境",
+        "tags": [
+            "Version 2.2 \"Into the Perilous Labyrinth of Fog\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Shadows Amidst Snowstorms (Soundtrack)": {
+        "Chinese_name": "皑尘与雪影",
+        "tags": [
+            "Version 2.3 \"Shadows Amidst Snowstorms\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Fleeting Colors in Flight (Soundtrack)": {
+        "Chinese_name": "飞彩镌流年",
+        "tags": [
+            "Version 2.4 \"Fleeting Colors in Flight\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "When the Sakura Bloom (Soundtrack)": {
+        "Chinese_name": "薄樱初绽时",
+        "tags": [
+            "Version 2.5 \"When the Sakura Bloom\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Zephyr of the Violet Garden (Soundtrack)": {
+        "Chinese_name": "流风眷堇庭",
+        "tags": [
+            "Version 2.6 \"Zephyr of the Violet Garden\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Hidden Dreams in the Depths (Soundtrack)": {
+        "Chinese_name": "荒梦藏虞渊",
+        "tags": [
+            "Version 2.7 \"Hidden Dreams in the Depths\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Summer Fantasia (Soundtrack)": {
+        "Chinese_name": "仲夏！幻夜？奇想曲！",
+        "tags": [
+            "Version 2.8 \"Summer Fantasia\" Trailer",
+            "Footprints of the Traveler"
+        ]
+    },
+    "Sumeru (Soundtrack)": {
+        "Chinese_name": "须弥",
+        "tags": [
+            "Full concert arrangement, animated cutscene in Secret of the Scorching Desert",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Whirling of Leaves and Petals": {
+        "Chinese_name": "树与花的旋舞",
+        "tags": [
+            "Sumeru City (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Flickering Shadows of Trees": {
+        "Chinese_name": "清风散林缬",
+        "tags": [
+            "Sumeru City (Day), dialogue scene in Where Lies the Path Home",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "For Riddles, for Wonders": {
+        "Chinese_name": "几初的智愿",
+        "tags": [
+            "Sumeru City (Day), animated cutscene in Where the Boat of Consciousness Lies, dialogue scene in Soloist's Prologue",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Evergreen Wish": {
+        "Chinese_name": "常绿的希冀",
+        "tags": [
+            "Sumeru City (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Many-Colored Smiles and Tears": {
+        "Chinese_name": "薄暮的欢叹",
+        "tags": [
+            "Sumeru City (Dusk)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Overnight Dew in the Woods": {
+        "Chinese_name": "香林繁露之夜",
+        "tags": [
+            "Sumeru City (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Thoughts and Prayers": {
+        "Chinese_name": "瑶木静意之思",
+        "tags": [
+            "Sumeru City (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Those Lucid Dreams": {
+        "Chinese_name": "眠时光明",
+        "tags": [
+            "Sumeru City (Night), dialogue scenes in Where the Boat of Consciousness Lies and Dream of Falling",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Silent Starry Night": {
+        "Chinese_name": "静谧的星夜",
+        "tags": [
+            "Sumeru City (Night), Alhaitham's Home",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Fresh Breezes of Dawn": {
+        "Chinese_name": "慧光启曙",
+        "tags": [
+            "Sumeru City (Dawn)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Halcyon Times": {
+        "Chinese_name": "宴语韵悠悠",
+        "tags": [
+            "Lambad's Tavern, Puspa Café",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Return to Trueness": {
+        "Chinese_name": "于智境谛思",
+        "tags": [
+            "House of Daena, Restricted Repository, Sumeru Mansion: Meditative Retreat, dialogue scene in Fragmented Testimony",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Hustle and Bustle of Ormos": {
+        "Chinese_name": "喧繁之港",
+        "tags": [
+            "Port Ormos (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "End of the Feast": {
+        "Chinese_name": "商港晚憩",
+        "tags": [
+            "Port Ormos (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Bustling Streets": {
+        "Chinese_name": "熙攘的街市",
+        "tags": [
+            "Port Ormos (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Sleepless Night": {
+        "Chinese_name": "阑珊夜色",
+        "tags": [
+            "Port Ormos (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Village Surrounded by Green": {
+        "Chinese_name": "葳蕤林野间",
+        "tags": [
+            "Vimara Village (Day), dialogue scene in The Warm Rhythm of the Streets",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Enchanting Bedtime Stories": {
+        "Chinese_name": "黛绿的夜话",
+        "tags": [
+            "Vimara Village (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Scorching Outpost": {
+        "Chinese_name": "郁灼的前哨",
+        "tags": [
+            "Caravan Ribat (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Unyielding Witness": {
+        "Chinese_name": "不移的恭默",
+        "tags": [
+            "Caravan Ribat (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "In Yonder Ribat": {
+        "Chinese_name": "边沙聚垒障",
+        "tags": [
+            "Caravan Ribat (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Vigilant Minders": {
+        "Chinese_name": "戒惕的注视",
+        "tags": [
+            "Caravan Ribat (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Forest in the Light": {
+        "Chinese_name": "深林杳杳",
+        "tags": [
+            "Dharma Forest (Day), Sublime Spicewood (Day), Silent Seeker of Knowledge",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Rustling of Tender Foliage": {
+        "Chinese_name": "卉木萋萋",
+        "tags": [
+            "Dharma Forest, Sublime Spicewood (Day), Silent Seeker of Knowledge, dialogue scene in Where Lies the Path Home",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Desultory Stroll": {
+        "Chinese_name": "霁野漫步",
+        "tags": [
+            "Dharma Forest, Silent Seeker of Knowledge",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Chasing the Reflection": {
+        "Chinese_name": "漾影逐波",
+        "tags": [
+            "Dharma Forest (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "As the Soft Wind Blows": {
+        "Chinese_name": "碧草柔风",
+        "tags": [
+            "Dharma Forest (Day), Sublime Spicewood (Day), Silent Seeker of Knowledge",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Languid and Quiet Moment": {
+        "Chinese_name": "倦慵的片刻",
+        "tags": [
+            "Dharma Forest (Day), Silent Seeker of Knowledge",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Moonlit Night in Sumeru": {
+        "Chinese_name": "叶丛间的月夜",
+        "tags": [
+            "Dharma Forest (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Vagrant Wandering": {
+        "Chinese_name": "无羁的漫游",
+        "tags": [
+            "Dharma Forest (Day), Sublime Spicewood (Night), Silent Seeker of Knowledge, Irminsul (Purified Tree), dialogue scenes in All Things Flawless and Pure and Soloist's Prologue",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Drowsy Sensation": {
+        "Chinese_name": "酣睡的郁林",
+        "tags": [
+            "Dharma Forest (Night), Irminsul (Purified Tree), dialogue scene in All Things Flawless and Pure",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Ethereal Mildness": {
+        "Chinese_name": "绿枝新柔",
+        "tags": [
+            "Dharma Forest (Night), Sublime Spicewood (Night), animated cutscene in Where the Boat of Consciousness Lies, dialogue scene in Soloist's Prologue",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Resonant Chant in the Woods": {
+        "Chinese_name": "若木的沉唱",
+        "tags": [
+            "Dharma Forest, Silent Seeker of Knowledge",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Varuna's Mercy": {
+        "Chinese_name": "盈流慈水",
+        "tags": [
+            "Apam Woods (Day), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Jungle Wanderers": {
+        "Chinese_name": "茂林巡行",
+        "tags": [
+            "Apam Woods (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dissipating Mist": {
+        "Chinese_name": "仁柔的烟林",
+        "tags": [
+            "Apam Woods (Day), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dewy Morn in the Forest": {
+        "Chinese_name": "露湿的林莽",
+        "tags": [
+            "Apam Woods (Day), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Stream of Twilight Thoughts": {
+        "Chinese_name": "流泉铮淙的夜想",
+        "tags": [
+            "Apam Woods (Night), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Hymns of Eventide": {
+        "Chinese_name": "林籁暮曲",
+        "tags": [
+            "Apam Woods (Night), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Over the Tumbling Rivulet": {
+        "Chinese_name": "泠波汩汩的微语",
+        "tags": [
+            "Apam Woods (Night), Veluriyam Mirage (Rainforest; Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Shallow Promise": {
+        "Chinese_name": "空谷传响",
+        "tags": [
+            "Ardravi Valley (Day), Lost Nursery, Secret Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Lost in Sweet Gentle Breezes": {
+        "Chinese_name": "芳林徘徊",
+        "tags": [
+            "Ardravi Valley (Day), Secret Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Into the Valley of Solitude": {
+        "Chinese_name": "幽谷冥冥",
+        "tags": [
+            "Ardravi Valley (Night), Veluriyam Mirage (Rainforest; Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Speechless Sorrows": {
+        "Chinese_name": "青藤静掩的愁闷",
+        "tags": [
+            "Ardravi Valley (Day), Veluriyam Mirage (Rainforest; Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Faint Afterglow": {
+        "Chinese_name": "残夜余音",
+        "tags": [
+            "Ardravi Valley (Night), Veluriyam Mirage (Rainforest; Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Puff of Cool Breeze": {
+        "Chinese_name": "凉风暂歇之时",
+        "tags": [
+            "Ardravi Valley (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Whisper of Evening Star": {
+        "Chinese_name": "暮星轻语之刻",
+        "tags": [
+            "Ardravi Valley (Night), Veluriyam Mirage (Rainforest; Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Distant Yearning": {
+        "Chinese_name": "远行的思愿",
+        "tags": [
+            "Ardravi Valley (Day), Veluriyam Mirage (Rainforest; Night), Secret Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Funneled Gorge": {
+        "Chinese_name": "邃风的崤谷",
+        "tags": [
+            "Ardravi Valley (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Whitewood Memorabilia": {
+        "Chinese_name": "白木的追忆",
+        "tags": [
+            "Ardravi Valley (Day), dialogue scenes in The End of the Sabzeruz Festival, Dream of Awakening, and What Shape Does the Self Hold",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Gone With the Wind": {
+        "Chinese_name": "随风而逝的旧梦",
+        "tags": [
+            "Ardravi Valley (Night), Veluriyam Mirage (Rainforest; Night), dialogue scene in The End of the Sabzeruz Festival and What Shape Does the Self Hold",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Transparent Night": {
+        "Chinese_name": "莹澈的夜",
+        "tags": [
+            "Ardravi Valley (Night), Sublime Spicewood (Night), dialogue scene in The Samsara of the Sabzeruz Festival, The End of the Sabzeruz Festival, All Things Flawless and Pure, and A Flower that Blooms Across the Sky",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Tangled Vines": {
+        "Chinese_name": "凄寥的表记",
+        "tags": [
+            "Devantaka Mountain (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Lingering Memories": {
+        "Chinese_name": "诗绪萦怀",
+        "tags": [
+            "Devantaka Mountain (Day), dialogue scene in What Shape Does the Self Hold",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Vestige of Dahri": {
+        "Chinese_name": "荼诃遗旧",
+        "tags": [
+            "Devantaka Mountain (Day), dialogue scene in What Shape Does the Self Hold",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dust-Laden Recollections": {
+        "Chinese_name": "尘封的往事",
+        "tags": [
+            "Devantaka Mountain (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Midnight Reflections": {
+        "Chinese_name": "静夜驰想",
+        "tags": [
+            "Devantaka Mountain (Night), dialogue scenes in Dream of Awakening, Dream of Falling and What Shape Does the Self Hold",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Lonely Star's Longing": {
+        "Chinese_name": "孤星的憧憬",
+        "tags": [
+            "Devantaka Mountain (Night), dialogue scene in Where Lies the Path Home",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "In the Solemn Gloom": {
+        "Chinese_name": "弢跡匿光",
+        "tags": [
+            "Devantaka Mountain (Night)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Faith in the Percept": {
+        "Chinese_name": "遗诫犹在",
+        "tags": [
+            "Ruin Golem",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Luminous Path": {
+        "Chinese_name": "星月之路",
+        "tags": [
+            "Mawtiyima Forest, dialogue scene in The Continuation of the Sabzeruz Festival",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dance With Fireflies": {
+        "Chinese_name": "流萤明灭",
+        "tags": [
+            "Mawtiyima Forest, dialogue scenes in The Continuation of the Sabzeruz Festival, The Empty Illusions of the Sabzeruz Festival and The End of the Sabzeruz Festival",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Silky Crooning": {
+        "Chinese_name": "月辉低吟",
+        "tags": [
+            "Mawtiyima Forest, The Greater Lord's Remaining Consciousness, Irminsul (Interior), dialogue scenes in The Empty Illusions of the Sabzeruz Festival and The End of the Sabzeruz Festival",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Beyond Klesha": {
+        "Chinese_name": "劫波破执",
+        "tags": [
+            "Mawtiyima Forest, dialogue scene in The Empty Illusions of the Sabzeruz Festival",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Bright New Buds": {
+        "Chinese_name": "沃土新芽的曲调",
+        "tags": [
+            "Vanarana (Night), Mahavanaranapna",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Sprouting Flowers": {
+        "Chinese_name": "颠倒梦想的曲调",
+        "tags": [
+            "Vanarana (Night), Mahavanaranapna",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Fresh Dewdrops": {
+        "Chinese_name": "晨曦初露的曲调",
+        "tags": [
+            "Vanarana (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Hidden Seeds": {
+        "Chinese_name": "生命之谷的曲调",
+        "tags": [
+            "Vanarana (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Brave Seeds": {
+        "Chinese_name": "和合大梦的曲调",
+        "tags": [
+            "Vanarana (Night), Mahavanaranapna",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Dream Home": {
+        "Chinese_name": "染绿乡园的曲调",
+        "tags": [
+            "Vanarana (Night), Mahavanaranapna",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Young Leaves": {
+        "Chinese_name": "幼叶绽生的曲调",
+        "tags": [
+            "Vanarana (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Melody of Distant Green Fields": {
+        "Chinese_name": "绿野纤绵的曲调",
+        "tags": [
+            "Vanarana (Day)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Chatter Between Roots": {
+        "Chinese_name": "根子的片语",
+        "tags": [
+            "Devantaka Mountain (Cave), Dreams of the Vasara Trees, Domains, dialogue scenes in The End of the Sabzeruz Festival, Where the Boat of Consciousness Lies, and A Flower that Blooms Across the Sky",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Long-Lost Chapters": {
+        "Chinese_name": "失落的歌调",
+        "tags": [
+            "Devantaka Mountain (Cave), Dreams of the Vasara Trees, Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Nameless Days": {
+        "Chinese_name": "昔时遥忆",
+        "tags": [
+            "Mawtiyima, Domains, Irminsul (Polluted Tree and Interior)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Whispers of Immensity": {
+        "Chinese_name": "细语回萦",
+        "tags": [
+            "Mawtiyima, Domains, Irminsul (Polluted Tree and Interior), dialogue scene in The Continuation of the Sabzeruz Festival",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Immemorial Land": {
+        "Chinese_name": "归于遗忘和泥土",
+        "tags": [
+            "Dharma Forest (Caves)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "In a Forgotten Tongue": {
+        "Chinese_name": "欲说还休",
+        "tags": [
+            "Dharma Forest (Caves)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Walk Through the Silent Path": {
+        "Chinese_name": "迷途已远",
+        "tags": [
+            "Dharma Forest (Caves)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Fruitless Search": {
+        "Chinese_name": "无获的探索",
+        "tags": [
+            "Dharma Forest (Caves)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Unbounded Barrenness": {
+        "Chinese_name": "荒寂旧土",
+        "tags": [
+            "Land of Grounded Dreams, Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dream of Ageless Time": {
+        "Chinese_name": "无名岁月",
+        "tags": [
+            "Chinvat Ravine (during The Unanswerable Problems), Lost Nursery, Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dust and Tears": {
+        "Chinese_name": "桑沧遍历",
+        "tags": [
+            "Chinvat Ravine (during The Unanswerable Problems), Lost Nursery, Dharma Forest (Caves)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Descending Into the Dark": {
+        "Chinese_name": "行过死荫之地",
+        "tags": [
+            "Dev's Cavern, Madinat al-Nuhas, Hangeh Afrasiyab (Factory), dialogue scene in The Night-Bird Falls at the Curtain's Call",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Hollow Echoes": {
+        "Chinese_name": "空余回响",
+        "tags": [
+            "Dev's Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "A Sense of Furtive Unrest": {
+        "Chinese_name": "危惴潜流",
+        "tags": [
+            "Dev's Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Fading Light": {
+        "Chinese_name": "游光澌泯",
+        "tags": [
+            "Dev's Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Listless and Numb Ground": {
+        "Chinese_name": "哑默的大地",
+        "tags": [
+            "Dev's Cavern",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "In Barren Ashes": {
+        "Chinese_name": "于无生处",
+        "tags": [
+            "The Withering",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Struggle of Dying Embers": {
+        "Chinese_name": "余烬的顽抗",
+        "tags": [
+            "The Withering (Combat)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Feelings of Smothering": {
+        "Chinese_name": "窒滞之苦",
+        "tags": [
+            "The Withering",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Snare Awaiting": {
+        "Chinese_name": "沉重的恶意",
+        "tags": [
+            "The Withering (Combat)",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Dreamless Earth": {
+        "Chinese_name": "失梦之乡",
+        "tags": [
+            "Land of Grounded Dreams (prior to defeating Marana's Avatar), animated cutscene in Dream of Falling",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Fatal Confrontation": {
+        "Chinese_name": "失色的灾厄",
+        "tags": [
+            "Marana's Avatar",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Before the Light Fades": {
+        "Chinese_name": "趁生烛尚未殄熄",
+        "tags": [
+            "Marana's Avatar",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Swirls of the Stream": {
+        "Chinese_name": "洄映的漩流",
+        "tags": [
+            "Dharma Forest (Combat), Veluriyam Mirage (Combat), Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Rhymes of Vales": {
+        "Chinese_name": "堙谷的铙歌",
+        "tags": [
+            "Dharma Forest (Combat), Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Gilded Runner": {
+        "Chinese_name": "流金疾驰",
+        "tags": [
+            "Sumeru (Combat), Phantasmal Gate, Domains",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Jolts in the Forest": {
+        "Chinese_name": "森芒顷动",
+        "tags": [
+            "Jadeplume Terrorshroom, Aeonblight Drake",
+            "Forest of Jnana and Vidya"
+        ]
+    },
+    "Fontaine (Soundtrack)": {
+        "Chinese_name": "枫丹",
+        "tags": [
+            "Full concert arrangement",
+            "Fountain of Belleau"
+        ]
+    },
+    "Le Souvenir avec le crepuscule": {
+        "Chinese_name": "时暮的思眷",
+        "tags": [
+            "Court of Fontaine (Dusk), dialogue scene in Soloist's Prologue",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ballad of Many Waters": {
+        "Chinese_name": "众水之诗",
+        "tags": [
+            "Court of Fontaine (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "City of Mellifluous Glory": {
+        "Chinese_name": "百乐谐荣之城",
+        "tags": [
+            "Court of Fontaine (Day), dialogue scene in This Life, Just Like a Light Trickle of Song",
+            "Fountain of Belleau"
+        ]
+    },
+    "Leisurely Days in Fontaine": {
+        "Chinese_name": "岁华悠暇",
+        "tags": [
+            "Court of Fontaine (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Poesy of Chrysolite": {
+        "Chinese_name": "苍水晶的行歌",
+        "tags": [
+            "Court of Fontaine (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Luminescence of Eventide": {
+        "Chinese_name": "月夕花朝",
+        "tags": [
+            "Court of Fontaine (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Coruscating Street": {
+        "Chinese_name": "星灯晕染之街",
+        "tags": [
+            "Court of Fontaine (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Dreams' Swirling Whispers": {
+        "Chinese_name": "萦梦的絮语",
+        "tags": [
+            "Court of Fontaine (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "La nuit silencieuse et paisible": {
+        "Chinese_name": "柔静轻俏之夜",
+        "tags": [
+            "Court of Fontaine (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Quand la lumiere resplendira": {
+        "Chinese_name": "晨光初映时",
+        "tags": [
+            "Court of Fontaine (Dawn)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Symposion of Spectacle": {
+        "Chinese_name": "宴饮的景序",
+        "tags": [
+            "Hotel Debord",
+            "Fountain of Belleau"
+        ]
+    },
+    "Harmonia of Polysynodie": {
+        "Chinese_name": "诸律的谐奏",
+        "tags": [
+            "Palais Mermonia",
+            "Fountain of Belleau"
+        ]
+    },
+    "Pluie sur la ville": {
+        "Chinese_name": "轻雨何故落",
+        "tags": [
+            "Belleau Region (Rain), Beryl Region (Rain), Court of Fontaine Region (Rain), dialogue scenes in The Truth, Lost With the Rain, Ever-Surging Memories, and Deluge of Wrathful Waters",
+            "Fountain of Belleau"
+        ]
+    },
+    "Le fleuve secret": {
+        "Chinese_name": "匿伏之河",
+        "tags": [
+            "Court of Fontaine: Fleuve Cendre",
+            "Fountain of Belleau"
+        ]
+    },
+    "Cakes and Ale for the Exiled": {
+        "Chinese_name": "离逐者的谋欢",
+        "tags": [
+            "Court of Fontaine: Fleuve Cendre",
+            "Fountain of Belleau"
+        ]
+    },
+    "Romaritime Recollection": {
+        "Chinese_name": "海露的遐思",
+        "tags": [
+            "Romaritime Harbor (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Pilot's Rest": {
+        "Chinese_name": "领航人的倦憩",
+        "tags": [
+            "Romaritime Harbor (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Limpide est le sanglot d'eau": {
+        "Chinese_name": "露景澈映",
+        "tags": [
+            "Fountain of Lucine (Day), Marcotte Station (Day), Opera Epiclese (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Clair de lune": {
+        "Chinese_name": "月影微茫",
+        "tags": [
+            "Fountain of Lucine (Night), Marcotte Station (Night), Opera Epiclese (Night), Fontaine (Underwater; Gramophone)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Spring Song": {
+        "Chinese_name": "清泉的礼赞",
+        "tags": [
+            "Fountain of Lucine (Day), Marcotte Station (Day), Opera Epiclese (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Where All Waters Converge": {
+        "Chinese_name": "万水汇流之地",
+        "tags": [
+            "Fountain of Lucine (Day), Marcotte Station (Day), Opera Epiclese (Day), Fontaine (Underwater; Gramophone)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Raven Gloss of Darkness": {
+        "Chinese_name": "暮夜的柔光",
+        "tags": [
+            "Fountain of Lucine (Night), Marcotte Station (Night), Opera Epiclese (Night), Fontaine (Underwater; Gramophone), dialogue scene in Calamitous Tread",
+            "Fountain of Belleau"
+        ]
+    },
+    "Le spectacle doit continuer": {
+        "Chinese_name": "永不落幕的盛典",
+        "tags": [
+            "Opera Epiclese (Interior)",
+            "Fountain of Belleau"
+        ]
+    },
+    "The Oratrice's Verdict": {
+        "Chinese_name": "谕示裁定之时",
+        "tags": [
+            "Dialogue scenes in The City of Rains and Remembrance, Lies Cast Shadows Under Gathered Lights, When All Return to the Waters, Ever-Surging Memories, and The Proud \"Beret Society\"",
+            "Fountain of Belleau"
+        ]
+    },
+    "Searching for Clues": {
+        "Chinese_name": "赜探隐索",
+        "tags": [
+            "Opera Epiclese (Clue Investigation), dialogue scenes in When All Return to the Waters and Into the Deepwater Murk, animated cutscene in Lost in Deep Seas",
+            "Fountain of Belleau"
+        ]
+    },
+    "Sensational Sentence": {
+        "Chinese_name": "倾危的判词",
+        "tags": [
+            "Dialogue scenes in Lies Cast Shadows Under Gathered Lights, When All Return to the Waters, and Ever-Surging Memories",
+            "Fountain of Belleau"
+        ]
+    },
+    "Deductive Rendition": {
+        "Chinese_name": "演绎与演绎法",
+        "tags": [
+            "Logic Chain sections in Lies Cast Shadows Under Gathered Lights and The Truth Shrouded in Shadow",
+            "Fountain of Belleau"
+        ]
+    },
+    "Contemporary Testimony": {
+        "Chinese_name": "彼时的证言",
+        "tags": [
+            "Dialogue scene in Lies Cast Shadows Under Gathered Lights, animated cutscene in Fortress of Meropide",
+            "Fountain of Belleau"
+        ]
+    },
+    "Je sais le nom de l'etranger !": {
+        "Chinese_name": "其人之名，我已知晓！",
+        "tags": [
+            "Dialogue scene in Lies Cast Shadows Under Gathered Lights",
+            "Fountain of Belleau"
+        ]
+    },
+    "Caliginous Hearthfire": {
+        "Chinese_name": "炉火微暗",
+        "tags": [
+            "Dialogue scenes in Lies Cast Shadows Under Gathered Lights, A Tea Party Most Thorny, and Calamitous Tread",
+            "Fountain of Belleau"
+        ]
+    },
+    "Il Nome della Rosula": {
+        "Chinese_name": "刺玫的诗律",
+        "tags": [
+            "Poisson (Pre-disaster)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Il Crepuscolo di Poisson": {
+        "Chinese_name": "白淞的夕暮",
+        "tags": [
+            "Poisson (Pre-disaster)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ann's Quiescent Residence": {
+        "Chinese_name": "安逸的静水",
+        "tags": [
+            "\"The Real Annapausis\"",
+            "Fountain of Belleau"
+        ]
+    },
+    "Cruising in the Balmy Breeze": {
+        "Chinese_name": "遐睠温煦之风",
+        "tags": [
+            "Aquabus",
+            "Fountain of Belleau"
+        ]
+    },
+    "Rippling Wavelet": {
+        "Chinese_name": "漪澜摇漾",
+        "tags": [
+            "Aquabus",
+            "Fountain of Belleau"
+        ]
+    },
+    "Cerulean Tour": {
+        "Chinese_name": "水色巡游",
+        "tags": [
+            "Aquabus",
+            "Fountain of Belleau"
+        ]
+    },
+    "Across the Meadows": {
+        "Chinese_name": "漫徊繁荫之原",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Fontaine Research Institute of Kinetic Energy Engineering Region (Day), Liffey Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Cobalt Remembrance": {
+        "Chinese_name": "苍琅的回响",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day), dialogue scene in This Life, Just Like a Light Trickle of Song",
+            "Fountain of Belleau"
+        ]
+    },
+    "Susurrating Holt": {
+        "Chinese_name": "松林析窣",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Clement Rillet": {
+        "Chinese_name": "涓流轻缓",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Reve d'alouette": {
+        "Chinese_name": "云雀的梦觉",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Que le vent soit doux": {
+        "Chinese_name": "柔风的欢愿",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ondulations du rythme": {
+        "Chinese_name": "轻漪的节音",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Expectation for Exploration": {
+        "Chinese_name": "遥途的冀望",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Peripatetic Peregrination": {
+        "Chinese_name": "四季的悠游",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Langage des fleurs": {
+        "Chinese_name": "昔时的花语",
+        "tags": [
+            "Belleau Region (Day), Beryl Region (Day), Court of Fontaine Region (Day), Erinnyes Forest (Day), Morte Region (Day)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Demain, des l'aube": {
+        "Chinese_name": "若晨曦再度升起",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Les murmures des flots": {
+        "Chinese_name": "冷流潺然",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Gloomy Drizzle": {
+        "Chinese_name": "菵露落夤夜",
+        "tags": [
+            "Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Quo Vadis": {
+        "Chinese_name": "行往何方",
+        "tags": [
+            "Poisson (Post-disaster), Erinnyes Forest (Night), Morte Region (Night), dialogue scene in The Truth, Lost With the Rain and Apocalypse",
+            "Fountain of Belleau"
+        ]
+    },
+    "Vespers of Pluviose": {
+        "Chinese_name": "雨月的晚祷",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Poisson (Post-disaster), Erinnyes Forest (Night), Morte Region (Night), dialogue scenes in Like the Faint Moonlight of Yesteryear and The Truth, Lost With the Rain",
+            "Fountain of Belleau"
+        ]
+    },
+    "Lustrous Stars": {
+        "Chinese_name": "寒星遥遥",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night), dialogue scene in Whither Should the Water Flow?",
+            "Fountain of Belleau"
+        ]
+    },
+    "Sombre of the White Spring": {
+        "Chinese_name": "白泉暮景",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Floating Into Distance": {
+        "Chinese_name": "漂萍逐水",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Les Nuits": {
+        "Chinese_name": "澈夜的组诗",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Nocturnal Illumination": {
+        "Chinese_name": "深夕映繁星",
+        "tags": [
+            "Belleau Region (Night), Beryl Region (Night), Court of Fontaine Region (Night), Erinnyes Forest (Night), Morte Region (Night)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Intricate Ruse": {
+        "Chinese_name": "裁心的狡计",
+        "tags": [
+            "Magic Workshop",
+            "Fountain of Belleau"
+        ]
+    },
+    "Qui me freine a un tel moment": {
+        "Chinese_name": "缘何停驻此刻",
+        "tags": [
+            "Magic Workshop, Kuisel's Clockwork Workshop (Middle Level)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Nymphs' Tea Party": {
+        "Chinese_name": "水仙的茶会",
+        "tags": [
+            "The Narzissenkreuz Ordo, after the opening cutscene of Unfinished Story",
+            "Fountain of Belleau"
+        ]
+    },
+    "Dream Through the Looking-Glass": {
+        "Chinese_name": "镜中之梦",
+        "tags": [
+            "The Narzissenkreuz Ordo, after finishing Unfinished Story and The Final Question",
+            "Fountain of Belleau"
+        ]
+    },
+    "Melody of Merusea": {
+        "Chinese_name": "海沫的欢语",
+        "tags": [
+            "Merusea Village (Surface)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Miraculous Whisper": {
+        "Chinese_name": "幻异的轻吟",
+        "tags": [
+            "Merusea Village (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "La cite en la mer": {
+        "Chinese_name": "渊水遗落之城",
+        "tags": [
+            "Fontaine (Underwater), Institute of Natural Philosophy, Tower of Ipsissimus (Underwater and Interior; after completing In the Wake of Narcissus)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Passage of an Era": {
+        "Chinese_name": "流光过隙",
+        "tags": [
+            "Fontaine (Underwater), Institute of Natural Philosophy, Tower of Ipsissimus (Underwater and Interior; after completing In the Wake of Narcissus)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Fading Anticipation": {
+        "Chinese_name": "沈匿的旧梦",
+        "tags": [
+            "Fontaine (Underwater), Institute of Natural Philosophy",
+            "Fountain of Belleau"
+        ]
+    },
+    "Tranquil Plains": {
+        "Chinese_name": "安谧的海原",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ebb and Flow (Soundtrack)": {
+        "Chinese_name": "深泓浮湛",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Throughout the Flow of Years": {
+        "Chinese_name": "纵然时岁流转",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Oath of Many Waters": {
+        "Chinese_name": "众水的誓约",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Following the Torrent": {
+        "Chinese_name": "悠游逐浪",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Surging Reminiscence": {
+        "Chinese_name": "沧潮的溯想",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Diaphanous Dream": {
+        "Chinese_name": "澄思寂虑",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Shade of Flowers": {
+        "Chinese_name": "水中花影",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Les etoiles semblent s'estomper": {
+        "Chinese_name": "沉落的残痕",
+        "tags": [
+            "Fontaine (Underwater)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Calamitous Tides": {
+        "Chinese_name": "深潮暗涌之刻",
+        "tags": [
+            "Institute of Natural Philosophy (Underwater Current)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ann's Anapausis": {
+        "Chinese_name": "安眠于追忆之地",
+        "tags": [
+            "Annapausis",
+            "Fountain of Belleau"
+        ]
+    },
+    "Marcescent Floret": {
+        "Chinese_name": "凋萎于昔时之花",
+        "tags": [
+            "Annapausis, Tower of Ipsissimus (Underwater and Interior; after completing In the Wake of Narcissus)",
+            "Fountain of Belleau"
+        ]
+    },
+    "All in the Golden Afternoon": {
+        "Chinese_name": "镀金的夕暮",
+        "tags": [
+            "Institute of Natural Philosophy, Annapausis (Library)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Withered Wreath of Flowers": {
+        "Chinese_name": "褪落的芳华",
+        "tags": [
+            "Annapausis (Library)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ancient Reverberation": {
+        "Chinese_name": "万古的回声",
+        "tags": [
+            "\"A Very Warm Place\"",
+            "Fountain of Belleau"
+        ]
+    },
+    "The Shadow Out of Time": {
+        "Chinese_name": "渡越旧日之影",
+        "tags": [
+            "Nice to Meet You (Pre-Purification)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Till All the Seas": {
+        "Chinese_name": "直至众水之终",
+        "tags": [
+            "Nice to Meet You (Post-Purification)",
+            "Fountain of Belleau"
+        ]
+    },
+    "The Vision and the Voice": {
+        "Chinese_name": "秘象的残响",
+        "tags": [
+            "Elynas (Beastly Rift)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Revelatio Finalis": {
+        "Chinese_name": "终焉的揭示",
+        "tags": [
+            "???",
+            "Fountain of Belleau"
+        ]
+    },
+    "Ex Favilla Incendi": {
+        "Chinese_name": "熔火的遗烬",
+        "tags": [
+            "\"Throne of Emperor of Fire and Iron\"",
+            "Fountain of Belleau"
+        ]
+    },
+    "Sequestered Springs": {
+        "Chinese_name": "泉迹斑驳",
+        "tags": [
+            "Poisson (Underwater), Beryl Region (Caves), Liffey Region (Caves), Fontaine Research Institute of Kinetic Energy Engineering Region (Abandoned Laboratory), Erinnyes Forest (Caves)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Le dormeur du val": {
+        "Chinese_name": "深眠杳寂之谷",
+        "tags": [
+            "Poisson (Underwater), Beryl Region (Caves), Liffey Region (Caves), Erinnyes Forest (Caves)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Trail of Shadows": {
+        "Chinese_name": "幽径叠影",
+        "tags": [
+            "Poisson (Underwater), Beryl Region (Caves), Liffey Region (Caves), Erinnyes Forest (Caves)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Path of Desolation": {
+        "Chinese_name": "妄执之路",
+        "tags": [
+            "Aquanigma",
+            "Fountain of Belleau"
+        ]
+    },
+    "Obscure Obsession": {
+        "Chinese_name": "匿黯的深罪",
+        "tags": [
+            "Aquanigma, dialogue scene in Secret Keepers and Forbidden Zones",
+            "Fountain of Belleau"
+        ]
+    },
+    "Rondeau des fleurs et des rapieres": {
+        "Chinese_name": "花与剑的轮舞",
+        "tags": [
+            "Fontaine (Combat), Domains",
+            "Fountain of Belleau"
+        ]
+    },
+    "Lamentation et Triomphe": {
+        "Chinese_name": "咏歌与凯旋",
+        "tags": [
+            "Fontaine (Combat), Domains",
+            "Fountain of Belleau"
+        ]
+    },
+    "Virelai des marees": {
+        "Chinese_name": "碎浪之舞",
+        "tags": [
+            "Fontaine (Combat), Domains",
+            "Fountain of Belleau"
+        ]
+    },
+    "Aubade of Coppelia": {
+        "Chinese_name": "歌裴莉娅的晨歌",
+        "tags": [
+            "Icewind Suite",
+            "Fountain of Belleau"
+        ]
+    },
+    "Envoi of Coppelius": {
+        "Chinese_name": "科培琉司的辞行",
+        "tags": [
+            "Icewind Suite (Climax)",
+            "Fountain of Belleau"
+        ]
+    },
+    "Island of Crystal and Pearl": {
+        "Chinese_name": "海祇之岛",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Illuminated Coral Palace": {
+        "Chinese_name": "溢彩华庭",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Peaceful Wishes": {
+        "Chinese_name": "和平的祝愿",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Tranquil Town": {
+        "Chinese_name": "远离尘嚣",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Stroll Along the Beach": {
+        "Chinese_name": "信步行时",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "In a Harmonious Atmosphere": {
+        "Chinese_name": "清潭镜澄",
+        "tags": [
+            "Watatsumi Island, Silken Courtyard (Day)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Stories Untold": {
+        "Chinese_name": "待诉说的传说",
+        "tags": [
+            "Watatsumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "What Now Remains": {
+        "Chinese_name": "唯余遗恨",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Roaming in Silence": {
+        "Chinese_name": "良夜岑寂",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Lonely Journey": {
+        "Chinese_name": "茕茕行路",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Swath of Desolation": {
+        "Chinese_name": "淡月疏星共寂寥",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Echoes of Solitude": {
+        "Chinese_name": "孤独的回响",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Mournful Whisperings": {
+        "Chinese_name": "悲切的低语",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Desire for Calm": {
+        "Chinese_name": "平静的心绪",
+        "tags": [
+            "Seirai Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Fragment of Peace": {
+        "Chinese_name": "宁然一隅",
+        "tags": [
+            "Asase Shrine",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Slumbering Land of Neko": {
+        "Chinese_name": "寝子的梦",
+        "tags": [
+            "Asase Shrine",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Savory Treat": {
+        "Chinese_name": "俗世佳肴",
+        "tags": [
+            "Uyuu Restaurant, dialogue scene in Heizou Talks Fraud",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Narukami-Bayashi": {
+        "Chinese_name": "鸣神囃子",
+        "tags": [
+            "Dialogue scene in Proof of Guilt",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "In a Cautious Way": {
+        "Chinese_name": "谨言慎行",
+        "tags": [
+            "Tenryou Commission Headquarters",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Silent Seclusion": {
+        "Chinese_name": "静思之所",
+        "tags": [
+            "Narukami Island: Tenshukaku (Idle)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Contemplation on Eternity": {
+        "Chinese_name": "对永恒的冥想",
+        "tags": [
+            "Narukami Island: Tenshukaku (Idle), Tenshukaku (Interior)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Sepulchral Gloom": {
+        "Chinese_name": "如堕霓雾",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "When All Has Elapsed": {
+        "Chinese_name": "物是人非",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Sorrows of Strays": {
+        "Chinese_name": "潸怅的幽影",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Misty Truth": {
+        "Chinese_name": "雾锁烟迷",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Wandering in the Mist": {
+        "Chinese_name": "弭节徘徊",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Walking a Pathless Path": {
+        "Chinese_name": "曲径探幽",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Fading Memories": {
+        "Chinese_name": "褪淡的余忆",
+        "tags": [
+            "Tsurumi Island",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Memorable Fancy": {
+        "Chinese_name": "温情的遥忆",
+        "tags": [
+            "Tsurumi Island (Clear Sky), animated cutscene in The Sun-Wheel and Mt. Kanna",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Ruu's Melody": {
+        "Chinese_name": "阿瑠的歌",
+        "tags": [
+            "Animated cutscene in The Sun-Wheel and Mt. Kanna",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Pathway to the Hidden Isles": {
+        "Chinese_name": "狭径缒幽",
+        "tags": [
+            "The Serpent's Bowels",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Sink Into Oblivion": {
+        "Chinese_name": "湮没的忆念",
+        "tags": [
+            "The Serpent's Bowels, Enkanomiya",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Abysmal Region": {
+        "Chinese_name": "重渊之深",
+        "tags": [
+            "Enkanomiya",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Glooming Light": {
+        "Chinese_name": "晦蒙幽光",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Shallow Melancholy": {
+        "Chinese_name": "游旅哀丝",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Drops of Time": {
+        "Chinese_name": "逝川流光",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Evanescent Moments": {
+        "Chinese_name": "惚恍疑梦",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Glimpse of Old Dreams": {
+        "Chinese_name": "尘梦迷漾",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Like in a Haze": {
+        "Chinese_name": "雾沉海瞑",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Chthonian Voices": {
+        "Chinese_name": "冥幽的细语",
+        "tags": [
+            "Enkanomiya (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Gaze of the Ancients": {
+        "Chinese_name": "逝往的凝望",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Soft Moans of the Remains": {
+        "Chinese_name": "荒墟的缅述",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Long Dark Night": {
+        "Chinese_name": "长夜难明",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "A Dim Echo of the Past": {
+        "Chinese_name": "昔时颓响",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "In the Brink of Time": {
+        "Chinese_name": "狭间的萦思",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Drift Along the Lethe": {
+        "Chinese_name": "沉流之航",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Now and Forevermore": {
+        "Chinese_name": "无明无夜",
+        "tags": [
+            "Enkanomiya (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "At Dawn and Dusk": {
+        "Chinese_name": "昏晓流易",
+        "tags": [
+            "Dainichi Mikoshi",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Tales of Woe": {
+        "Chinese_name": "哀致渊永",
+        "tags": [
+            "Dainichi Mikoshi (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Tearless Souls of Byakuya": {
+        "Chinese_name": "白夜的子民",
+        "tags": [
+            "Dainichi Mikoshi (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Realm of Tokoyo": {
+        "Chinese_name": "常世之国",
+        "tags": [
+            "Dainichi Mikoshi (Evernight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Hope or Nostalgia": {
+        "Chinese_name": "祈望与乡魂",
+        "tags": [
+            "Dainichi Mikoshi (Whitenight)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Chrysalis Suspirii": {
+        "Chinese_name": "哀息之茧",
+        "tags": [
+            "Narukami Island: Tenshukaku (Phase 1)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Saltatio Favillae": {
+        "Chinese_name": "燃烬之舞",
+        "tags": [
+            "Narukami Island: Tenshukaku (Phase 2)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Bane of Ambitions": {
+        "Chinese_name": "薙除杂妄",
+        "tags": [
+            "Plane of Euthymia (Phase 1)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Thunderings of the Merciless": {
+        "Chinese_name": "雷霆的威光",
+        "tags": [
+            "Plane of Euthymia (Phase 2), End of the Oneiric Euthymia",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "The Almighty Violet Thunder": {
+        "Chinese_name": "稻光神鸣",
+        "tags": [
+            "End of the Oneiric Euthymia (Baleful Shadowlord)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Combat Beneath the Waves": {
+        "Chinese_name": "寒光裂涛",
+        "tags": [
+            "Enkanomiya (Combat)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Undersea Encounters": {
+        "Chinese_name": "鲸波鼍浪",
+        "tags": [
+            "Enkanomiya (Combat)",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "No Turning Back": {
+        "Chinese_name": "背水一战",
+        "tags": [
+            "Coral Defenders",
+            "Islands of the Lost and Forgotten"
+        ]
+    },
+    "Liyue (Soundtrack)": {
+        "Chinese_name": "璃月",
+        "tags": [
+            "Liyue Harbor (Day), animated cutscene in Light Upon the Sea",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Moon in One's Cup": {
+        "Chinese_name": "杯中明月",
+        "tags": [
+            "Liyue Harbor (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Relaxation in Liyue": {
+        "Chinese_name": "商港的闲暇",
+        "tags": [
+            "Liyue Harbor (Dusk)",
+            "Jade Moon Upon a Sea of Clouds",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Maiden's Longing": {
+        "Chinese_name": "环佩凭栏望千帆",
+        "tags": [
+            "Sea of Clouds",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Sun Rises in Liyue": {
+        "Chinese_name": "璃月的日出",
+        "tags": [
+            "Liyue Harbor (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Good Night, Liyue": {
+        "Chinese_name": "晚安，璃月",
+        "tags": [
+            "Liyue Harbor (Dawn)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Call It a Day in Liyue": {
+        "Chinese_name": "璃月的一日将尽",
+        "tags": [
+            "Liyue Harbor (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Clear Sky Over Liyue": {
+        "Chinese_name": "璃月的晴空",
+        "tags": [
+            "Liyue Harbor (Night), Sea of Clouds",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "A Transparent Moon (Liuli Pavilion)": {
+        "Chinese_name": "晶莹可掇",
+        "tags": [
+            "Liuli Pavilion, Xinyue Kiosk, Liyue Estate: Exquisite Mansion",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Treasury From the Northland": {
+        "Chinese_name": "北国的宝库",
+        "tags": [
+            "Northland Bank",
+            "Jade Moon Upon a Sea of Clouds",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Cozy Leisure Time (Wangshu Daytime)": {
+        "Chinese_name": "品茗尝清心",
+        "tags": [
+            "Wangshu Inn (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Sojourner's Sweet Dream (Wangshu Night)": {
+        "Chinese_name": "美梦抚归人",
+        "tags": [
+            "Wangshu Inn (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Winding River": {
+        "Chinese_name": "逶迤绿水长",
+        "tags": [
+            "Bishui Plain",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Mild Waves": {
+        "Chinese_name": "轻波微荡",
+        "tags": [
+            "Bishui Plain (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Rhythm Amidst the Reeds": {
+        "Chinese_name": "钓客漫歌",
+        "tags": [
+            "Bishui Plain (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Flows of Jade-Like Water": {
+        "Chinese_name": "源流汇响",
+        "tags": [
+            "Bishui Plain (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Blossoms Across the Valley": {
+        "Chinese_name": "幽谷多芳草",
+        "tags": [
+            "Bishui Plain",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Flow of Mildness": {
+        "Chinese_name": "多情东逝",
+        "tags": [
+            "Bishui Plain (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Stroll in the Shadows": {
+        "Chinese_name": "山阴漫步",
+        "tags": [
+            "Bishui Plain (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Melodious Flute": {
+        "Chinese_name": "古道笛声",
+        "tags": [
+            "Bishui Plain",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Gentle Rain": {
+        "Chinese_name": "清昼细雨",
+        "tags": [
+            "Stone Gate, Sea of Clouds, Guyun Stone Forest (Night), Cool Isle (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Vague Whispers": {
+        "Chinese_name": "竹林的轻语",
+        "tags": [
+            "Bishui Plain, Stone Gate",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Legends Swept Away": {
+        "Chinese_name": "不复回的传说",
+        "tags": [
+            "Bishui Plain (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Joy of Returning": {
+        "Chinese_name": "归客的轻歌",
+        "tags": [
+            "Qiongji Estuary (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Loner's Departure": {
+        "Chinese_name": "离原之草",
+        "tags": [
+            "Qiongji Estuary",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Foxes at Play": {
+        "Chinese_name": "原上狐鸣",
+        "tags": [
+            "Qiongji Estuary (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Plain of Nostalgia": {
+        "Chinese_name": "怀乡的原野",
+        "tags": [
+            "Qiongji Estuary, Minlin",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Another Hopeful Tomorrow": {
+        "Chinese_name": "希望的明日",
+        "tags": [
+            "Sal Terrae, Luhua Pool, Guyun Stone Forest, Yaoguang Shoal (Day), Cool Isle (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "This Little Light of Mine": {
+        "Chinese_name": "小小的光",
+        "tags": [
+            "Sal Terrae (Day), Guyun Stone Forest (Day), Cool Isle (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Legend of Redemption": {
+        "Chinese_name": "宽怀的传说",
+        "tags": [
+            "Sal Terrae (Day), Guyun Stone Forest (Day), Cool Isle (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Hazy Light": {
+        "Chinese_name": "暧暧含光",
+        "tags": [
+            "Luhua Pool (Day), Yaoguang Shoal, Cool Isle (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Scattered Amongst the Tides": {
+        "Chinese_name": "潮汐浮梦",
+        "tags": [
+            "Sal Terrae (Night), Luhua Pool (Night), Guyun Stone Forest (Night), Yaoguang Shoal, Cool Isle (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Rhythms From the Conch": {
+        "Chinese_name": "随海风而来",
+        "tags": [
+            "Sea of Clouds",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Peaceful Hike (Qingce Daytime)": {
+        "Chinese_name": "山风拂萝衣",
+        "tags": [
+            "Qingce Village (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "The Fading Stories (Qingce Night)": {
+        "Chinese_name": "不再年轻的村庄",
+        "tags": [
+            "Qingce Village (Night), dialogue scene in The Formula for a Miracle",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Wandering Flight": {
+        "Chinese_name": "倦飞之鸟",
+        "tags": [
+            "Huaguang Stone Forest (Day), Floating Abode",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Faint Tracks": {
+        "Chinese_name": "追寻仙迹",
+        "tags": [
+            "Huaguang Stone Forest",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Idle Away From Mountains": {
+        "Chinese_name": "无心出岫",
+        "tags": [
+            "Huaguang Stone Forest",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Humming Amidst Rocks": {
+        "Chinese_name": "峭岩作歌",
+        "tags": [
+            "Huaguang Stone Forest (Night), Wuwang Hill, Enter the \"border\"",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Above the Sea of Clouds": {
+        "Chinese_name": "云海之上",
+        "tags": [
+            "Qingyun Peak (Night), Mt. Aocang (Night), Mt. Hulao (Night), Nantianmen (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Adeptus' Retirement": {
+        "Chinese_name": "偷闲浮生",
+        "tags": [
+            "Qingyun Peak (Day), Mt. Aocang (Day), Mt. Hulao (Day), Nantianmen (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "A Casual Visit": {
+        "Chinese_name": "亭台闲坐",
+        "tags": [
+            "Qingyun Peak (Night), Mt. Aocang (Night), Mt. Hulao (Night), Nantianmen (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "A Serendipitous Encounter": {
+        "Chinese_name": "偶遇归人",
+        "tags": [
+            "Qingyun Peak (Day), Mt. Aocang (Day), Mt. Hulao (Day), Nantianmen (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Freedom of Crane": {
+        "Chinese_name": "白鹤之飞",
+        "tags": [
+            "Qingyun Peak, Mt. Aocang, Mt. Hulao, Nantianmen, Floating Abode",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Rays of Sunlight": {
+        "Chinese_name": "天霁日出",
+        "tags": [
+            "Qingyun Peak (Day), Mt. Aocang (Day), Mt. Hulao (Day), Nantianmen (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Rainbow at Summit": {
+        "Chinese_name": "虹霞垂天",
+        "tags": [
+            "Qingyun Peak (Day), Mt. Aocang (Day), Mt. Hulao (Day), Nantianmen (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Spring in Clouds": {
+        "Chinese_name": "清泉入云海",
+        "tags": [
+            "Qingyun Peak (Day), Mt. Aocang (Day), Mt. Hulao (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Adeptus' Solace": {
+        "Chinese_name": "仙家独酌",
+        "tags": [
+            "Minlin",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "The Absence of Adepti": {
+        "Chinese_name": "洞府徘徊",
+        "tags": [
+            "Qingyun Peak (Night), Mt. Aocang (Night), Mt. Hulao (Night), Nantianmen (Night), Minlin",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Emerging Clouds": {
+        "Chinese_name": "风静云起",
+        "tags": [
+            "Huaguang Stone Forest, Minlin",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Drink With a Hermit": {
+        "Chinese_name": "岩间对饮",
+        "tags": [
+            "Minlin, Floating Abode",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Moss Covered Path": {
+        "Chinese_name": "山路青苔",
+        "tags": [
+            "Qiongji Estuary (Night), Mingyun Village",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Bird Call From Afar": {
+        "Chinese_name": "云间孤鸿",
+        "tags": [
+            "Qingyun Peak (Night), Mt. Aocang (Night), Mt. Hulao (Night)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Red Leaf on the Chessboard": {
+        "Chinese_name": "仙人的棋局",
+        "tags": [
+            "Minlin (Day), Enter the \"border\" (Ceremony Site)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Secluded Sanctuary": {
+        "Chinese_name": "幽涧泠泠",
+        "tags": [
+            "Liyue (Rain), Wuwang Hill, Enter the \"border\"",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Flickering Petals": {
+        "Chinese_name": "浮影掠光映百合",
+        "tags": [
+            "Sea of Clouds, Lisha",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Swinging in the Breeze": {
+        "Chinese_name": "青云流风饰霓裳",
+        "tags": [
+            "Sea of Clouds, Lisha",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Solitude Mountains": {
+        "Chinese_name": "孑立的群岩",
+        "tags": [
+            "Lisha",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Distant Resonance": {
+        "Chinese_name": "悠远的鸟鸣",
+        "tags": [
+            "Lisha",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Foregone Giants": {
+        "Chinese_name": "悠古的脚步",
+        "tags": [
+            "Lisha",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Linger in the Valley": {
+        "Chinese_name": "山间回望",
+        "tags": [
+            "Dunyu Ruins (Day), Lingju Pass (Day), Qingxu Pool (Day)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Slumbering Lore": {
+        "Chinese_name": "沉睡的往昔",
+        "tags": [
+            "Dunyu Ruins, Lingju Pass, Qingxu Pool",
+            "Jade Moon Upon a Sea of Clouds",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Silent Ruins": {
+        "Chinese_name": "黯然的城塞",
+        "tags": [
+            "Dunyu Ruins, Lingju Pass, Qingxu Pool",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Lone Drifter": {
+        "Chinese_name": "孤独的漫行者",
+        "tags": [
+            "Dunyu Ruins, Lingju Pass, Qingxu Pool",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Lost Expectation": {
+        "Chinese_name": "失落的愿景",
+        "tags": [
+            "Dunyu Ruins, Lingju Pass, Qingxu Pool, animated cutscene in The Illuminated Beast of the Sea of Clouds",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "The Realm Within (Soundtrack)": {
+        "Chinese_name": "壶中洞天",
+        "tags": [
+            "Domains",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Rapid as Wildfires": {
+        "Chinese_name": "疾如猛火",
+        "tags": [
+            "Liyue (Combat)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Chasing the Torrents": {
+        "Chinese_name": "激流逐浪",
+        "tags": [
+            "Liyue (Combat)",
+            "Jade Moon Upon a Sea of Clouds"
+        ]
+    },
+    "Gallant Challenge": {
+        "Chinese_name": "鲜衣游侠",
+        "tags": [
+            "Liyue (Combat)",
+            "Jade Moon Upon a Sea of Clouds",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Wordless Cliffs": {
+        "Chinese_name": "丹砂巍巍",
+        "tags": [
+            "The Chasm, Lumberpick Valley",
+            "Millelith's Watch"
+        ]
+    },
+    "On the Vast Earth": {
+        "Chinese_name": "绝域苍茫",
+        "tags": [
+            "The Chasm, Lumberpick Valley",
+            "Millelith's Watch"
+        ]
+    },
+    "Lithic Oath": {
+        "Chinese_name": "万壑千岩",
+        "tags": [
+            "The Chasm (Day), Lumberpick Valley (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "Under the Clear Sky": {
+        "Chinese_name": "清风朗月",
+        "tags": [
+            "The Chasm (Night), Lumberpick Valley (Night)",
+            "Millelith's Watch"
+        ]
+    },
+    "As Dusk Falls": {
+        "Chinese_name": "日落百嶂静",
+        "tags": [
+            "The Chasm (Night), Lumberpick Valley (Night)",
+            "Millelith's Watch"
+        ]
+    },
+    "Beyond the Distant Horizon": {
+        "Chinese_name": "大荒沉沉",
+        "tags": [
+            "The Chasm (Day), Lumberpick Valley (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "On a Cold Night": {
+        "Chinese_name": "寒夜月如霜",
+        "tags": [
+            "The Chasm (Night), Lumberpick Valley (Night)",
+            "Millelith's Watch"
+        ]
+    },
+    "Defenders' Volition": {
+        "Chinese_name": "古戍苍苍",
+        "tags": [
+            "The Chasm (Day), Lumberpick Valley (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "Solitary Stray Bird": {
+        "Chinese_name": "杳杳孤鸿",
+        "tags": [
+            "The Chasm (Day), Lumberpick Valley (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "The Starlit Dome": {
+        "Chinese_name": "山瞑星河稀",
+        "tags": [
+            "The Chasm (Night), Lumberpick Valley (Night)",
+            "Millelith's Watch"
+        ]
+    },
+    "The Faint Distant Mountains": {
+        "Chinese_name": "苍岭悠悠",
+        "tags": [
+            "Lumberpick Valley (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "Moon Above the Valley": {
+        "Chinese_name": "空山霄月",
+        "tags": [
+            "Lumberpick Valley (Night)",
+            "Millelith's Watch"
+        ]
+    },
+    "Wandering Clouds (Soundtrack)": {
+        "Chinese_name": "野云万里",
+        "tags": [
+            "The Chasm (Day)",
+            "Millelith's Watch"
+        ]
+    },
+    "Secret Is Held": {
+        "Chinese_name": "缄默的意义",
+        "tags": [
+            "Roots of the Valley of Life",
+            "Millelith's Watch"
+        ]
+    },
+    "Dreaming Earth": {
+        "Chinese_name": "无人知晓的梦",
+        "tags": [
+            "Roots of the Valley of Life",
+            "Millelith's Watch"
+        ]
+    },
+    "Frail Peace": {
+        "Chinese_name": "不稳的预感",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "Falls the Shadow": {
+        "Chinese_name": "隐映霜崖",
+        "tags": [
+            "Chamber of Twisted Cranes, City of Hidden Runes, Realm of Snaring Illusions, Entanglement of Past Dreams",
+            "Millelith's Watch"
+        ]
+    },
+    "Prowl the Shadows": {
+        "Chinese_name": "暗影潜形",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "A Moment of Unsettledness": {
+        "Chinese_name": "穷地之险",
+        "tags": [
+            "Chamber of Twisted Cranes, City of Hidden Runes, Realm of Snaring Illusions, Entanglement of Past Dreams",
+            "Millelith's Watch"
+        ]
+    },
+    "Blind Search": {
+        "Chinese_name": "盲目的探索",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "Into the Airless Void": {
+        "Chinese_name": "虚旷之地",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "A Glimmer of Hope": {
+        "Chinese_name": "萤爝微光",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed, dialogue scene in Memories of Inteyvat",
+            "Millelith's Watch"
+        ]
+    },
+    "Crossing Roads": {
+        "Chinese_name": "尘路绮错",
+        "tags": [
+            "Chamber of Twisted Cranes, City of Hidden Runes, Realm of Snaring Illusions, Entanglement of Past Dreams",
+            "Millelith's Watch"
+        ]
+    },
+    "Stillness of the Ground": {
+        "Chinese_name": "静默的土地",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "Lost in Gravel and Stone": {
+        "Chinese_name": "行过重岩",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "In Gloomy Meditation": {
+        "Chinese_name": "冥岩的覃思",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Chasm's Bed",
+            "Millelith's Watch"
+        ]
+    },
+    "A Venture Into the Unknown": {
+        "Chinese_name": "重岫而游",
+        "tags": [
+            "Chamber of Twisted Cranes, City of Hidden Runes, Realm of Snaring Illusions, Entanglement of Past Dreams",
+            "Millelith's Watch"
+        ]
+    },
+    "Decayed in the Darkness": {
+        "Chinese_name": "繁华已逝",
+        "tags": [
+            "Nameless Ruins (Central Area), Unknown Sanctuary",
+            "Millelith's Watch"
+        ]
+    },
+    "A Shard From Past Glories": {
+        "Chinese_name": "破碎的荣耀",
+        "tags": [
+            "Nameless Ruins (Central Area)",
+            "Millelith's Watch"
+        ]
+    },
+    "Ripples of the Past": {
+        "Chinese_name": "向时的涟沦",
+        "tags": [
+            "Nameless Ruins (Northwest and Southeast Ruins), Inverted City, Defiled Chamber",
+            "Millelith's Watch"
+        ]
+    },
+    "The Long Lost Days": {
+        "Chinese_name": "久已消逝之物",
+        "tags": [
+            "Nameless Ruins (Northwest and Southeast Ruins), Inverted City, Defiled Chamber",
+            "Millelith's Watch"
+        ]
+    },
+    "A Path to Delusions": {
+        "Chinese_name": "深邃诡幻之径",
+        "tags": [
+            "The Glowing Narrows, Defiled Chamber",
+            "Millelith's Watch"
+        ]
+    },
+    "A Route to Fantasies": {
+        "Chinese_name": "觭梦沉酣之处",
+        "tags": [
+            "The Glowing Narrows",
+            "Millelith's Watch"
+        ]
+    },
+    "Stories of Remote Antiquity": {
+        "Chinese_name": "深埋地心的瑰秘",
+        "tags": [
+            "The Court of Pillars",
+            "Millelith's Watch"
+        ]
+    },
+    "Irresistible Force": {
+        "Chinese_name": "势若风雷",
+        "tags": [
+            "Chamber of Twisted Cranes, City of Hidden Runes, Realm of Snaring Illusions, Entanglement of Past Dreams (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Tremor of Menace": {
+        "Chinese_name": "临阵的战栗",
+        "tags": [
+            "Ad-Hoc Main Tunnel, The Chasm: Main Mining Area, The Serpent's Cave, Underground Waterway, Stony Halls, The Lost Valley (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Seething Animosity": {
+        "Chinese_name": "腾溢的敌意",
+        "tags": [
+            "Nameless Ruins (Central Area), Unknown Sanctuary (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Undercurrents of Hostility": {
+        "Chinese_name": "争斗的暗流",
+        "tags": [
+            "Nameless Ruins (Northwest and Southeast Ruins), Inverted City (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Impending Danger": {
+        "Chinese_name": "迫近的险乱",
+        "tags": [
+            "The Glowing Narrows (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Inevitable Conflict": {
+        "Chinese_name": "激扬的韧战",
+        "tags": [
+            "The Court of Pillars (Combat)",
+            "Millelith's Watch"
+        ]
+    },
+    "Inazuma (Soundtrack)": {
+        "Chinese_name": "稻妻",
+        "tags": [
+            "Inazuma City (full concert arrangement; Day & Dawn)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Fall of Maples": {
+        "Chinese_name": "叶落荒波",
+        "tags": [
+            "Inazuma City (Night), animated cutscene in Follow the Wind",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Separated Dream": {
+        "Chinese_name": "羁留之客",
+        "tags": [
+            "Inazuma City (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Streets of Elegance": {
+        "Chinese_name": "风雅之里",
+        "tags": [
+            "Inazuma City (Day), animated cutscene in The Omnipresent God",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Lingering Blossom": {
+        "Chinese_name": "永远的花火",
+        "tags": [
+            "Hanamizaka & Tenryou (Day), Silken Courtyard (Day), animated cutscene in Together Under the Fireworks",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "The Land of Her Serenity": {
+        "Chinese_name": "静谧的国土",
+        "tags": [
+            "Inazuma City (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "In the Strange Realm of Sakura": {
+        "Chinese_name": "异乡之樱",
+        "tags": [
+            "Inazuma City (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Blue Dream": {
+        "Chinese_name": "恒静之梦",
+        "tags": [
+            "Inazuma City (Dusk), Tenshukaku (Night), Silken Courtyard (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Dream of Scattered Petals": {
+        "Chinese_name": "华散之梦",
+        "tags": [
+            "Inazuma City (Night), Silken Courtyard (Night), dialogue scene in New Shoots from Old Branches",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Thoughts of Lightning": {
+        "Chinese_name": "鸣神的思虑",
+        "tags": [
+            "Narukami Island (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "The Mysterious Islands": {
+        "Chinese_name": "神秘之岛",
+        "tags": [
+            "Narukami Island (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Sakura-Scented Kiseru": {
+        "Chinese_name": "余温尚存",
+        "tags": [
+            "Narukami Island (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Her Legacy": {
+        "Chinese_name": "未曾失落的回忆",
+        "tags": [
+            "Narukami Island, Silken Courtyard (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Everlasting Devotion": {
+        "Chinese_name": "绵延的守护",
+        "tags": [
+            "Narukami Island (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Kitsune's Mask": {
+        "Chinese_name": "悠远的关怀",
+        "tags": [
+            "Narukami Island (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Hanachirusato (Soundtrack)": {
+        "Chinese_name": "华散之缘",
+        "tags": [
+            "Narukami Island (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Time to Say Farewell": {
+        "Chinese_name": "终有谢时",
+        "tags": [
+            "Narukami Island, dialogue scene in The Wind Settles",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Flickering Sakura": {
+        "Chinese_name": "雷樱闪闪",
+        "tags": [
+            "Narukami Island (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Sigh of an Old Friend": {
+        "Chinese_name": "故人的哀嗔",
+        "tags": [
+            "Mt. Yougou (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "The Sealed Harbor": {
+        "Chinese_name": "闭锁之港",
+        "tags": [
+            "Ritou (Day), animated cutscene in Setting Sail",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Island for Outlanders": {
+        "Chinese_name": "外人之岛",
+        "tags": [
+            "Ritou (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Dream of Homeland": {
+        "Chinese_name": "商人的思归",
+        "tags": [
+            "Ritou (Night), Komore Teahouse, Silken Courtyard (Night), Inazuman Walled House: Refined Estate",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Interwoven Nostalgia": {
+        "Chinese_name": "乡愁如丝",
+        "tags": [
+            "Ritou (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Preparation of Matsuri": {
+        "Chinese_name": "祭典将至",
+        "tags": [
+            "Amakane Island, Mt. Yougou (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Island of Hanabi": {
+        "Chinese_name": "硝彩回忆",
+        "tags": [
+            "Amakane Island",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Murmuring Creek": {
+        "Chinese_name": "林间清流",
+        "tags": [
+            "Chinju Forest",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Remaining Tenderness": {
+        "Chinese_name": "可待追忆",
+        "tags": [
+            "Mt. Yougou (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "A Harmonious Rest": {
+        "Chinese_name": "安宁的天光",
+        "tags": [
+            "Konda Village (Day), Silken Courtyard (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Hakushin's Lullaby": {
+        "Chinese_name": "神狐的祝福",
+        "tags": [
+            "Konda Village (Night), Silken Courtyard (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Where the Heart Settles": {
+        "Chinese_name": "神愿之所",
+        "tags": [
+            "Mt. Yougou (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Miko's Night": {
+        "Chinese_name": "空寂如常",
+        "tags": [
+            "Mt. Yougou (Night), Depths of Mt. Yougou, Konda Village (Cave)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Where the Shirasagi Dances": {
+        "Chinese_name": "翩翩之庭",
+        "tags": [
+            "Kamisato Estate",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Shirasagi's Demeanor": {
+        "Chinese_name": "白鹭风仪",
+        "tags": [
+            "Yashiro Commission Headquarters, Silent Seeker of Knowledge",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Valor & Prowess": {
+        "Chinese_name": "天领奉行御帐前",
+        "tags": [
+            "Kujou Encampment (Day)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "A Night Watch": {
+        "Chinese_name": "营垒森森",
+        "tags": [
+            "Kujou Encampment (Night)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Samurai's Sorrow": {
+        "Chinese_name": "无家之伤",
+        "tags": [
+            "Kujou Encampment (Night), dialogue scene in Ere the End, a Glance Back",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Scarred Island": {
+        "Chinese_name": "伤痛的事话",
+        "tags": [
+            "Higi Village (formerly), Inazuma (Waverider; formerly), Yashiori Island (Party Setup; formerly, Cloudy), dialogue scenes in A Dance of Destruction and The Kabukimono's Finale",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Silent Testimony": {
+        "Chinese_name": "寂静的证言",
+        "tags": [
+            "Inazuma City (Cave), Araumi, Kannazuka, Higi Village (formerly), Inazuma (Waverider; formerly), Yashiori Island (Party Setup; formerly, Cloudy)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Soul of Soulless Conditions": {
+        "Chinese_name": "无灵魂处的灵魂",
+        "tags": [
+            "Kannazuka, Higi Village (formerly), Inazuma (Waverider; formerly), Yashiori Island (Party Setup; formerly, Cloudy), dialogue scene in Through the Mist, a Name Unveiled",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Ones Who Strive to Live": {
+        "Chinese_name": "八酝之民",
+        "tags": [
+            "Higi Village (formerly), Inazuma (Waverider; formerly), Yashiori Island (Party Setup; formerly, Cloudy)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Resounding of Silence": {
+        "Chinese_name": "湮没之音",
+        "tags": [
+            "Mikage Furnace (Balethunder), Mt. Yougou (Electrified Pool)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "You Shall Not Tempt It": {
+        "Chinese_name": "无可试探",
+        "tags": [
+            "Mikage Furnace (Balethunder), Mt. Yougou (Electrified Pool)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "The Lost Mound": {
+        "Chinese_name": "无神的丘冢",
+        "tags": [
+            "Inazuma City (Cave), Araumi, Kannazuka, Higi Village (formerly), Yashiori Island (Party Setup; formerly, Cloudy), dialogue scene in The Night-Bird Falls at the Curtain's Call",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Dirge of the Soundless": {
+        "Chinese_name": "失语的哀诉",
+        "tags": [
+            "Kannazuka, Higi Village (formerly), Inazuma (Waverider; formerly), Yashiori Island (Party Setup; formerly, Cloudy)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Nothing but Ivy": {
+        "Chinese_name": "葛藤无奈满石垣",
+        "tags": [
+            "Araumi (Surface), Kannazuka, Inazuma (Waverider; formerly), dialogue scene in The Night-Bird Falls at the Curtain's Call",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Shadow of War": {
+        "Chinese_name": "荒丘残月阴翳浓",
+        "tags": [
+            "Araumi (Surface), Kannazuka, Inazuma (Waverider; formerly), dialogue scene in The Night-Bird Falls at the Curtain's Call",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Another Conflict Incoming": {
+        "Chinese_name": "哀哉鼓角未曾歇",
+        "tags": [
+            "Kannazuka",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Fortification of Resistance": {
+        "Chinese_name": "义军之砦",
+        "tags": [
+            "Fort Fujitou",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Unwavering March": {
+        "Chinese_name": "坚毅的行军",
+        "tags": [
+            "Fort Fujitou",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Caress of the Spirit": {
+        "Chinese_name": "名椎之滩",
+        "tags": [
+            "Jinren Island, Nazuchi Beach, Fort Mumei",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Stranded Wish": {
+        "Chinese_name": "搁浅的愿景",
+        "tags": [
+            "Nazuchi Beach, Fort Mumei",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Busy Silhouettes": {
+        "Chinese_name": "碌碌残影",
+        "tags": [
+            "Yashiori Island",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "A Hollowed Skull": {
+        "Chinese_name": "虚空的处境",
+        "tags": [
+            "Yashiori Island",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Whispering Tatarigami": {
+        "Chinese_name": "祟神低语",
+        "tags": [
+            "Yashiori Island (pre-repaired wards), dialogue scene in Proof of Guilt",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Orobashi's Teaching": {
+        "Chinese_name": "牺牲的教谕",
+        "tags": [
+            "Yashiori Island",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Forgotten Epic": {
+        "Chinese_name": "雷隐遗事",
+        "tags": [
+            "Musoujin Gorge, Higi Village",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Serpent's Tragedy": {
+        "Chinese_name": "亡者的诉说",
+        "tags": [
+            "Musoujin Gorge, Higi Village",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Embrace of Sea Waves": {
+        "Chinese_name": "熟悉的航程",
+        "tags": [
+            "Golden Apple Archipelago (Fog, Red Sky), animated cutscene in Setting Sail",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Duel in the Mist": {
+        "Chinese_name": "斩雾破竹",
+        "tags": [
+            "Inazuma (Combat), Domains",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Against the Invisible Net": {
+        "Chinese_name": "难逃之阵",
+        "tags": [
+            "Inazuma (Combat), Domains",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Overlord of the Thunderstorm": {
+        "Chinese_name": "空行不羁",
+        "tags": [
+            "Inazuma (Combat), Domains",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Fiery Pursuit": {
+        "Chinese_name": "驱敌逐北",
+        "tags": [
+            "Inazuma (Combat; formerly, Normal Boss)",
+            "Realm of Tranquil Eternity"
+        ]
+    },
+    "Pathos of Shirasagi": {
+        "Chinese_name": "白鹭舒翼",
+        "tags": [
+            "Animated cutscene in With You",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "The Comrades' Ambush": {
+        "Chinese_name": "妙策急袭",
+        "tags": [
+            "Animated cutscene in In the Name of the Resistance",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Trial of Thunder": {
+        "Chinese_name": "雷霆之判",
+        "tags": [
+            "Animated cutscene in Amidst Stormy Judgment",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Shogun's Abdication": {
+        "Chinese_name": "裁决已定…？",
+        "tags": [
+            "Animated cutscene in Amidst Stormy Judgment",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Unpredicted Conspiracy": {
+        "Chinese_name": "未料的密谋",
+        "tags": [
+            "Animated cutscene in Delusion",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "A Sense of Foreboding": {
+        "Chinese_name": "危急的预觉",
+        "tags": [
+            "Animated cutscene in Duel Before the Throne",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Wreck of Eternal Bane": {
+        "Chinese_name": "虚荣的落幕",
+        "tags": [
+            "Animated cutscene in Duel Before the Throne",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Marching to Victory": {
+        "Chinese_name": "向着胜利",
+        "tags": [
+            "Animated cutscene in The Omnipresent God",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Approaching Thunder": {
+        "Chinese_name": "疾雷万钧",
+        "tags": [
+            "Animated cutscene in The Omnipresent God",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Bitter Triumph": {
+        "Chinese_name": "苦涩的凯旋",
+        "tags": [
+            "Animated cutscene in The Omnipresent God",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Her Imperial Majesty": {
+        "Chinese_name": "殊胜之身",
+        "tags": [
+            "Animated cutscene in To Hear Mortal Hearts",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Eureka Moment": {
+        "Chinese_name": "灵光乍现",
+        "tags": [
+            "Animated cutscene in New Beginning",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Odyssey to the Uncharted": {
+        "Chinese_name": "另一段旅途",
+        "tags": [
+            "Animated cutscene in Away With Obsessions and Falsehood",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Unforeseen Disaster": {
+        "Chinese_name": "急转直下",
+        "tags": [
+            "Animated cutscene in The Shadows Deepen",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Fury Unleashed": {
+        "Chinese_name": "晶明的怒火",
+        "tags": [
+            "Animated cutscene in The Shadows Deepen",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Separate Ways": {
+        "Chinese_name": "命途两歧",
+        "tags": [
+            "Animated cutscene in The Shadows Deepen",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Take This!": {
+        "Chinese_name": "救星登场",
+        "tags": [
+            "Animated cutscene in The Oni's Pride",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Suffering of Parting": {
+        "Chinese_name": "爱别离苦",
+        "tags": [
+            "Animated cutscene in The Oni's Evil",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Under the Sun": {
+        "Chinese_name": "风定天晴",
+        "tags": [
+            "Animated cutscene in The Oni's Pride",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Vanished Beyond Recall": {
+        "Chinese_name": "渐淡的旧事",
+        "tags": [
+            "Dainichi Mikoshi (Three Realms Gateway Offering)",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Nothing but a Dream": {
+        "Chinese_name": "泡沫的永恒",
+        "tags": [
+            "Dainichi Mikoshi (Three Realms Gateway Offering)",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Illusory Apparitions": {
+        "Chinese_name": "郁郁的形影",
+        "tags": [
+            "Dainichi Mikoshi (Three Realms Gateway Offering)",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Midnight in Mondstadt": {
+        "Chinese_name": "蒙德的午夜",
+        "tags": [
+            "Mondstadt City (Night)",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Tagelied nächtlicher Gedanken": {
+        "Chinese_name": "挽夜的晓歌",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Traum durch die Dämmerung, erster Satz": {
+        "Chinese_name": "暮景遐思·其一",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Traum durch die Dämmerung, zweiter Satz": {
+        "Chinese_name": "暮景遐思·其二",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Das Folkwanglied": {
+        "Chinese_name": "圣眷的净土",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Ein vogellin, so wol getan": {
+        "Chinese_name": "鸲翮的皇庭",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Soliloquy of the Star": {
+        "Chinese_name": "幽星的独言",
+        "tags": [
+            "Golden Apple Archipelago (Red Sky), Temple of the Star Latitudes",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Flickering Brightness": {
+        "Chinese_name": "熙焰明光",
+        "tags": [
+            "The Islands' Stirring Strings",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Burst Into Flames": {
+        "Chinese_name": "烈火轰雷",
+        "tags": [
+            "The Islands' Stirring Strings",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Die Mittsommernacht-Fantasie": {
+        "Chinese_name": "仲夏夜绮思",
+        "tags": [
+            "Immernachtreich Keep",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "The Liyue Romans-Fleuves": {
+        "Chinese_name": "且看今朝",
+        "tags": [
+            "Animated cutscene in Three to Get Ready, and Here We Go",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Bravery and Tenderness": {
+        "Chinese_name": "缟鹤怀霜",
+        "tags": [
+            "Animated cutscene in Where the Heart Finds Rest",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Rumble of Thunder": {
+        "Chinese_name": "雷霆猛震",
+        "tags": [
+            "Animated cutscene in Radiant Sakura",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Roots of Tranquil Eternity": {
+        "Chinese_name": "永恒的脉络",
+        "tags": [
+            "Animated cutscene in Radiant Sakura",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Miko's Ingenuity": {
+        "Chinese_name": "神子的机思",
+        "tags": [
+            "Animated cutscene in Banquet of Parting",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "A Region Rediscovered": {
+        "Chinese_name": "重现的国度",
+        "tags": [
+            "Animated cutscene in The Entrance to Tokoyo",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Cold Light": {
+        "Chinese_name": "尚未消殒的光",
+        "tags": [
+            "Animated cutscene in Three Realms Gateway Offering: Aftermath",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Broken Blade": {
+        "Chinese_name": "破裂的剑刃",
+        "tags": [
+            "Animated cutscene in The Black Serpent Knights' Glory",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Unfulfilled Aspirations": {
+        "Chinese_name": "未竟之志",
+        "tags": [
+            "Animated cutscene in The Black Serpent Knights' Glory",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Evergreen Cypress": {
+        "Chinese_name": "贞柏临风",
+        "tags": [
+            "Animated cutscene in New Shoots from Old Branches",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Magnificent Irodori": {
+        "Chinese_name": "灼灼容彩",
+        "tags": [
+            "Animated cutscenes in Hues of the Violet Garden",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Breaking Point": {
+        "Chinese_name": "孤注一掷",
+        "tags": [
+            "Animated cutscene in End of the Line",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "A Clueless Case": {
+        "Chinese_name": "奇诡难测",
+        "tags": [
+            "Animated cutscene in At Tunnel's End, Light",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Hang by a Thread": {
+        "Chinese_name": "命悬一线",
+        "tags": [
+            "Animated cutscene in At Tunnel's End, Light",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Yaksha's Reminiscence": {
+        "Chinese_name": "夜叉的追想",
+        "tags": [
+            "Animated cutscene in At Tunnel's End, Light",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Easier Said Than Done": {
+        "Chinese_name": "知易行难",
+        "tags": [
+            "Animated cutscene in Foregone Conclusion",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "A Single Thought": {
+        "Chinese_name": "一念一心",
+        "tags": [
+            "Animated cutscene in Ere the End, a Glance Back",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Prelude of Change": {
+        "Chinese_name": "动变的前奏",
+        "tags": [
+            "Animated cutscene in As the Courtyard in Spring Once Appeared",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Phantasm Suite": {
+        "Chinese_name": "华梦组曲",
+        "tags": [
+            "Animated cutscenes in Summertime Odyssey",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "The Everlasting Trail": {
+        "Chinese_name": "无尽的挑战",
+        "tags": [
+            "Delusion Factory",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Dazzling Stars": {
+        "Chinese_name": "煜煜连星",
+        "tags": [
+            "TGA 2021 Genshin Impact Entry Video",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "The Floating World": {
+        "Chinese_name": "浮光掠影",
+        "tags": [
+            "Story Promotional Video",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Soar in the Wind": {
+        "Chinese_name": "振飞之时",
+        "tags": [
+            "\"Tsubaki in Thawing Snow\" Short Trailer",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Elogia Cinerosa": {
+        "Chinese_name": "熛烬的悼咏",
+        "tags": [
+            "Teyvat Chapter Interlude Teaser: A Winter Night's Lazzo",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Song of Innocence": {
+        "Chinese_name": "纯真的歌谣",
+        "tags": [
+            "\"Song of Innocence\": Inazuma Chapter OST Album 2 - Through the Mists Theme MV",
+            "The Shimmering Voyage Vol. 2"
+        ]
+    },
+    "Euphoric Ride": {
+        "Chinese_name": "逸兴欢跃",
+        "tags": [
+            "Choo-Choo Carts",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Let's Get Started!": {
+        "Chinese_name": "飞车出发啦！",
+        "tags": [
+            "Choo-Choo Carts",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Bustling Bazaar": {
+        "Chinese_name": "市圜繁漫",
+        "tags": [
+            "Silver Bottle Courtyard (Day)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Flanerie sur le marche": {
+        "Chinese_name": "遐游香榭",
+        "tags": [
+            "Silver Bottle Courtyard (Day)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Soothing Nightfall": {
+        "Chinese_name": "夜静更阑",
+        "tags": [
+            "Silver Bottle Courtyard (Night), dialogue scenes in Glaze Domain, Multum in Parvo, Zip Along (According to Safe Cart Operating Procedures), and Back to Normal: The Story Hidden in the Bottle",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Eventide Caprice": {
+        "Chinese_name": "暮夜绮想",
+        "tags": [
+            "Silver Bottle Courtyard (Night)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Triumph of Mirth": {
+        "Chinese_name": "欢笑的凯旋",
+        "tags": [
+            "Pavilion of Hermits",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Cheerful March": {
+        "Chinese_name": "畅舒的行歌",
+        "tags": [
+            "Pavilion of Hermits, Preprints, Big Tent",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Blissful Little Ditty": {
+        "Chinese_name": "谐惬的俚曲",
+        "tags": [
+            "Pavilion of Hermits, Preprints, Big Tent",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Chirping With Glee": {
+        "Chinese_name": "适趣的韵调",
+        "tags": [
+            "Pavilion of Hermits, Preprints, Big Tent",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Voyage of the Black Crystal": {
+        "Chinese_name": "黑水晶的远航",
+        "tags": [
+            "Thinkers' Theater (areas entered during The Black Nacre and the All-Devouring Kraken)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Fantastical Fairytale": {
+        "Chinese_name": "森萃的幻戏",
+        "tags": [
+            "Silver Bottle Courtyard (Entrance; Day)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Soothing Slumber": {
+        "Chinese_name": "澄寂的蜃梦",
+        "tags": [
+            "Silver Bottle Courtyard (Entrance; Night)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Pensees tranquilles": {
+        "Chinese_name": "褪淡的思眷",
+        "tags": [
+            "Thinkers' Theater (Day), Zosimos' Show",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Les tendres souhaits": {
+        "Chinese_name": "轻绎的柔愿",
+        "tags": [
+            "Thinkers' Theater (Day), Zosimos' Show",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Astral Chime": {
+        "Chinese_name": "星芒若铃",
+        "tags": [
+            "Thinkers' Theater (Night), dialogue scene in Back to Normal: The Story Hidden in the Bottle",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Dreamlike Reflection": {
+        "Chinese_name": "清梦幽思",
+        "tags": [
+            "Thinkers' Theater (Night), Zosimos' Show, dialogue scenes in Glaze Domain, Multum in Parvo, Fairground Gathering, Summer Lights Illuminated, and Back to Normal: The Story Hidden in the Bottle",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Journey by the Moonlight": {
+        "Chinese_name": "月露之行",
+        "tags": [
+            "Thinkers' Theater (Night), Zosimos' Show, dialogue scene in Fairground Gathering, Summer Lights Illuminated",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "The Owls' Nocturne": {
+        "Chinese_name": "鸱枭孤歌之夜",
+        "tags": [
+            "Thinkers' Theater (areas entered during Petrifying Gaze), Zosimos' Show",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Towers of Afrasiab": {
+        "Chinese_name": "登临幽悄之塔",
+        "tags": [
+            "Thinkers' Theater (areas entered during Petrifying Gaze), Zosimos' Show",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Foregone Depiction": {
+        "Chinese_name": "悠远的绘染",
+        "tags": [
+            "Overgrown Valley (Caves)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Distant Portrayal": {
+        "Chinese_name": "遥天的图景",
+        "tags": [
+            "Overgrown Valley (Caves)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Moment of Conflict": {
+        "Chinese_name": "险峙之刻",
+        "tags": [
+            "Chinvat Ravine (during The Unanswerable Problems)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Dream of White Branches": {
+        "Chinese_name": "白枝之梦",
+        "tags": [
+            "Tree of Dreams",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "With Witty Wit": {
+        "Chinese_name": "趣求法乐",
+        "tags": [
+            "Dialogue scenes with Dori and Cyno, Mimetic Replication",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Sipping in the Soft Breeze": {
+        "Chinese_name": "柔风浅酌",
+        "tags": [
+            "The Cat's Tail",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Sanctuary for the Sick": {
+        "Chinese_name": "杏林静憩",
+        "tags": [
+            "Bubu Pharmacy (Back Room)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Tipsy Poetry": {
+        "Chinese_name": "浮白载筆",
+        "tags": [
+            "The Cat's Tail (Invitation Duel Room)",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Melody of Utsava": {
+        "Chinese_name": "无忧的曲调",
+        "tags": [
+            "Animated cutscene in Festival Utsava",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Descendants of Deshret": {
+        "Chinese_name": "赤砂的承守",
+        "tags": [
+            "Animated cutscene in Ever So Close",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Dance of Sabzeruz (Soundtrack)": {
+        "Chinese_name": "花与梦的祝诞",
+        "tags": [
+            "Animated cutscenes in The End of the Sabzeruz Festival and The Reason We Are Gathered Here",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Note of Calamity": {
+        "Chinese_name": "灾咎之音",
+        "tags": [
+            "Animated cutscene in A Forest of Change",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Foreboding Beat": {
+        "Chinese_name": "祸兆之律",
+        "tags": [
+            "Animated cutscene in A Forest of Change",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Unrequited Yearning": {
+        "Chinese_name": "虚愿难遂",
+        "tags": [
+            "Animated cutscene in Heart of the Machine",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Eccentric Reception": {
+        "Chinese_name": "诡越趋迎",
+        "tags": [
+            "Animated cutscene in Like a Triumphant Hero",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Hyakuin of Blossoming Mirage": {
+        "Chinese_name": "花镜百韵",
+        "tags": [
+            "Animated cutscene in The Gaze From a Certain God",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Moment of Tribulation": {
+        "Chinese_name": "末劫末见之刻",
+        "tags": [
+            "Animated cutscene in The Gaze From a Certain God",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Smiting Scope": {
+        "Chinese_name": "窥间伺隙",
+        "tags": [
+            "Animated cutscene in The Four at Loggerheads",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Crumbling Sands": {
+        "Chinese_name": "炽砂的崩诉",
+        "tags": [
+            "Animated cutscene in Secret of the Scorching Desert",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Whisper of Weinlesefest": {
+        "Chinese_name": "归风的轻语",
+        "tags": [
+            "Animated cutscene in Aroma of the Past",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Parcener of Heptas": {
+        "Chinese_name": "七荣的嗣世",
+        "tags": [
+            "Animated cutscene in All Returns to Silence",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Two Hearts Rejoice": {
+        "Chinese_name": "况复两心同",
+        "tags": [
+            "Animated cutscene in The Reason We Are Gathered Here",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "The Moving Finger Writes": {
+        "Chinese_name": "指动字成",
+        "tags": [
+            "Animated cutscene in Jnagarbha Day",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Inebriation of Raghs-e-Nilou": {
+        "Chinese_name": "莲光的流河",
+        "tags": [
+            "Animated cutscene in Jnagarbha Day",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Trifaria Conscientia": {
+        "Chinese_name": "三时三觉",
+        "tags": [
+            "Animated cutscene in Where the Boat of Consciousness Lies",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "All in One, All in Vain": {
+        "Chinese_name": "一空一切空",
+        "tags": [
+            "Animated cutscene in Where the Boat of Consciousness Lies",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Heart of Yuugen": {
+        "Chinese_name": "幽玄有心",
+        "tags": [
+            "Animated cutscene in The Kabukimono's Finale",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Remembrance of Akitsu": {
+        "Chinese_name": "秋津的思忆",
+        "tags": [
+            "Animated cutscenes in Haunted Tales and The Currents of Life",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "The Blaze Lilies": {
+        "Chinese_name": "桃枝火鳞",
+        "tags": [
+            "Animated cutscene in A Single Harmony for an Irreplaceable Soul",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "First Blossom of Spring": {
+        "Chinese_name": "寒木春华",
+        "tags": [
+            "Animated cutscene in A Single Harmony for an Irreplaceable Soul",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "The Name Is Legion": {
+        "Chinese_name": "其名为群",
+        "tags": [
+            "Animated cutscene in Pride and Prejudice",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Serenade of the Distant Realm": {
+        "Chinese_name": "遥世的夜歌",
+        "tags": [
+            "Animated cutscene in Portended Fate",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Occluded Blight": {
+        "Chinese_name": "缄锁的灾沴",
+        "tags": [
+            "Animated cutscene in Portended Fate",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Love Is in the Air": {
+        "Chinese_name": "风念月思",
+        "tags": [
+            "Animated cutscene in Joy Above the Clouds",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Heliacal Path": {
+        "Chinese_name": "煌绚的旅路",
+        "tags": [
+            "Animated cutscene in Sincerity's Facade",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Glowing Embers": {
+        "Chinese_name": "初火的残辉",
+        "tags": [
+            "Animated cutscene in What Shape Does the Self Hold",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Purposeful Purity": {
+        "Chinese_name": "白草的决彻",
+        "tags": [
+            "Animated cutscene in What Shape Does the Self Hold",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Pulse of Spring": {
+        "Chinese_name": "春脉如弦",
+        "tags": [
+            "Animated cutscene in The Formula for a Miracle",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Coronation of Providence": {
+        "Chinese_name": "正识的荣冕",
+        "tags": [
+            "Animated cutscene in To Claim the Crown",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "A Pensive Sigh": {
+        "Chinese_name": "余叹远昔",
+        "tags": [
+            "Animated cutscene in Culminate! Chatter of Joyous Dreams",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Chasing Starlight With You": {
+        "Chinese_name": "共逐星华",
+        "tags": [
+            "Animated cutscene in A Flower that Blooms Across the Sky",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Crystalline Reverie": {
+        "Chinese_name": "清晶的绮",
+        "tags": [
+            "Animated cutscene in Back to Normal: The Story Hidden in the Bottle",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Dharana Iaksana": {
+        "Chinese_name": "诸相忆念",
+        "tags": [
+            "Genshin Impact - Sumeru Gameplay Trailer",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Invokation Game": {
+        "Chinese_name": "召唤王的决意",
+        "tags": [
+            "New Gameplay Trailer: \"Let's Play Genius Invokation TCG!\"",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Voyage Suite": {
+        "Chinese_name": "千景巡歌",
+        "tags": [
+            "TGA 2022 Genshin Impact Entry Video",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Polumnia Omnia (Performance Version)": {
+        "Chinese_name": "三千娑世御咏歌",
+        "tags": [
+            "Polumnia Omnia (Performance Version) - Sumeru Vol. 2 OST Album Promotional MV",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "Virtuous Guardian": {
+        "Chinese_name": "空谷皎皎",
+        "tags": [
+            "\"Endless Suffering\" Short Trailer",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "The Final Feast (Soundtrack)": {
+        "Chinese_name": "致终幕的欢",
+        "tags": [
+            "Overture Teaser: The Final Feast",
+            "The Shimmering Voyage Vol. 3"
+        ]
+    },
+    "What a Hopeful Voyage": {
+        "Chinese_name": "希望的航程",
+        "tags": [
+            "Golden Apple Archipelago (Waverider Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Vast and Blue": {
+        "Chinese_name": "广袤的晴空",
+        "tags": [
+            "Golden Apple Archipelago (Waverider Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Mesmerizing Waves": {
+        "Chinese_name": "微波轻摇",
+        "tags": [
+            "Golden Apple Archipelago (Waverider Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Journey into Sweet Dreams": {
+        "Chinese_name": "远航入梦",
+        "tags": [
+            "Golden Apple Archipelago (Waverider Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Whispering Seabreeze": {
+        "Chinese_name": "海风细语",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Sunshine Beach": {
+        "Chinese_name": "小憩沙滩",
+        "tags": [
+            "Golden Apple Archipelago (Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Ariel's Footprints": {
+        "Chinese_name": "海岛精灵",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Melody of Jellyfish": {
+        "Chinese_name": "水母之歌",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Comforting Quietude": {
+        "Chinese_name": "难得的静谧",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Old Tales Preserved": {
+        "Chinese_name": "海螺中的回音",
+        "tags": [
+            "Golden Apple Archipelago (Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Cautious Explorers": {
+        "Chinese_name": "谨慎的探索",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "In Stories of Fading Light": {
+        "Chinese_name": "光彩渐逝的故事",
+        "tags": [
+            "Golden Apple Archipelago (Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Cozy Company": {
+        "Chinese_name": "闲适的陪伴",
+        "tags": [
+            "Golden Apple Archipelago (Night)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Reminiscence of the Old Days": {
+        "Chinese_name": "往昔的诉说",
+        "tags": [
+            "Golden Apple Archipelago",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Faraway Solicitude": {
+        "Chinese_name": "遥远的嘱托",
+        "tags": [
+            "Golden Apple Archipelago (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Overture of Storms": {
+        "Chinese_name": "烈风的序章",
+        "tags": [
+            "Animated cutscene in Wanderer's Trail",
+            "The Shimmering Voyage"
+        ]
+    },
+    "A Sparky Clash": {
+        "Chinese_name": "火花的初遇",
+        "tags": [
+            "Animated cutscene in Who Is Mondstadt's Strongest Fighter?",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Innocent Age": {
+        "Chinese_name": "无虑无猜的岁月",
+        "tags": [
+            "Genshin Impact EP - Trail of the Scorching Summer Treasure",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Whence the Flow Cometh": {
+        "Chinese_name": "欢愉的源泉",
+        "tags": [
+            "Springvale (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Hunt for Delicacy": {
+        "Chinese_name": "美食寻踪",
+        "tags": [
+            "Animated cutscene in Little Chef on a Hunt",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Sneaky & Mischievous": {
+        "Chinese_name": "小小恶作剧",
+        "tags": [
+            "Dialogue scenes with Xiangling",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Mellow Memories": {
+        "Chinese_name": "微醺的回忆",
+        "tags": [
+            "Dawn Winery (Day), Emerald Peak (Day)",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "The Wolf Boy": {
+        "Chinese_name": "狼般的少年",
+        "tags": [
+            "Animated cutscene in Wolves' Territory",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Battle Preparation": {
+        "Chinese_name": "秣马厉兵",
+        "tags": [
+            "Dialogue scenes, Call of the Abyss",
+            "The Shimmering Voyage"
+        ]
+    },
+    "The Astrologist Awaiting": {
+        "Chinese_name": "候汝久时",
+        "tags": [
+            "Animated cutscene in Astrology and the 50-Year Pact, dialogue scene in The Oni's Justice",
+            "The Shimmering Voyage"
+        ]
+    },
+    "The Starlit Past": {
+        "Chinese_name": "星知晓的旧梦",
+        "tags": [
+            "Mondstadt City (Night; formerly)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Fireside Rest": {
+        "Chinese_name": "炉边小憩",
+        "tags": [
+            "Dawn Winery Manor, Mondstadt Mansion: Windward Manor",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "A Wicked Plot": {
+        "Chinese_name": "凶险的密谋",
+        "tags": [
+            "Dialogue scenes",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "A Cunning Trick": {
+        "Chinese_name": "吟游诗人的把戏",
+        "tags": [
+            "Animated cutscene in Ending Note",
+            "The Shimmering Voyage"
+        ]
+    },
+    "L'arrivo Della Signora": {
+        "Chinese_name": "女士驾临",
+        "tags": [
+            "Animated cutscene in Ending Note",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "A Yearning Breeze": {
+        "Chinese_name": "希望的和风",
+        "tags": [
+            "Animated cutscene in Should You Be Trapped in a Windless Land",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Ripples of Daydream": {
+        "Chinese_name": "白日梦的涟漪",
+        "tags": [
+            "Springvale (Day), Emerald Peak (Day)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Welcome Back, My Companion": {
+        "Chinese_name": "重归青天的歌",
+        "tags": [
+            "Animated cutscene in A Long Shot",
+            "The Shimmering Voyage"
+        ]
+    },
+    "The Sudden Collapse": {
+        "Chinese_name": "岩主的骤崩",
+        "tags": [
+            "Animated cutscene in Rite of Descension",
+            "The Shimmering Voyage"
+        ]
+    },
+    "The Lunar-Eclipsing Palace": {
+        "Chinese_name": "天权为尊",
+        "tags": [
+            "Animated cutscene in Zhongli's Treat, dialogue scene in Amidst Chaos, the Rock Is Unmoved",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Unexpected Savior": {
+        "Chinese_name": "意料之外的救星",
+        "tags": [
+            "Animated cutscene in Rite of Descension",
+            "The Shimmering Voyage"
+        ]
+    },
+    "A Letter from Afar": {
+        "Chinese_name": "异乡的归书",
+        "tags": [
+            "Genshin Impact EP - A Warrior Far From Home",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Lovers' Oath": {
+        "Chinese_name": "蒲苇如丝",
+        "tags": [
+            "Animated cutscene in Wangshu",
+            "The Shimmering Voyage"
+        ]
+    },
+    "All-Conquering Tide": {
+        "Chinese_name": "不冻的激浪",
+        "tags": [
+            "The Wonderful World Of Mr. Cyclops, Dragonspine (Combat)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Never-Ending Performance (Soundtrack)": {
+        "Chinese_name": "永无谢幕的演出",
+        "tags": [
+            "Enter the Golden House (Phases 1 & 2)",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Wrath of Monoceros Caeli": {
+        "Chinese_name": "斩破风暴的魔鲸",
+        "tags": [
+            "Enter the Golden House (Phase 3)",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Dance with the Great Vortex": {
+        "Chinese_name": "同漩涡共舞",
+        "tags": [
+            "Combat challenges in Turning Point and Where the Heart Finds Rest",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Ode to Azhdaha": {
+        "Chinese_name": "天遒歌",
+        "tags": [
+            "Beneath the Dragon-Queller (Phase 1)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Rage Beneath the Mountains": {
+        "Chinese_name": "岩壑之崩",
+        "tags": [
+            "Beneath the Dragon-Queller (Phase 2)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Hymn of the Pearl": {
+        "Chinese_name": "珍珠之歌",
+        "tags": [
+            "Animated cutscene in Battle Pass",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Overture of Falling Stars": {
+        "Chinese_name": "陨落之星",
+        "tags": [
+            "Animated cutscene in Unknown Star",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Ominous Fandango": {
+        "Chinese_name": "浮浪人的心机",
+        "tags": [
+            "Animated cutscene in What the Skies Conceal, the Water Reveals, dialogue scenes in Delusion and The Kabukimono's Finale",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Rapture of the Chaos": {
+        "Chinese_name": "直面纷争的狂喜",
+        "tags": [
+            "Animated cutscene in Heart of Glaze, Enter the Golden House (Phase Transition)",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Foul Legacy": {
+        "Chinese_name": "魔王武装",
+        "tags": [
+            "Animated cutscene in Defender of Childhood Dreams",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Golden Dreams": {
+        "Chinese_name": "黄金沉眠之处",
+        "tags": [
+            "Enter the Golden House (Idle)",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Palace of Jadeite": {
+        "Chinese_name": "玉影徘徊",
+        "tags": [
+            "Jade Chamber",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Moon-Eclipsing Chamber": {
+        "Chinese_name": "掩月之阁",
+        "tags": [
+            "Animated cutscene in Heart of Glaze",
+            "The Shimmering Voyage"
+        ]
+    },
+    "The Imminent Triumph": {
+        "Chinese_name": "凯歌的前奏",
+        "tags": [
+            "Animated cutscene in Turning Point",
+            "The Shimmering Voyage"
+        ]
+    },
+    "A Noble Sacrifice": {
+        "Chinese_name": "高贵的诀别",
+        "tags": [
+            "Animated cutscene in Turning Point",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Lingering Bitterness": {
+        "Chinese_name": "柔情留忆",
+        "tags": [
+            "Animated cutscene in A Record of All Things",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Frostbiting Bloom": {
+        "Chinese_name": "寒寂中盛放",
+        "tags": [
+            "Animated cutscene in Uninvited Guests",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Tale of the Yakshas": {
+        "Chinese_name": "夜叉的回叙",
+        "tags": [
+            "Animated cutscene in Glimmers of the Vigilant Yaksha",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Invitation of Windblume (The Shimmering Voyage)": {
+        "Chinese_name": "风花的邀约",
+        "tags": [
+            "Animated cutscene in Dream of Wind and Flowers",
+            "The Shimmering Voyage"
+        ]
+    },
+    "An Inauspicious Blow": {
+        "Chinese_name": "灾厄的一击",
+        "tags": [
+            "Animated cutscene in A Soul Set Apart",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Fateful Departing": {
+        "Chinese_name": "深渊下的离别",
+        "tags": [
+            "Animated cutscene in A Soul Set Apart",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Reconnaissance Captain": {
+        "Chinese_name": "游击骑士",
+        "tags": [
+            "Animated cutscene in Shadow of the Past",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Ominous Monolith": {
+        "Chinese_name": "磐峦的恶意",
+        "tags": [
+            "Animated cutscene in Amidst Chaos, the Rock Is Unmoved",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Through the Eyes of a Dragon": {
+        "Chinese_name": "创龙点睛",
+        "tags": [
+            "Animated cutscene in Amidst Chaos, the Rock Is Unmoved",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Dvalin Is Landing!": {
+        "Chinese_name": "特瓦林，抵达！",
+        "tags": [
+            "Animated cutscene in Mysterious Islands: Journey to the Unknown",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Summertime Wonderland": {
+        "Chinese_name": "盛夏乐园",
+        "tags": [
+            "Animated cutscene in Summer Vacation: Proceed With Caution",
+            "The Shimmering Voyage"
+        ]
+    },
+    "A New Summer Adventure!": {
+        "Chinese_name": "夏日新冒险！",
+        "tags": [
+            "Animated cutscene in The Final Riddle: A Secret Uncovered",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Tales from the Snow Mountain": {
+        "Chinese_name": "山巅雪国的记忆",
+        "tags": [
+            "\"Tales From the Snow Mountain\" - Genshin Impact Dragonspine OST Feature Video",
+            "The Shimmering Voyage"
+        ]
+    },
+    "Destined Parting": {
+        "Chinese_name": "命定的离别",
+        "tags": [
+            "Genshin Impact Story Teaser: We Will Be Reunited",
+            "The Shimmering Voyage",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Path of Yaksha": {
+        "Chinese_name": "捷疾之业",
+        "tags": [
+            "Character Demo - \"Xiao: Doombane\"",
+            "The Stellar Moments Vol. 2",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Broker Betwixt Life and Death": {
+        "Chinese_name": "送往迎来",
+        "tags": [
+            "Character Teaser - \"Hu Tao: Scared Yet?\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Any Last Words?": {
+        "Chinese_name": "尽在吾辈",
+        "tags": [
+            "Character Demo - \"Hu Tao: Let the Living Beware\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Shadow of Nemesis": {
+        "Chinese_name": "暗夜幽影",
+        "tags": [
+            "New Character Demo - \"Rosaria: No Overtime, Ever\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Marching of Xiezhi": {
+        "Chinese_name": "法兽趵趵",
+        "tags": [
+            "New Character Demo - \"Yanfei: Legal Expertise\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "The Frozen Emblem": {
+        "Chinese_name": "冰封的徽记",
+        "tags": [
+            "Character Teaser - \"Eula: Midnight Encounter at the Tavern\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Dance of Aphros": {
+        "Chinese_name": "浪沫起舞",
+        "tags": [
+            "New Character Demo - \"Eula: Flickering Candlelight\"",
+            "The Stellar Moments Vol. 2",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Iridescent Summer Day": {
+        "Chinese_name": "夏日虹彩",
+        "tags": [
+            "Outfit Teaser: Teyvat Style – Beachside Ballad",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Drifter's Destiny": {
+        "Chinese_name": "荒波椛叶",
+        "tags": [
+            "Character Teaser - \"Kaedehara Kazuha: Moonlit Breeze\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Flow of Autumn Wind": {
+        "Chinese_name": "流风无涯",
+        "tags": [
+            "New Character Demo - \"Kaedehara Kazuha: Wandering Winds\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Shirasagi Princess": {
+        "Chinese_name": "风仪之舞",
+        "tags": [
+            "Character Demo - \"Kamisato Ayaka: Camellia in Winter Snow\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Muji-Muji Chaos!": {
+        "Chinese_name": "貉貉大作战",
+        "tags": [
+            "Character Demo - \"Sayu: Yoohoo Art, Mujina Escape\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Eternity in a Moment": {
+        "Chinese_name": "霎那隽永",
+        "tags": [
+            "Character Teaser - \"Yoimiya: The Queen of Summer on Narukami Island\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Blossoms of Summer Night": {
+        "Chinese_name": "硝华流焰",
+        "tags": [
+            "Character Demo - \"Yoimiya: Dazzling Lights in the Summer\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Will of Thunder": {
+        "Chinese_name": "轰雷的意志",
+        "tags": [
+            "Character Demo - \"Kujou Sara: Thunderous Devotion\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Good Hunting on a New Horizon": {
+        "Chinese_name": "新世界的猎手",
+        "tags": [
+            "Character Demo - \"Aloy: Otherworldly Hunter\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Tactician's Grit": {
+        "Chinese_name": "聪明徇智",
+        "tags": [
+            "Character Teaser - \"Sangonomiya Kokomi: The Ocean's Will\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "A Glorious Awakening": {
+        "Chinese_name": "眠龙醒心",
+        "tags": [
+            "Character Demo - \"Sangonomiya Kokomi: A Thousand Waves Under the Moon\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Devotion of the Keeper": {
+        "Chinese_name": "赤胆昭忠",
+        "tags": [
+            "Character Demo - \"Thoma: Blazing Defense\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Awake From a Nightmare": {
+        "Chinese_name": "怅然之梦",
+        "tags": [
+            "Character Teaser - \"Raiden Shogun: Nightmare\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Termination of Desires": {
+        "Chinese_name": "何妄何执",
+        "tags": [
+            "Character Demo - \"Raiden Shogun: Judgment of Euthymia\"",
+            "The Stellar Moments Vol. 2"
+        ]
+    },
+    "Time to Shine": {
+        "Chinese_name": "高光时刻",
+        "tags": [
+            "Character Demo - \"Arataki Itto: Make Way for the One and Oni!\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "The Spotlight's on Me!": {
+        "Chinese_name": "豪荡戏台",
+        "tags": [
+            "Character Teaser - \"Arataki Itto: That's How the Show Should Go!\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Astute and Fearless Leader": {
+        "Chinese_name": "犬帅稔谋",
+        "tags": [
+            "Character Demo - \"Gorou: The Ever-Victorious Pointy-Eared General\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "As Charming as Ever": {
+        "Chinese_name": "霞袂飘飏",
+        "tags": [
+            "Outfit Teaser: Teyvat Style – Swirling Hues",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Days Free of Anguish": {
+        "Chinese_name": "霜翎犹敛",
+        "tags": [
+            "Character Teaser - \"Shenhe: Lonesome Dream\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "The Crane Cries": {
+        "Chinese_name": "鹤鸣清唳",
+        "tags": [
+            "Character Demo - \"Shenhe: Crane in the Wild\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Chapter of a New Era": {
+        "Chinese_name": "快意新词",
+        "tags": [
+            "Character Demo - \"Yun Jin: The True Meaning of Opera\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "As Miko Pleases": {
+        "Chinese_name": "变化神通",
+        "tags": [
+            "Character Teaser - \"Yae Miko: Kitsune's Affections\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Nothing but Trickery": {
+        "Chinese_name": "天狐外道",
+        "tags": [
+            "Character Demo - \"Yae Miko: Anecdote of a Divine Kitsune Guuji\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Wishes Unspoken": {
+        "Chinese_name": "贞木其心",
+        "tags": [
+            "Character Teaser - \"Kamisato Ayato: Lanterns in the Night\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Serene and Fathomless": {
+        "Chinese_name": "行水盈盈",
+        "tags": [
+            "Character Demo - \"Kamisato Ayato: Fathomless Swirls in the Forest\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "There Is No Escape": {
+        "Chinese_name": "疏而不失",
+        "tags": [
+            "Character Teaser - \"Yelan: Inevitable Justice\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Graceful Dexterity": {
+        "Chinese_name": "润雨遐踪",
+        "tags": [
+            "Character Demo - \"Yelan: Shadow in the Rain\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Adroit Deputy": {
+        "Chinese_name": "捷才疾霆",
+        "tags": [
+            "Character Demo - \"Kuki Shinobu: Jack of All Trades\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Storm Chaser": {
+        "Chinese_name": "蹑风捕迹",
+        "tags": [
+            "Character Demo - \"Shikanoin Heizou: Cyclone of Investigation\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Evening Luxury": {
+        "Chinese_name": "遥夜华竞",
+        "tags": [
+            "Outfit Teaser: Teyvat Style – Silhouettes of the Night",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Winding Through Avidya": {
+        "Chinese_name": "绰巡林风",
+        "tags": [
+            "Character Demo - \"Tighnari: Plant Patrol\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Caprice of the Leaves": {
+        "Chinese_name": "撷翠漫想",
+        "tags": [
+            "Character Demo - \"Collei: Sprout in the Thicket\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Thanks for Your Patronage!": {
+        "Chinese_name": "多谢惠顾",
+        "tags": [
+            "Character Demo - \"Dori: Thank You for Your Generous Purchase!\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Chant of Nine Bows": {
+        "Chinese_name": "九弓的弦咏",
+        "tags": [
+            "Character Teaser - \"Cyno: A Just Punishment\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Order of Silence": {
+        "Chinese_name": "缄秘的行律",
+        "tags": [
+            "Character Demo - \"Cyno: Counsel of Condemnation\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Nephrite of Deshret": {
+        "Chinese_name": "赤沙的玉馈",
+        "tags": [
+            "Character Demo - \"Candace: Shield of Sworn Protection\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Lotus of Haftkarsvar": {
+        "Chinese_name": "七域的蕖华",
+        "tags": [
+            "Character Demo - \"Nilou: Dance of the Delicate Lotus\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Surreal Noctivaga": {
+        "Chinese_name": "此夕星游",
+        "tags": [
+            "Character Demo - \"Layla: Radiant Star Trail\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Dreamy Felicitation": {
+        "Chinese_name": "窕梦的祝诞",
+        "tags": [
+            "Character Teaser - \"Nahida: Happy Birthday\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Surasthana Fantasia": {
+        "Chinese_name": "净善的遐歌",
+        "tags": [
+            "Character Demo - \"Nahida: Boundless Bliss\"",
+            "The Stellar Moments Vol. 3"
+        ]
+    },
+    "Bard's Adventure": {
+        "Chinese_name": "诗人的工作",
+        "tags": [
+            "Character Demo - \"Venti: A Bard's Business\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Let's Go, Crimson Knight!": {
+        "Chinese_name": "真红骑士，出发！",
+        "tags": [
+            "New Character Demo - \"Klee: Da-Da Da!\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Where the Sunlight Flees": {
+        "Chinese_name": "童梦历险记",
+        "tags": [
+            "Character Tales - \"Fleeing Sunlight in the Night\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Flaming Fry": {
+        "Chinese_name": "烈火急烹",
+        "tags": [
+            "\"Pyro Chapter\" - Chef de Cuisine Xiangling",
+            "The Stellar Moments"
+        ]
+    },
+    "Ouvertüre der ewigen Nacht": {
+        "Chinese_name": "永夜的序曲",
+        "tags": [
+            "New Character Demo - \"Fischl: Glanz der Nacht\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Sieh an, mein Sommernachtgarten!": {
+        "Chinese_name": "夏宫灵囿",
+        "tags": [
+            "New Character Announcement - \"Fischl can't lose just yet!\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Preserver of Fortune": {
+        "Chinese_name": "度厄童子",
+        "tags": [
+            "New Character Demo - \"Qiqi: Icy Resurrection\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Surge of Prophecies": {
+        "Chinese_name": "星天的预告",
+        "tags": [
+            "New Character Demo - \"Mona: Fate and Destiny\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Letter From Ajax": {
+        "Chinese_name": "埃阿斯的回信",
+        "tags": [
+            "Character Demo - \"Childe: A Letter to Snezhnaya\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "From Snezhnaya With Boldness": {
+        "Chinese_name": "自雪国而来",
+        "tags": [
+            "Character Tales - \"Childe: Sigil of Permission\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Exclusive Specialty": {
+        "Chinese_name": "独家特调",
+        "tags": [
+            "New Character Demo - \"Diona: Wine Industry Slayer\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Rockin' With Fire": {
+        "Chinese_name": "迸发的炽焰",
+        "tags": [
+            "New Character Demo - \"Xinyan: Aw Yeah, Rock On!\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Nimble as Lightning": {
+        "Chinese_name": "霆霓快雨",
+        "tags": [
+            "New Character Demo - \"Keqing: Yuheng of the Qixing\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Contemplation in Snow": {
+        "Chinese_name": "白皑中的冥想",
+        "tags": [
+            "Character Demo - \"Albedo: Contemplation in Chalk\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Genius of Takwin": {
+        "Chinese_name": "创生的灵慧",
+        "tags": [
+            "Character Teaser - \"Albedo: Still Life and Creation\"",
+            "The Stellar Moments"
+        ]
+    },
+    "Qilin's Prance": {
+        "Chinese_name": "麟跃幽岩",
+        "tags": [
+            "Character Demo - \"Ganyu: Radiant Dreams\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Rex Incognito (Soundtrack)": {
+        "Chinese_name": "尘世闲游",
+        "tags": [
+            "Character Demo - \"Zhongli: The Listener\"",
+            "The Stellar Moments",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Sorush's Purity": {
+        "Chinese_name": "斯露莎的歌",
+        "tags": [
+            "Vourukasha Oasis",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Resonance of Khvarena": {
+        "Chinese_name": "灵光的回响",
+        "tags": [
+            "Vourukasha Oasis",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Maidens of Sanctity": {
+        "Chinese_name": "花与树的女儿们",
+        "tags": [
+            "Vourukasha Oasis",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "The Caress of Three Mothers": {
+        "Chinese_name": "女主人的叮咛",
+        "tags": [
+            "Vourukasha Oasis",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Where Simurgh Rests": {
+        "Chinese_name": "神鸟栖居之处",
+        "tags": [
+            "Hills of Barsom (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Fantasy of Ten Thousand Blossoms": {
+        "Chinese_name": "万千蕊芯之梦",
+        "tags": [
+            "Hills of Barsom (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Dirge of Newborn Life": {
+        "Chinese_name": "生命受祝之所",
+        "tags": [
+            "Hills of Barsom (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Undisturbed Tranquility": {
+        "Chinese_name": "无忧的眠梦",
+        "tags": [
+            "Hills of Barsom (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Mirage of the Oasis": {
+        "Chinese_name": "绿洲的蜃影",
+        "tags": [
+            "Girdle of the Sands (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Lonesome Road": {
+        "Chinese_name": "孤客之旅",
+        "tags": [
+            "Girdle of the Sands (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Grief of the Lost": {
+        "Chinese_name": "迷失之叹",
+        "tags": [
+            "Girdle of the Sands (Day), Veluriyam Mirage (Desert; Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Dividing Paths": {
+        "Chinese_name": "分歧的道路",
+        "tags": [
+            "Girdle of the Sands (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Dawnlight Over Dunes": {
+        "Chinese_name": "沙丘上的曙光",
+        "tags": [
+            "Girdle of the Sands (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Dance of Scorpions": {
+        "Chinese_name": "沙蝎之舞",
+        "tags": [
+            "Girdle of the Sands (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Golden Crescent": {
+        "Chinese_name": "荒沙与新月",
+        "tags": [
+            "Girdle of the Sands (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "A Pearl Amongst Legends": {
+        "Chinese_name": "千夜的遗珠",
+        "tags": [
+            "Girdle of the Sands (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Hymn of Cicadas": {
+        "Chinese_name": "大漠虫鸣",
+        "tags": [
+            "Girdle of the Sands (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Simurgh's Dream": {
+        "Chinese_name": "花海之梦",
+        "tags": [
+            "Girdle of the Sands (Night), Veluriyam Mirage (Desert; Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Taabak Laylatak": {
+        "Chinese_name": "月光的祝福",
+        "tags": [
+            "Girdle of the Sands (Night), Veluriyam Mirage (Desert; Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Resting Rogues": {
+        "Chinese_name": "浪客的安歇",
+        "tags": [
+            "Girdle of the Sands (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Perilous Hollow": {
+        "Chinese_name": "深秘的险境",
+        "tags": [
+            "Tunigi Hollow",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Omen of Desolation": {
+        "Chinese_name": "荒废的预言",
+        "tags": [
+            "Tunigi Hollow",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Solitary Breach": {
+        "Chinese_name": "孤独的渊薮",
+        "tags": [
+            "Tunigi Hollow",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Ghastly Badlands": {
+        "Chinese_name": "荆棘丛生之地",
+        "tags": [
+            "Asipattravana Swamp",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Shadow in Ruins": {
+        "Chinese_name": "残迹幽影",
+        "tags": [
+            "Madinat al-Nuhas, Hangeh Afrasiyab (Factory)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Abominable Bog": {
+        "Chinese_name": "受诅的泽地",
+        "tags": [
+            "Madinat al-Nuhas, Hangeh Afrasiyab (Factory)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Where Vermin Crawl": {
+        "Chinese_name": "毒虫伏行之处",
+        "tags": [
+            "Gate of Zulqarnain (Cave)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Where Dreams Putrify": {
+        "Chinese_name": "旧梦腐朽之所",
+        "tags": [
+            "Gate of Zulqarnain (Cave)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Pairidaeza": {
+        "Chinese_name": "葱茏的梦乡",
+        "tags": [
+            "The Orchard of Pairidaeza",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Her Wishes": {
+        "Chinese_name": "她的期许",
+        "tags": [
+            "The Orchard of Pairidaeza",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Oracle of the Void": {
+        "Chinese_name": "空虚的愿景",
+        "tags": [
+            "The Orchard of Pairidaeza",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Once-Joyful Dream": {
+        "Chinese_name": "往昔的乐园",
+        "tags": [
+            "The Orchard of Pairidaeza, Veluriyam Mirage (Desert; Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Kingdom of Dust": {
+        "Chinese_name": "扬尘如幕",
+        "tags": [
+            "Mt. Damavand",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Empire of Sand": {
+        "Chinese_name": "黄砂为衾",
+        "tags": [
+            "Mt. Damavand",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Spice Road": {
+        "Chinese_name": "香料之路",
+        "tags": [
+            "Desert of Hadramaveth (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Realms of Amnesia": {
+        "Chinese_name": "失忆的诸国",
+        "tags": [
+            "Desert of Hadramaveth (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Gilded Journey (Soundtrack)": {
+        "Chinese_name": "镀金的旅途",
+        "tags": [
+            "Desert of Hadramaveth (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Ocean of Grains": {
+        "Chinese_name": "众砾的汪洋",
+        "tags": [
+            "Desert of Hadramaveth (Day), Veluriyam Mirage (Desert; Day), dialogue scene in What Shape Does the Self Hold",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Desert Lullaby": {
+        "Chinese_name": "砂海的摇篮曲",
+        "tags": [
+            "Desert of Hadramaveth (Night), Veluriyam Mirage (Desert; Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "The Crescent Moon's Waning": {
+        "Chinese_name": "褪色的眷恋",
+        "tags": [
+            "Desert of Hadramaveth (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Memories of Gurabad (Soundtrack)": {
+        "Chinese_name": "故国的回忆",
+        "tags": [
+            "Desert of Hadramaveth (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Lo, There Do I See The Falcon": {
+        "Chinese_name": "归巢的猎鹰",
+        "tags": [
+            "Desert of Hadramaveth (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Where She Will Return": {
+        "Chinese_name": "安睡之所",
+        "tags": [
+            "Desert of Hadramaveth (Night, Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Those Who Dream No Dreams": {
+        "Chinese_name": "蛇蝎无眠",
+        "tags": [
+            "Desert of Hadramaveth (Night, Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "The Temple Conquered by Death": {
+        "Chinese_name": "死寂的殿堂",
+        "tags": [
+            "Desert of Hadramaveth (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Lamenting Torrent of Oblivion": {
+        "Chinese_name": "遗落的哀歌",
+        "tags": [
+            "Desert of Hadramaveth (Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Debris of the Beloved": {
+        "Chinese_name": "赤砂的思慕",
+        "tags": [
+            "Desert of Hadramaveth (Caves and Ruins), Deshret's Glass Goblet",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Vermin Nest": {
+        "Chinese_name": "毒虫之穴",
+        "tags": [
+            "Desert of Hadramaveth (Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Gurabad's Whisper": {
+        "Chinese_name": "古城的低语",
+        "tags": [
+            "Desert of Hadramaveth (Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Buried Mysteries": {
+        "Chinese_name": "砂下秘辛",
+        "tags": [
+            "Desert of Hadramaveth (Day, Caves and Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Gold Cup of Oases": {
+        "Chinese_name": "诸绿洲中的金杯",
+        "tags": [
+            "Tanit Camps (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Lingering Vipers": {
+        "Chinese_name": "流沙的缱绻",
+        "tags": [
+            "Tanit Camps (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Aspiration of Guardians": {
+        "Chinese_name": "守护者的思眷",
+        "tags": [
+            "Aaru Village (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Wind of Tranquility": {
+        "Chinese_name": "宥谧宁息之风",
+        "tags": [
+            "Aaru Village (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Settlement for Exiles": {
+        "Chinese_name": "沙民的庇护所",
+        "tags": [
+            "Aaru Village (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Inscription of Dreams": {
+        "Chinese_name": "镌刻遥梦之铭",
+        "tags": [
+            "Aaru Village (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Vow of a Thousand Generations": {
+        "Chinese_name": "千世传述之愿",
+        "tags": [
+            "Village Chief's House",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Smoldering Glow": {
+        "Chinese_name": "灼燃的残光",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Ruins of Scorching Might": {
+        "Chinese_name": "余威犹存",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Now and Then": {
+        "Chinese_name": "抚今惟昔",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Distant Retrospection": {
+        "Chinese_name": "旧思缅邈",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Reminiscences of Remnants": {
+        "Chinese_name": "遗甃轸念",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Land of Hidden Depths": {
+        "Chinese_name": "深黯之地",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Shade of Reticent Conundrums": {
+        "Chinese_name": "缄秘的影迹",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Past Repast": {
+        "Chinese_name": "失殒的旧宴",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Crumbled Pledge": {
+        "Chinese_name": "沦没的誓愿",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Stairway of Neterikhet": {
+        "Chinese_name": "诸世的阶梯",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Millennial Sails": {
+        "Chinese_name": "炽天的辉舟",
+        "tags": [
+            "Hypostyle Desert (Ruins), Abdju Pit (Ruins), Lamb-Devourer Rock (Ruins), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Eye of Deshret": {
+        "Chinese_name": "赤沙之眼",
+        "tags": [
+            "Khaj-Nisut",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Falling Fantasy": {
+        "Chinese_name": "空想的落音",
+        "tags": [
+            "Khaj-Nisut",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Fading Finality": {
+        "Chinese_name": "消泯的终末",
+        "tags": [
+            "Khaj-Nisut",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Echoes of Distant Past": {
+        "Chinese_name": "远逝的回响",
+        "tags": [
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Steps to Heptas": {
+        "Chinese_name": "七荣的陵殿",
+        "tags": [
+            "Towers of Betrayal",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Juncture of Admonition": {
+        "Chinese_name": "伏谏之刻",
+        "tags": [
+            "Towers of Betrayal",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Emerald in the Desert": {
+        "Chinese_name": "沙衍绿碧",
+        "tags": [
+            "Sobek Oasis (Day), Thamud Oasis (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Elusive Elysium": {
+        "Chinese_name": "遐方乐土",
+        "tags": [
+            "Sobek Oasis (Day), Thamud Oasis (Day), Veluriyam Mirage (Desert; Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Serenade of Callais": {
+        "Chinese_name": "绿松石的夜歌",
+        "tags": [
+            "Sobek Oasis (Night), Thamud Oasis (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Reverie of Eternity": {
+        "Chinese_name": "永世的酣梦",
+        "tags": [
+            "Sobek Oasis (Night), Thamud Oasis (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Dust-Swept Perplexity": {
+        "Chinese_name": "惘惑漠漠",
+        "tags": [
+            "Land of Upper Setekh",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Following the Sands' Trail": {
+        "Chinese_name": "望尘行迹",
+        "tags": [
+            "Land of Upper Setekh",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "To the Land of Desperation": {
+        "Chinese_name": "往泪尽之地",
+        "tags": [
+            "Land of Upper Setekh",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Arid Canyon": {
+        "Chinese_name": "炀旱的岩谷",
+        "tags": [
+            "Land of Upper Setekh",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Deserted Path to Desert": {
+        "Chinese_name": "荒落的沙径",
+        "tags": [
+            "Land of Upper Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Through Predicaments": {
+        "Chinese_name": "艰厄漫途",
+        "tags": [
+            "Land of Upper Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "To the Crescent Moon's Shimmer": {
+        "Chinese_name": "终至月明",
+        "tags": [
+            "Land of Upper Setekh (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Echoes of Ages": {
+        "Chinese_name": "星霜的余音",
+        "tags": [
+            "Land of Upper Setekh (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Obliterated Dust": {
+        "Chinese_name": "遗风逸尘",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Ancient Anamnesis": {
+        "Chinese_name": "邃世忧怀",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Obscure Mirage": {
+        "Chinese_name": "迢遥的蜃景",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day), Veluriyam Mirage (Desert; Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Nebulous Dunes": {
+        "Chinese_name": "瀚漠冥茫",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "On the Barren Sands": {
+        "Chinese_name": "炽风苦旅",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Across the Aridisols": {
+        "Chinese_name": "逾沙轶漠",
+        "tags": [
+            "Hypostyle Desert (Day), Land of Lower Setekh (Day)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Solitary Night Wanderings": {
+        "Chinese_name": "暮夜茕行",
+        "tags": [
+            "Hypostyle Desert (Night), Land of Lower Setekh (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Chords of Sand and Moon": {
+        "Chinese_name": "沙与月的弦音",
+        "tags": [
+            "Hypostyle Desert (Night), Land of Lower Setekh (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Breeze in the Arid Night": {
+        "Chinese_name": "荒夜的阵风",
+        "tags": [
+            "Hypostyle Desert (Night), Land of Lower Setekh (Night)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Hushed Gleam": {
+        "Chinese_name": "星月寂阒",
+        "tags": [
+            "Hypostyle Desert (Night and Caves), Land of Lower Setekh (Night and Caves), Land of Upper Setekh (Caves)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Lingering Thoughts": {
+        "Chinese_name": "萦思寥落",
+        "tags": [
+            "Hypostyle Desert (Caves), Land of Lower Setekh (Caves), Land of Upper Setekh (Caves), Gate of Zulqarnain (Cave)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Profound Ravines": {
+        "Chinese_name": "幽壑深渺",
+        "tags": [
+            "Hypostyle Desert (Caves), Land of Lower Setekh (Caves), Land of Upper Setekh (Caves), Gate of Zulqarnain (Cave)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Perilous Exploration": {
+        "Chinese_name": "绝域危途",
+        "tags": [
+            "Hypostyle Desert (Caves), Land of Lower Setekh (Caves), Land of Upper Setekh (Caves), Gate of Zulqarnain (Cave)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Benevolence Bequeathed": {
+        "Chinese_name": "净念相继",
+        "tags": [
+            "Sanctuary of Surasthana, animated cutscene in Secret of the Scorching Desert",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Wrathful Streaming Gold": {
+        "Chinese_name": "流金的烈怒",
+        "tags": [
+            "Great Red Sand (Combat; Ruins)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Across Dimming Asterisms": {
+        "Chinese_name": "星灭光离",
+        "tags": [
+            "Great Red Sand (Combat; Ruins), Setekh Wenut",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Swirls of Shamshir": {
+        "Chinese_name": "狮尾之舞",
+        "tags": [
+            "Great Red Sand (Combat), Girdle of the Sands (Combat)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Swirls of Sachmis": {
+        "Chinese_name": "赭泉酩旋",
+        "tags": [
+            "Great Red Sand (Combat), Girdle of the Sands (Combat), Domains",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Rhapsodia Roscida": {
+        "Chinese_name": "六轮一露狂诗曲",
+        "tags": [
+            "Joururi Workshop (Phase 1)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Quintempus Niteastetae": {
+        "Chinese_name": "五相常寂",
+        "tags": [
+            "The Shrine of Shouki no Kami (Phase 2)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Polumnia Omnia": {
+        "Chinese_name": "三千娑世御咏歌",
+        "tags": [
+            "Joururi Workshop (Phase 2)",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "God-Devouring Mania": {
+        "Chinese_name": "噬神巨蛇的狂舞",
+        "tags": [
+            "The Realm of Beginnings",
+            "The Unfathomable Sand Dunes"
+        ]
+    },
+    "Genshin Impact Main Theme": {
+        "Chinese_name": "原神",
+        "tags": [
+            "Login Menu (Day)",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Dawn Winery Theme (The Wind and The Star Traveler)": {
+        "Chinese_name": "晨曦酒庄",
+        "tags": [
+            "Dawn Winery (Day)",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "A Sweet Smile": {
+        "Chinese_name": "甜美的微笑",
+        "tags": [
+            "Dialogue scenes with Amber",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "A Storm, A Spire, and a Sanctum (Dvalin's Nest)": {
+        "Chinese_name": "风暴，高塔与圣地",
+        "tags": [
+            "Stormterror's Lair",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Caelestinum Finale Termini": {
+        "Chinese_name": "终天的闭幕曲",
+        "tags": [
+            "Confront Stormterror",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Lone Sojourner": {
+        "Chinese_name": "孤独的旅居",
+        "tags": [
+            "Dawn Winery (Night)",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "A Day in Mondstadt": {
+        "Chinese_name": "蒙德的一日",
+        "tags": [
+            "Mondstadt City (Day)",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "Dream Aria (Genshin Impact Main Theme Var.)": {
+        "Chinese_name": "梦之咏叹",
+        "tags": [
+            "Login Menu (Night)",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "Pure Sky": {
+        "Chinese_name": "青空",
+        "tags": [
+            "Mondstadt (Day)",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "The Edge of the Prairie": {
+        "Chinese_name": "平原的边际",
+        "tags": [
+            "Mondstadt (Rain), Nameless Island",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "A Tale of Two Dragons": {
+        "Chinese_name": "特瓦林与杜林",
+        "tags": [
+            "Animated cutscene in That Green Fellow",
+            "The Wind and The Star Traveler"
+        ]
+    },
+    "Rite of Battle": {
+        "Chinese_name": "战斗的秘仪",
+        "tags": [
+            "Mondstadt (Combat), Domains",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Knighthood Excellence": {
+        "Chinese_name": "骑士的义举",
+        "tags": [
+            "Dialogue scenes in Kaeya's Gain and Outrider Style",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Happy Journey": {
+        "Chinese_name": "快乐的旅程",
+        "tags": [
+            "Dialogue scenes",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "The Outlander Who Caught the Wind (Soundtrack)": {
+        "Chinese_name": "捕风的异乡人",
+        "tags": [
+            "Promotional videos",
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 \"Melodies of an Endless Journey\" (CD)"
+        ]
+    },
+    "Snow-Buried Tales": {
+        "Chinese_name": "雪掩的往事",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "Fragile Fantasy": {
+        "Chinese_name": "银白的希望",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "Chattering Snowflakes": {
+        "Chinese_name": "霜的精灵",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    },
+    "Serene and Sweet Adieu": {
+        "Chinese_name": "在梦乡重聚",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "Glistening Shards": {
+        "Chinese_name": "冰下的碎梦",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    },
+    "Ad Oblivione": {
+        "Chinese_name": "遗忘的流风",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "Abiding Chills": {
+        "Chinese_name": "寒潮的余响",
+        "tags": [
+            "Dragonspine",
+            "Vortex of Legends"
+        ]
+    },
+    "Menacing Cove": {
+        "Chinese_name": "极寒的险地",
+        "tags": [
+            "Starglow Cavern",
+            "Vortex of Legends"
+        ]
+    },
+    "Striding in the Snowstorm": {
+        "Chinese_name": "雪暴中迷途",
+        "tags": [
+            "Starglow Cavern",
+            "Vortex of Legends"
+        ]
+    },
+    "Sinister Mist": {
+        "Chinese_name": "隐匿的凶兆",
+        "tags": [
+            "Starglow Cavern",
+            "Vortex of Legends"
+        ]
+    },
+    "In the Desolate Hallway": {
+        "Chinese_name": "静谧的厅堂",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "The Flourishing Past": {
+        "Chinese_name": "山林的故园",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    },
+    "Unfinished Frescoes": {
+        "Chinese_name": "未完成的画作",
+        "tags": [
+            "Dragonspine",
+            "Vortex of Legends"
+        ]
+    },
+    "Spin of Ice Crystals": {
+        "Chinese_name": "冰风的独舞",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    },
+    "Finale of the Snowtomb": {
+        "Chinese_name": "雪国的终曲",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    },
+    "Once-Colored Memories": {
+        "Chinese_name": "色彩的记忆",
+        "tags": [
+            "Dragonspine (Night)",
+            "Vortex of Legends"
+        ]
+    },
+    "Moonlike Smile": {
+        "Chinese_name": "皎洁的笑颜",
+        "tags": [
+            "Dragonspine (Day)",
+            "Vortex of Legends"
+        ]
+    }
+}
