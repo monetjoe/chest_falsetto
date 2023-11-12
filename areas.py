@@ -1,7 +1,3 @@
-import json
-import requests
-from tqdm import tqdm
-from bs4 import BeautifulSoup
 from utils import *
 
 
@@ -56,10 +52,19 @@ def get_area_info(area_url):
         sub_div = soup.find('div', class_='custom-tabs-default')
         if sub_div:
             offset_span = sub_div.find('span', class_='active-tab')
+            offset_span_txt = offset_span.text
+
+            if offset_span_txt == 'Story':
+                tags.append(soup.find('h1').text)
+
+            elif is_decimal(offset_span_txt):
+                tags.append(f'Version {offset_span_txt.strip()}')
+
             sub_spans = list(offset_span.find_all_next(
                 name='span',
                 class_='inactive-tab'
-            ))[:-1]
+            ))
+
             for sub_span in sub_spans:
                 sub_a = sub_span.find('a')
                 if sub_a.text != 'Map' and sub_a.text != 'Gallery':
@@ -108,7 +113,7 @@ def save_areas(areas_path='./data/areas.json', force_upd=True):
     if force_upd or ((not force_upd) and (not os.path.exists(areas_path))):
         area_dict = get_areas()
         with open(areas_path, 'w', encoding='utf-8') as json_file:
-            json.dump(area_dict, json_file, ensure_ascii=False)
+            json.dump(area_dict, json_file, ensure_ascii=False, indent=4)
 
         print(f'Areas have been updated into {areas_path}.')
 

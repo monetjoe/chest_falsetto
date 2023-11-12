@@ -1,17 +1,13 @@
-import json
-import requests
-from tqdm import tqdm
 from html import unescape
-from bs4 import BeautifulSoup
 from utils import *
 
 
 def get_character_info(char_url):
+    cname, affiliation = [], []
     response = requests.get(f'{DOMAIN}{char_url}')
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
-        cname, affiliation = [], []
         if len(cname_tds) > 0:
             for cname_td in cname_tds:
                 cname.append(
@@ -37,12 +33,12 @@ def get_character_info(char_url):
         if orgs_h3:
             orgs_ul = orgs_h3.find_next('ul')
             for org_li in orgs_ul:
-                affiliation.append(rm_brackets_and_content(org_li.text))
+                affiliation.append(org_li.text)
 
-        return '/'.join(cname), trim_str_list(affiliation)
+    else:
+        print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
 
-    print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
-    return ''
+    return cname, affiliation
 
 
 def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
@@ -58,7 +54,7 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
                 continue
 
             url = char_tds[0].find('a').get('href')
-            name = url.split('/')[-1]
+            name = char_tds[1].find('a').text.strip()
             element = char_tds[3].find('a').get('href').split('/')[-1]
             weapon = char_tds[4].find('a').get('href').split('/')[-1]
             region = char_tds[5].find('a').get('href').split('/')[-1]
@@ -71,8 +67,8 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
                 tags += affiliation
 
             characters[name] = {
-                'Chinese_name': cname,
-                'tags': tags
+                'Chinese_name': '/'.join(cname),
+                'tags': trim_str_list(tags)
             }
 
     else:
@@ -85,7 +81,7 @@ def save_characters(character_path=f'./data/characters.json', force_upd=True):
     if force_upd or ((not force_upd) and (not os.path.exists(character_path))):
         char_dict = get_characters()
         with open(character_path, 'w', encoding='utf-8') as json_file:
-            json.dump(char_dict, json_file, ensure_ascii=False)
+            json.dump(char_dict, json_file, ensure_ascii=False, indent=4)
 
         print(f'Characters have been updated into {character_path}.')
 

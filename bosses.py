@@ -1,8 +1,4 @@
-import json
-import requests
-from tqdm import tqdm
 from html import unescape
-from bs4 import BeautifulSoup
 from utils import *
 
 
@@ -70,7 +66,7 @@ def save_weekly_bosses(boss_path='./data/bosses.json', force_upd=True):
     if force_upd or ((not force_upd) and (not os.path.exists(boss_path))):
         area_dict = get_bosses()
         with open(boss_path, 'w', encoding='utf-8') as json_file:
-            json.dump(area_dict, json_file, ensure_ascii=False)
+            json.dump(area_dict, json_file, ensure_ascii=False, indent=4)
 
         print(f'Weekly bosses have been updated into {boss_path}.')
 

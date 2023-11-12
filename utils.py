@@ -1,4 +1,9 @@
 import os
+import re
+import json
+import requests
+from tqdm import tqdm
+from bs4 import BeautifulSoup
 from urllib.parse import quote
 
 DOMAIN = 'https://genshin-impact.fandom.com'
@@ -34,14 +39,14 @@ Teyvat = {
     },
     "Khaenri'ah": {
         'Chinese_name': '坎瑞亚',
-        'tags': []
+        'tags': ['Eclipse Dynasty']
     }
 }
 
 Archon = {
     'Venti': 'Barbatos',
     'Zhongli': 'Morax',
-    'Raiden_Shogun': 'Beelzebul',
+    'Raiden Shogun': 'Beelzebul',
     'Nahida': 'Buer',
     'Furina': 'Focalors'
 }
@@ -52,10 +57,11 @@ def create_dir(dirpath='./data'):
         os.makedirs(dirpath)
 
 
-def trim_str_list(input_list):
+def trim_str_list(input_list, rm_bracket=True):
     output = []
     for s in input_list:
-        processed_s = rm_brackets_and_content(s).replace('"', '').strip()
+        processed_s = rm_brackets_and_content(s) if rm_bracket else s
+        processed_s = processed_s.replace('"', '').strip()
         if processed_s != '':
             output.append(processed_s)
 
@@ -69,6 +75,10 @@ def merge_dicts(dict1, dict2):
 
 
 def rm_brackets_and_content(input_string):
-    import re
     result_string = re.sub(r'\([^)]*\)|\[[^\]]*\]', '', input_string)
     return result_string
+
+
+def is_decimal(s):
+    decimal_pattern = re.compile(r'^\d+\.\d+$')
+    return bool(decimal_pattern.match(s))

@@ -23,24 +23,24 @@
     "Seiraimaru": {
         "Chinese_name": "「清籁丸」",
         "tags": [
-            "Seirai Island",
-            "Inazuma"
+            "Inazuma",
+            "Seirai Island"
         ]
     },
     "Aaru Village": {
         "Chinese_name": "阿如村",
         "tags": [
             "Land of Lower Setekh",
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Abdju Pit": {
-        "Chinese_name": "舍身陷坑",
+        "Chinese_name": "舍身陷坑/舍身步道",
         "tags": [
             "Land of Lower Setekh",
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Ad-Hoc Main Tunnel": {
@@ -60,8 +60,8 @@
     "Amakumo Peak": {
         "Chinese_name": "天云峠",
         "tags": [
-            "Seirai Island",
-            "Inazuma"
+            "Inazuma",
+            "Seirai Island"
         ]
     },
     "Annapausis": {
@@ -75,8 +75,8 @@
         "Chinese_name": "水天丛林",
         "tags": [
             "Ashavan Realm",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Araumi": {
@@ -89,16 +89,16 @@
     "Asase Shrine": {
         "Chinese_name": "浅濑神社",
         "tags": [
-            "Seirai Island",
-            "Inazuma"
+            "Inazuma",
+            "Seirai Island"
         ]
     },
     "Asipattravana Swamp": {
         "Chinese_name": "锋刃林泽",
         "tags": [
-            "Realm of Farakhkert",
+            "Sumeru",
             "Girdle of the Sands",
-            "Sumeru"
+            "Realm of Farakhkert"
         ]
     },
     "Autake Plains": {
@@ -125,7 +125,9 @@
     "Broken Isle": {
         "Chinese_name": "破破岛",
         "tags": [
-            "Golden Apple Archipelago"
+            "Version 2.8",
+            "Golden Apple Archipelago",
+            "Version 1.6"
         ]
     },
     "Byakko Plain": {
@@ -138,16 +140,16 @@
     "Cape Oath": {
         "Chinese_name": "誓言岬",
         "tags": [
-            "Galesong Hill",
-            "Mondstadt"
+            "Mondstadt",
+            "Galesong Hill"
         ]
     },
     "Caravan Ribat": {
         "Chinese_name": "喀万驿",
         "tags": [
             "Ashavan Realm",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Central Laboratory Ruins": {
@@ -160,9 +162,9 @@
     "Chatrakam Cave": {
         "Chinese_name": "茸蕈窟",
         "tags": [
+            "Sumeru",
             "Lokapala Jungle",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Chemin de L'Espoir": {
@@ -182,9 +184,9 @@
     "Chinvat Ravine": {
         "Chinese_name": "离渡谷",
         "tags": [
+            "Sumeru",
             "Avidya Forest",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Chirai Shrine": {
@@ -225,8 +227,8 @@
     "Dadaupa Gorge": {
         "Chinese_name": "达达乌帕谷",
         "tags": [
-            "Galesong Hill",
-            "Mondstadt"
+            "Mondstadt",
+            "Galesong Hill"
         ]
     },
     "Dainichi Mikoshi": {
@@ -240,8 +242,8 @@
         "Chinese_name": "活力之家",
         "tags": [
             "Land of Lower Setekh",
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Dawn Winery": {
@@ -263,15 +265,15 @@
         "Chinese_name": "降诸魔山",
         "tags": [
             "Ardravi Valley",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Dihua Marsh": {
         "Chinese_name": "荻花洲",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Dunes of Steel": {
@@ -334,23 +336,23 @@
     "Falcon Coast": {
         "Chinese_name": "鹰翔海滩",
         "tags": [
-            "Galesong Hill",
-            "Mondstadt"
+            "Mondstadt",
+            "Galesong Hill"
         ]
     },
     "Fane of Ashvattha": {
         "Chinese_name": "觉王之殿",
         "tags": [
+            "Sumeru",
             "Vissudha Field",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Foggy Forest Path": {
         "Chinese_name": "幽林雾道",
         "tags": [
-            "Erinnyes Forest",
-            "Fontaine"
+            "Fontaine",
+            "Erinnyes Forest"
         ]
     },
     "Fort Charybdis Ruins": {
@@ -370,8 +372,8 @@
     "Fort Hiraumi": {
         "Chinese_name": "平海砦",
         "tags": [
-            "Seirai Island",
-            "Inazuma"
+            "Inazuma",
+            "Seirai Island"
         ]
     },
     "Fort Mumei": {
@@ -405,25 +407,25 @@
     "Gandha Hill": {
         "Chinese_name": "香醉坡",
         "tags": [
+            "Sumeru",
             "Avidya Forest",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Gandharva Ville": {
         "Chinese_name": "化城郭",
         "tags": [
+            "Sumeru",
             "Avidya Forest",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Gate of Zulqarnain": {
         "Chinese_name": "阻勒隘",
         "tags": [
+            "Sumeru",
             "Gavireh Lajavard",
-            "Girdle of the Sands",
-            "Sumeru"
+            "Girdle of the Sands"
         ]
     },
     "Glaze Peak": {
@@ -464,9 +466,9 @@
     "Hills of Barsom": {
         "Chinese_name": "跋松顶",
         "tags": [
-            "Realm of Farakhkert",
+            "Sumeru",
             "Girdle of the Sands",
-            "Sumeru"
+            "Realm of Farakhkert"
         ]
     },
     "Huaguang Stone Forest": {
@@ -519,18 +521,18 @@
         ]
     },
     "Khaj-Nisut": {
-        "Chinese_name": "圣显厅",
+        "Chinese_name": "圣显厅/沙之眼",
         "tags": [
             "Land of Lower Setekh",
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Khemenu Temple": {
         "Chinese_name": "秘仪圣殿",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
@@ -544,8 +546,8 @@
     "Koseki Village": {
         "Chinese_name": "越石村",
         "tags": [
-            "Seirai Island",
-            "Inazuma"
+            "Inazuma",
+            "Seirai Island"
         ]
     },
     "Kujou Encampment": {
@@ -579,8 +581,8 @@
     "Loch Urania": {
         "Chinese_name": "优兰尼娅湖",
         "tags": [
-            "Erinnyes Forest",
-            "Fontaine"
+            "Fontaine",
+            "Erinnyes Forest"
         ]
     },
     "Luhua Pool": {
@@ -600,8 +602,8 @@
     "Lumidouce Harbor": {
         "Chinese_name": "柔灯港",
         "tags": [
-            "Erinnyes Forest",
-            "Fontaine"
+            "Fontaine",
+            "Erinnyes Forest"
         ]
     },
     "Marcotte Station": {
@@ -614,9 +616,9 @@
     "Mawtiyima Forest": {
         "Chinese_name": "无郁稠林",
         "tags": [
+            "Sumeru",
             "Lokapala Jungle",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Merusea Village": {
@@ -629,7 +631,9 @@
     "Minacious Isle": {
         "Chinese_name": "危危岛",
         "tags": [
-            "Golden Apple Archipelago"
+            "Version 2.8",
+            "Golden Apple Archipelago",
+            "Version 1.6"
         ]
     },
     "Mingyun Village": {
@@ -711,10 +715,10 @@
         ]
     },
     "Musk Reef": {
-        "Chinese_name": "马斯克",
+        "Chinese_name": "马斯克礁",
         "tags": [
-            "Galesong Hill",
-            "Mondstadt"
+            "Mondstadt",
+            "Galesong Hill"
         ]
     },
     "Musoujin Gorge": {
@@ -762,9 +766,9 @@
     "Old Vanarana": {
         "Chinese_name": "往昔的桓那兰那",
         "tags": [
-            "Lost Nursery",
+            "Sumeru",
             "Dharma Forest",
-            "Sumeru"
+            "Lost Nursery"
         ]
     },
     "Opera Epiclese": {
@@ -784,8 +788,8 @@
         "Chinese_name": "禅那园",
         "tags": [
             "Ashavan Realm",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Passage of Ghouls": {
@@ -805,29 +809,31 @@
     "Poisson": {
         "Chinese_name": "白淞镇",
         "tags": [
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Port Ormos": {
         "Chinese_name": "奥摩斯港",
         "tags": [
             "Ardravi Valley",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Pudding Isle": {
         "Chinese_name": "布丁岛",
         "tags": [
-            "Golden Apple Archipelago"
+            "Version 2.8",
+            "Golden Apple Archipelago",
+            "Version 1.6"
         ]
     },
     "Qingce Village": {
         "Chinese_name": "轻策庄",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Qingxu Pool": {
@@ -862,20 +868,20 @@
     "Romaritime Harbor": {
         "Chinese_name": "海露港",
         "tags": [
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Ruins of Dahri": {
         "Chinese_name": "荼诃之座",
         "tags": [
             "Ashavan Realm",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Safhe Shatranj": {
-        "Chinese_name": "「神的棋盘」",
+        "Chinese_name": "「神的棋盘」/神弃殿阁",
         "tags": [
             "Desert of Hadramaveth",
             "Great Red Sand",
@@ -885,8 +891,8 @@
     "Sal Terrae": {
         "Chinese_name": "地中之盐",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Salacia Plain": {
@@ -899,9 +905,9 @@
     "Samudra Coast": {
         "Chinese_name": "聚香海岸",
         "tags": [
-            "Realm of Farakhkert",
+            "Sumeru",
             "Girdle of the Sands",
-            "Sumeru"
+            "Realm of Farakhkert"
         ]
     },
     "Sangonomiya Shrine": {
@@ -948,8 +954,8 @@
     "Sobek Oasis": {
         "Chinese_name": "丰饶绿洲",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
@@ -984,8 +990,8 @@
     "Stone Gate": {
         "Chinese_name": "石门",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Stony Halls": {
@@ -1026,9 +1032,9 @@
     "Sumeru City": {
         "Chinese_name": "须弥城",
         "tags": [
+            "Sumeru",
             "Avidya Forest",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Tanit Camps": {
@@ -1049,9 +1055,9 @@
     "Temir Mountains": {
         "Chinese_name": "铁穆山",
         "tags": [
+            "Sumeru",
             "Gavireh Lajavard",
-            "Girdle of the Sands",
-            "Sumeru"
+            "Girdle of the Sands"
         ]
     },
     "Thalatta Submarine Canyon": {
@@ -1078,24 +1084,24 @@
     "The Dune of Carouses": {
         "Chinese_name": "饱饮之丘",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
     "The Dune of Elusion": {
         "Chinese_name": "避让之丘",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
     "The Dune of Magma": {
         "Chinese_name": "铄石之丘",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
@@ -1109,8 +1115,8 @@
     "The Mausoleum of King Deshret": {
         "Chinese_name": "赤王陵",
         "tags": [
-            "Hypostyle Desert",
             "Great Red Sand",
+            "Hypostyle Desert",
             "Sumeru"
         ]
     },
@@ -1124,9 +1130,9 @@
     "The Palace of Alcazarzaray": {
         "Chinese_name": "卡萨扎莱宫",
         "tags": [
+            "Sumeru",
             "Lokapala Jungle",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "The Sands of Al-Azif": {
@@ -1200,18 +1206,27 @@
             "Liyue"
         ]
     },
+    "Tower of Ipsissimus": {
+        "Chinese_name": "自体自身之塔/闭锁的遗迹塔",
+        "tags": [
+            "Morte Region",
+            "Fontaine"
+        ]
+    },
     "Tunigi Hollow": {
         "Chinese_name": "荼泥黑渊",
         "tags": [
+            "Sumeru",
             "Gavireh Lajavard",
-            "Girdle of the Sands",
-            "Sumeru"
+            "Girdle of the Sands"
         ]
     },
     "Twinning Isle": {
         "Chinese_name": "双双岛",
         "tags": [
-            "Golden Apple Archipelago"
+            "Version 2.8",
+            "Golden Apple Archipelago",
+            "Version 1.6"
         ]
     },
     "Underground Waterway": {
@@ -1224,33 +1239,33 @@
     "Valley of Dahri": {
         "Chinese_name": "荼诃落谷",
         "tags": [
-            "Land of Upper Setekh",
             "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Land of Upper Setekh"
         ]
     },
     "Vanarana": {
         "Chinese_name": "桓那兰那",
         "tags": [
+            "Sumeru",
             "Vanarana",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     },
     "Vimara Village": {
         "Chinese_name": "维摩庄",
         "tags": [
             "Ardravi Valley",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Vourukasha Oasis": {
         "Chinese_name": "甘露花海",
         "tags": [
-            "Realm of Farakhkert",
+            "Sumeru",
             "Girdle of the Sands",
-            "Sumeru"
+            "Realm of Farakhkert"
         ]
     },
     "Wadi Al-Majuj": {
@@ -1271,22 +1286,22 @@
     "Wangshu Inn": {
         "Chinese_name": "望舒客栈",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Weeping Willow of the Lake": {
         "Chinese_name": "湖中垂柳",
         "tags": [
-            "Erinnyes Forest",
-            "Fontaine"
+            "Fontaine",
+            "Erinnyes Forest"
         ]
     },
     "West Slopes of Mont Automnequi": {
         "Chinese_name": "秋分山西侧",
         "tags": [
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Whispering Woods": {
@@ -1299,8 +1314,8 @@
     "Windrise": {
         "Chinese_name": "风起地",
         "tags": [
-            "Galesong Hill",
-            "Mondstadt"
+            "Mondstadt",
+            "Galesong Hill"
         ]
     },
     "Wolvendom": {
@@ -1321,8 +1336,8 @@
     "Wuwang Hill": {
         "Chinese_name": "无妄坡",
         "tags": [
-            "Bishui Plain",
-            "Liyue"
+            "Liyue",
+            "Bishui Plain"
         ]
     },
     "Wyrmrest Valley": {
@@ -1357,16 +1372,16 @@
         "Chinese_name": "谒颂幽境",
         "tags": [
             "Ashavan Realm",
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Yazadaha Pool": {
         "Chinese_name": "天臂池",
         "tags": [
+            "Sumeru",
             "Avidya Forest",
-            "Dharma Forest",
-            "Sumeru"
+            "Dharma Forest"
         ]
     }
 }

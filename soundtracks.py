@@ -1,9 +1,5 @@
 import time
-import json
 import random
-import requests
-from tqdm import tqdm
-from bs4 import BeautifulSoup
 from utils import *
 
 
@@ -60,7 +56,7 @@ def get_song_info(song_url):
 
             return {
                 'Chinese_name': '/'.join(cname),
-                'tags': trim_str_list(tags)
+                'tags': trim_str_list(tags, rm_bracket=False)
             }
 
         print(f'Failed to get Chinese name of {song_url.split("/")[-1]}')
@@ -108,7 +104,7 @@ def save_soundtracks(soundtrack_path='./data/soundtracks.json', force_upd=True):
     if force_upd or ((not force_upd) and (not os.path.exists(soundtrack_path))):
         soundtrack_dict = get_songs()
         with open(soundtrack_path, 'w', encoding='utf-8') as json_file:
-            json.dump(soundtrack_dict, json_file, ensure_ascii=False)
+            json.dump(soundtrack_dict, json_file, ensure_ascii=False, indent=4)
 
         print(f'Soundtracks have been updated into {soundtrack_path}.')
 
