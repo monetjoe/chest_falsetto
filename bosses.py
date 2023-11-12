@@ -1,26 +1,38 @@
 import json
 import requests
 from tqdm import tqdm
+from html import unescape
 from bs4 import BeautifulSoup
 from utils import *
 
 
-def get_boss_Chinese_name(boss_url):
+def get_boss_info(boss_url):
+    cname, tags = [], []
     response = requests.get(boss_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
-        cname = []
         if len(cname_tds) > 0:
             for cname_td in cname_tds:
                 cname.append(
                     cname_td.find_next(name='span', lang='zh-Hans').text
                 )
 
-        return '/'.join(cname)
+        loc_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string=unescape('Loca&shy;tion(s)')
+        )
+        if loc_h3:
+            tags += loc_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text.split(',')
 
-    print(f'Failed to get Chinese name of {boss_url.split("/")[-1]}')
-    return None
+    else:
+        print(f'Failed to get Chinese name of {boss_url.split("/")[-1]}')
+
+    return cname, tags
 
 
 def get_bosses(page_url=f"{DOMAIN}/wiki/Weekly_Boss"):
@@ -39,13 +51,13 @@ def get_bosses(page_url=f"{DOMAIN}/wiki/Weekly_Boss"):
             boss_name = boss_a.text
             boss_url = f"{DOMAIN}{boss_a.get('href')}"
             boss_tags = boss_td.find_all('a', recursive=False)
-            tags = []
+            cname, tags = get_boss_info(boss_url)
             for boss_tag in boss_tags:
                 tags.append(boss_tag.get('title'))
 
             weeklybosses[boss_name] = {
-                'Chinese_name': get_boss_Chinese_name(boss_url),
-                'tags': tags
+                'Chinese_name': '/'.join(trim_str_list(cname)),
+                'tags': trim_str_list(tags)
             }
 
     else:

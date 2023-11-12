@@ -4,7 +4,10 @@
         "tags": [
             "Geo",
             "Mondstadt",
-            "Medium_Male"
+            "Medium Male",
+            "Sword",
+            "Knights of Favonius",
+            "Yae Publishing House"
         ]
     },
     "Alhaitham": {
@@ -12,7 +15,10 @@
         "tags": [
             "Dendro",
             "Sumeru",
-            "Tall_Male"
+            "Tall Male",
+            "Sword",
+            "Sumeru Akademiya",
+            "Haravatat"
         ]
     },
     "Amber": {
@@ -20,7 +26,9 @@
         "tags": [
             "Pyro",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Knights of Favonius"
         ]
     },
     "Arataki_Itto": {
@@ -28,7 +36,9 @@
         "tags": [
             "Geo",
             "Inazuma",
-            "Tall_Male"
+            "Tall Male",
+            "Claymore",
+            "Arataki Gang"
         ]
     },
     "Baizhu": {
@@ -36,7 +46,9 @@
         "tags": [
             "Dendro",
             "Liyue",
-            "Tall_Male"
+            "Tall Male",
+            "Catalyst",
+            "Bubu Pharmacy"
         ]
     },
     "Barbara": {
@@ -44,7 +56,9 @@
         "tags": [
             "Hydro",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "Church of Favonius"
         ]
     },
     "Beidou": {
@@ -52,7 +66,9 @@
         "tags": [
             "Electro",
             "Liyue",
-            "Tall_Female"
+            "Tall Female",
+            "Claymore",
+            "The Crux"
         ]
     },
     "Bennett": {
@@ -60,7 +76,10 @@
         "tags": [
             "Pyro",
             "Mondstadt",
-            "Medium_Male"
+            "Medium Male",
+            "Sword",
+            "Adventurers' Guild",
+            "Benny's Adventure Team"
         ]
     },
     "Candace": {
@@ -68,7 +87,9 @@
         "tags": [
             "Hydro",
             "Sumeru",
-            "Tall_Female"
+            "Tall Female",
+            "Polearm",
+            "Aaru Village"
         ]
     },
     "Charlotte": {
@@ -76,7 +97,9 @@
         "tags": [
             "Cryo",
             "Fontaine",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "The Steambird"
         ]
     },
     "Chongyun": {
@@ -84,7 +107,9 @@
         "tags": [
             "Cryo",
             "Liyue",
-            "Medium_Male"
+            "Medium Male",
+            "Claymore",
+            "Tianheng Thaumaturges"
         ]
     },
     "Collei": {
@@ -92,7 +117,10 @@
         "tags": [
             "Dendro",
             "Sumeru",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Gandharva Ville",
+            "Forest Rangers"
         ]
     },
     "Cyno": {
@@ -100,7 +128,11 @@
         "tags": [
             "Electro",
             "Sumeru",
-            "Medium_Male"
+            "Medium Male",
+            "Polearm",
+            "Temple of Silence",
+            "Matra",
+            "Spantamad"
         ]
     },
     "Dehya": {
@@ -108,7 +140,10 @@
         "tags": [
             "Pyro",
             "Sumeru",
-            "Tall_Female"
+            "Tall Female",
+            "Claymore",
+            "The Eremites",
+            "Corps of Thirty"
         ]
     },
     "Diluc": {
@@ -116,7 +151,11 @@
         "tags": [
             "Pyro",
             "Mondstadt",
-            "Tall_Male"
+            "Tall Male",
+            "Claymore",
+            "Dawn Winery",
+            "Unnamed intelligence organization",
+            "Knights of Favonius"
         ]
     },
     "Diona": {
@@ -124,7 +163,10 @@
         "tags": [
             "Cryo",
             "Mondstadt",
-            "Short_Female"
+            "Short Female",
+            "Bow",
+            "The Cat's Tail",
+            "Kätzlein Bloodline"
         ]
     },
     "Dori": {
@@ -132,7 +174,9 @@
         "tags": [
             "Electro",
             "Sumeru",
-            "Short_Female"
+            "Short Female",
+            "Claymore",
+            "The Palace of Alcazarzaray"
         ]
     },
     "Eula": {
@@ -140,7 +184,10 @@
         "tags": [
             "Cryo",
             "Mondstadt",
-            "Tall_Female"
+            "Tall Female",
+            "Claymore",
+            "Knights of Favonius",
+            "Lawrence Clan"
         ]
     },
     "Faruzan": {
@@ -148,7 +195,9 @@
         "tags": [
             "Anemo",
             "Sumeru",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Haravatat"
         ]
     },
     "Fischl": {
@@ -156,7 +205,9 @@
         "tags": [
             "Electro",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Adventurers' Guild"
         ]
     },
     "Freminet": {
@@ -164,7 +215,10 @@
         "tags": [
             "Cryo",
             "Fontaine",
-            "Medium_Male"
+            "Medium Male",
+            "Claymore",
+            "Hotel Bouffes d'ete",
+            "House of the Hearth"
         ]
     },
     "Furina": {
@@ -172,7 +226,11 @@
         "tags": [
             "Hydro",
             "Fontaine",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Court of Fontaine",
+            "Opera Epiclese",
+            "The Seven"
         ]
     },
     "Ganyu": {
@@ -180,7 +238,11 @@
         "tags": [
             "Cryo",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Yuehai Pavilion",
+            "Liyue Qixing Employees",
+            "Adepti"
         ]
     },
     "Gorou": {
@@ -188,7 +250,11 @@
         "tags": [
             "Geo",
             "Inazuma",
-            "Medium_Male"
+            "Medium Male",
+            "Bow",
+            "Watatsumi Island",
+            "Watatsumi Army",
+            "Yae Publishing House"
         ]
     },
     "Hu_Tao": {
@@ -196,7 +262,10 @@
         "tags": [
             "Pyro",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Polearm",
+            "Wangsheng Funeral Parlor",
+            "Hu Family"
         ]
     },
     "Jean": {
@@ -204,7 +273,11 @@
         "tags": [
             "Anemo",
             "Mondstadt",
-            "Tall_Female"
+            "Tall Female",
+            "Sword",
+            "Knights of Favonius",
+            "Four Winds",
+            "Gunnhildr Clan"
         ]
     },
     "Kaedehara_Kazuha": {
@@ -212,7 +285,11 @@
         "tags": [
             "Anemo",
             "Inazuma",
-            "Medium_Male"
+            "Medium Male",
+            "Sword",
+            "The Crux",
+            "Kaedehara Clan",
+            "Watatsumi Army"
         ]
     },
     "Kaeya": {
@@ -220,7 +297,11 @@
         "tags": [
             "Cryo",
             "Mondstadt",
-            "Tall_Male"
+            "Tall Male",
+            "Sword",
+            "Knights of Favonius",
+            "Khaenri'ah",
+            "Alberich Clan"
         ]
     },
     "Kamisato_Ayaka": {
@@ -228,7 +309,10 @@
         "tags": [
             "Cryo",
             "Inazuma",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Yashiro Commission",
+            "Kamisato Clan"
         ]
     },
     "Kamisato_Ayato": {
@@ -236,7 +320,11 @@
         "tags": [
             "Hydro",
             "Inazuma",
-            "Tall_Male"
+            "Tall Male",
+            "Sword",
+            "Yashiro Commission",
+            "Kamisato Clan",
+            "Shuumatsuban"
         ]
     },
     "Kaveh": {
@@ -244,7 +332,10 @@
         "tags": [
             "Dendro",
             "Sumeru",
-            "Tall_Male"
+            "Tall Male",
+            "Claymore",
+            "Independent Design Studio",
+            "Kshahrewar"
         ]
     },
     "Keqing": {
@@ -252,7 +343,9 @@
         "tags": [
             "Electro",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Liyue Qixing"
         ]
     },
     "Kirara": {
@@ -260,7 +353,9 @@
         "tags": [
             "Dendro",
             "Inazuma",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Komaniya Express"
         ]
     },
     "Klee": {
@@ -268,7 +363,9 @@
         "tags": [
             "Pyro",
             "Mondstadt",
-            "Short_Female"
+            "Short Female",
+            "Catalyst",
+            "Knights of Favonius"
         ]
     },
     "Kujou_Sara": {
@@ -276,7 +373,9 @@
         "tags": [
             "Electro",
             "Inazuma",
-            "Tall_Female"
+            "Tall Female",
+            "Bow",
+            "Tenryou Commission"
         ]
     },
     "Kuki_Shinobu": {
@@ -284,7 +383,11 @@
         "tags": [
             "Electro",
             "Inazuma",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Arataki Gang",
+            "Kuki Clan",
+            "Grand Narukami Shrine"
         ]
     },
     "Layla": {
@@ -292,7 +395,9 @@
         "tags": [
             "Cryo",
             "Sumeru",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Rtawahist"
         ]
     },
     "Lisa": {
@@ -300,7 +405,10 @@
         "tags": [
             "Electro",
             "Mondstadt",
-            "Tall_Female"
+            "Tall Female",
+            "Catalyst",
+            "Knights of Favonius",
+            "Spantamad"
         ]
     },
     "Lynette": {
@@ -308,7 +416,10 @@
         "tags": [
             "Anemo",
             "Fontaine",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Hotel Bouffes d'ete",
+            "House of the Hearth"
         ]
     },
     "Lyney": {
@@ -316,7 +427,10 @@
         "tags": [
             "Pyro",
             "Fontaine",
-            "Medium_Male"
+            "Medium Male",
+            "Bow",
+            "Hotel Bouffes d'ete",
+            "House of the Hearth"
         ]
     },
     "Mika": {
@@ -324,7 +438,9 @@
         "tags": [
             "Cryo",
             "Mondstadt",
-            "Medium_Male"
+            "Medium Male",
+            "Polearm",
+            "Knights of Favonius"
         ]
     },
     "Mona": {
@@ -332,7 +448,10 @@
         "tags": [
             "Hydro",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "Mondstadt",
+            "The Steambird"
         ]
     },
     "Nahida": {
@@ -340,7 +459,11 @@
         "tags": [
             "Dendro",
             "Sumeru",
-            "Short_Female"
+            "Short Female",
+            "Catalyst",
+            "Sumeru City",
+            "The Seven",
+            "Sumeru Akademiya"
         ]
     },
     "Neuvillette": {
@@ -348,7 +471,12 @@
         "tags": [
             "Hydro",
             "Fontaine",
-            "Tall_Male"
+            "Tall Male",
+            "Catalyst",
+            "Court of Fontaine",
+            "Marechaussee Phantom",
+            "Palais Mermonia",
+            "Seven Sovereigns"
         ]
     },
     "Nilou": {
@@ -356,7 +484,9 @@
         "tags": [
             "Hydro",
             "Sumeru",
-            "Medium_Female"
+            "Medium Female",
+            "Sword",
+            "Zubayr Theater"
         ]
     },
     "Ningguang": {
@@ -364,7 +494,9 @@
         "tags": [
             "Geo",
             "Liyue",
-            "Tall_Female"
+            "Tall Female",
+            "Catalyst",
+            "Liyue Qixing"
         ]
     },
     "Noelle": {
@@ -372,7 +504,9 @@
         "tags": [
             "Geo",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Claymore",
+            "Knights of Favonius"
         ]
     },
     "Qiqi": {
@@ -380,7 +514,10 @@
         "tags": [
             "Cryo",
             "Liyue",
-            "Short_Female"
+            "Short Female",
+            "Sword",
+            "Bubu Pharmacy",
+            "Adepti"
         ]
     },
     "Raiden_Shogun": {
@@ -388,7 +525,11 @@
         "tags": [
             "Electro",
             "Inazuma",
-            "Tall_Female"
+            "Tall Female",
+            "Polearm",
+            "Inazuma City",
+            "Inazuma Shogunate",
+            "The Seven"
         ]
     },
     "Razor": {
@@ -396,7 +537,9 @@
         "tags": [
             "Electro",
             "Mondstadt",
-            "Medium_Male"
+            "Medium Male",
+            "Claymore",
+            "Wolvendom (Andrius)"
         ]
     },
     "Rosaria": {
@@ -404,7 +547,9 @@
         "tags": [
             "Cryo",
             "Mondstadt",
-            "Tall_Female"
+            "Tall Female",
+            "Polearm",
+            "Church of Favonius"
         ]
     },
     "Sangonomiya_Kokomi": {
@@ -412,7 +557,11 @@
         "tags": [
             "Hydro",
             "Inazuma",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "Watatsumi Island",
+            "Sangonomiya Clan",
+            "Watatsumi Army"
         ]
     },
     "Sayu": {
@@ -420,7 +569,9 @@
         "tags": [
             "Anemo",
             "Inazuma",
-            "Short_Female"
+            "Short Female",
+            "Claymore",
+            "Shuumatsuban"
         ]
     },
     "Shenhe": {
@@ -428,7 +579,10 @@
         "tags": [
             "Cryo",
             "Liyue",
-            "Tall_Female"
+            "Tall Female",
+            "Polearm",
+            "Cloud Retainer's Abode",
+            "Adepti"
         ]
     },
     "Shikanoin_Heizou": {
@@ -436,7 +590,10 @@
         "tags": [
             "Anemo",
             "Inazuma",
-            "Medium_Male"
+            "Medium Male",
+            "Catalyst",
+            "Tenryou Commission",
+            "Bantan Sango Detective Agency"
         ]
     },
     "Sucrose": {
@@ -444,7 +601,9 @@
         "tags": [
             "Anemo",
             "Mondstadt",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "Knights of Favonius"
         ]
     },
     "Tartaglia": {
@@ -452,7 +611,10 @@
         "tags": [
             "Hydro",
             "Snezhnaya",
-            "Tall_Male"
+            "Tall Male",
+            "Bow",
+            "Fatui",
+            "Eleven Fatui Harbingers"
         ]
     },
     "Thoma": {
@@ -460,7 +622,10 @@
         "tags": [
             "Pyro",
             "Inazuma",
-            "Tall_Male"
+            "Tall Male",
+            "Polearm",
+            "Yashiro Commission",
+            "Kamisato Clan"
         ]
     },
     "Tighnari": {
@@ -468,7 +633,11 @@
         "tags": [
             "Dendro",
             "Sumeru",
-            "Medium_Male"
+            "Medium Male",
+            "Bow",
+            "Gandharva Ville",
+            "Forest Rangers",
+            "Amurta"
         ]
     },
     "Venti": {
@@ -476,7 +645,10 @@
         "tags": [
             "Anemo",
             "Mondstadt",
-            "Medium_Male"
+            "Medium Male",
+            "Bow",
+            "Mondstadt",
+            "The Seven"
         ]
     },
     "Wanderer": {
@@ -484,7 +656,10 @@
         "tags": [
             "Anemo",
             "Sumeru",
-            "Medium_Male"
+            "Medium Male",
+            "Catalyst",
+            "None",
+            "Vahumana"
         ]
     },
     "Wriothesley": {
@@ -492,7 +667,9 @@
         "tags": [
             "Cryo",
             "Fontaine",
-            "Tall_Male"
+            "Tall Male",
+            "Catalyst",
+            "Fortress of Meropide"
         ]
     },
     "Xiangling": {
@@ -500,7 +677,10 @@
         "tags": [
             "Pyro",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Polearm",
+            "Wanmin Restaurant",
+            "The Crux"
         ]
     },
     "Xiao": {
@@ -508,7 +688,10 @@
         "tags": [
             "Anemo",
             "Liyue",
-            "Medium_Male"
+            "Medium Male",
+            "Polearm",
+            "Liyue Adeptus",
+            "Yakshas"
         ]
     },
     "Xingqiu": {
@@ -516,7 +699,11 @@
         "tags": [
             "Hydro",
             "Liyue",
-            "Medium_Male"
+            "Medium Male",
+            "Sword",
+            "Feiyun Commerce Guild",
+            "Guhua Clan",
+            "Yae Publishing House"
         ]
     },
     "Xinyan": {
@@ -524,7 +711,9 @@
         "tags": [
             "Pyro",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Claymore",
+            "The Red Strings"
         ]
     },
     "Yae_Miko": {
@@ -532,7 +721,10 @@
         "tags": [
             "Electro",
             "Inazuma",
-            "Tall_Female"
+            "Tall Female",
+            "Catalyst",
+            "Grand Narukami Shrine",
+            "Yae Publishing House"
         ]
     },
     "Yanfei": {
@@ -540,7 +732,10 @@
         "tags": [
             "Pyro",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Catalyst",
+            "Yanfei Legal Consultancy",
+            "Adepti"
         ]
     },
     "Yaoyao": {
@@ -548,7 +743,9 @@
         "tags": [
             "Dendro",
             "Liyue",
-            "Short_Female"
+            "Short Female",
+            "Polearm",
+            "Streetward Rambler's Abode"
         ]
     },
     "Yelan": {
@@ -556,7 +753,10 @@
         "tags": [
             "Hydro",
             "Liyue",
-            "Tall_Female"
+            "Tall Female",
+            "Bow",
+            "Yanshang Teahouse",
+            "Ministry of Civil Affairs"
         ]
     },
     "Yoimiya": {
@@ -564,7 +764,9 @@
         "tags": [
             "Pyro",
             "Inazuma",
-            "Medium_Female"
+            "Medium Female",
+            "Bow",
+            "Naganohara Fireworks"
         ]
     },
     "Yun_Jin": {
@@ -572,7 +774,11 @@
         "tags": [
             "Geo",
             "Liyue",
-            "Medium_Female"
+            "Medium Female",
+            "Polearm",
+            "Yun-Han Opera Troupe",
+            "Heyu Tea House",
+            "Yun Family"
         ]
     },
     "Zhongli": {
@@ -580,7 +786,12 @@
         "tags": [
             "Geo",
             "Liyue",
-            "Tall_Male"
+            "Tall Male",
+            "Polearm",
+            "Liyue Harbor",
+            "Wangsheng Funeral Parlor",
+            "The Seven",
+            "Adepti"
         ]
     }
 }

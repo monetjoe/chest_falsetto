@@ -1,23 +1,45 @@
 import json
 import requests
 from tqdm import tqdm
+from html import unescape
 from bs4 import BeautifulSoup
 from utils import *
 
 
-def get_Chinese_char_name(char_url):
+def get_character_info(char_url):
     response = requests.get(f'{DOMAIN}{char_url}')
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
-        cname = []
+        cname, affiliation = [], []
         if len(cname_tds) > 0:
             for cname_td in cname_tds:
                 cname.append(
                     cname_td.find_next(name='span', lang='zh-Hans').text
                 )
 
-        return '/'.join(cname)
+        org_h3 = soup.find(
+            name='h3',
+            string=unescape('Affil&shy;i&shy;a&shy;tion'),
+            class_='pi-data-label'
+        )
+        if org_h3:
+            affiliation = [org_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text]
+
+        orgs_h3 = soup.find(
+            name='h3',
+            string=unescape('Affil&shy;i&shy;a&shy;tions'),
+            class_='pi-data-label'
+        )
+        if orgs_h3:
+            orgs_ul = orgs_h3.find_next('ul')
+            for org_li in orgs_ul:
+                affiliation.append(rm_brackets_and_content(org_li.text))
+
+        return '/'.join(cname), trim_str_list(affiliation)
 
     print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
     return ''
@@ -43,9 +65,14 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
             gender = char_tds[6].find('a').get('href').split(
                 ':')[-1].replace('_Characters', '').replace('_', ' ')
 
+            tags = [element, region, gender, weapon]
+            cname, affiliation = get_character_info(url)
+            if len(affiliation) > 0:
+                tags += affiliation
+
             characters[name] = {
-                'Chinese_name': get_Chinese_char_name(url),
-                'tags': [element, region, gender, weapon]
+                'Chinese_name': cname,
+                'tags': tags
             }
 
     else:

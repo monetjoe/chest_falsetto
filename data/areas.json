@@ -62,15 +62,15 @@
     "The Chasm": {
         "Chinese_name": "层岩巨渊",
         "tags": [
-            "The Chasm",
-            "Liyue"
+            "Liyue",
+            "The Chasm"
         ]
     },
     "The Chasm: Underground Mines": {
         "Chinese_name": "地下矿区",
         "tags": [
-            "The Chasm",
-            "Liyue"
+            "Liyue",
+            "The Chasm"
         ]
     },
     "Enkanomiya": {
@@ -123,7 +123,7 @@
         ]
     },
     "Ashavan Realm": {
-        "Chinese_name": "善见",
+        "Chinese_name": "善见地",
         "tags": [
             "Dharma Forest",
             "Sumeru"
@@ -168,29 +168,29 @@
     "Desert of Hadramaveth": {
         "Chinese_name": "千壑沙地",
         "tags": [
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Hypostyle Desert": {
         "Chinese_name": "列柱沙原",
         "tags": [
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Land of Lower Setekh": {
         "Chinese_name": "下风蚀地",
         "tags": [
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Land of Upper Setekh": {
         "Chinese_name": "上风蚀地",
         "tags": [
-            "Great Red Sand",
-            "Sumeru"
+            "Sumeru",
+            "Great Red Sand"
         ]
     },
     "Gavireh Lajavard": {
@@ -250,15 +250,18 @@
         ]
     },
     "Golden Apple Archipelago": {
-        "Chinese_name": "金苹果群岛",
+        "Chinese_name": "雾海群岛/金苹果群岛",
         "tags": [
-            "Midsummer Island AdventureSummertime Odyssey"
+            "Summertime Odyssey",
+            "Midsummer Island Adventure",
+            "Version 1.6"
         ]
     },
     "Three Realms Gateway Offering": {
-        "Chinese_name": "三界路飨祭",
+        "Chinese_name": "海洲逐雾/三界路飨祭",
         "tags": [
-            "Official AnnouncementGameplay Details"
+            "Inazuma",
+            "Three Realms Gateway Offering"
         ]
     },
     "Veluriyam Mirage": {

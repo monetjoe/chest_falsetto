@@ -6,11 +6,11 @@ from utils import *
 
 
 def get_area_info(area_url):
+    tags, cname = [], []
     response = requests.get(area_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
-        tags, cname = [], []
         if len(cname_tds) > 0:
             for cname_td in cname_tds:
                 cname.append(
@@ -28,13 +28,50 @@ def get_area_info(area_url):
                 class_='pi-data-value'
             ).text.split(',')
 
-        return {
-            'Chinese_name': '/'.join(cname),
-            'tags': trim_str_list(tags)
-        }
+        events_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string='Events'
+        )
+        if events_h3:
+            events_div = events_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            )
+            event_as = events_div.find_all('a')
+            for event_a in event_as:
+                tags.append(event_a.get('title'))
 
-    print(f'\nFailed to get Chinese name of {area_url.split("/")[-1]}')
-    return None
+        event_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string='Event'
+        )
+        if event_h3:
+            tags.append(event_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text)
+
+        sub_div = soup.find('div', class_='custom-tabs-default')
+        if sub_div:
+            offset_span = sub_div.find('span', class_='active-tab')
+            sub_spans = list(offset_span.find_all_next(
+                name='span',
+                class_='inactive-tab'
+            ))[:-1]
+            for sub_span in sub_spans:
+                sub_a = sub_span.find('a')
+                if sub_a.text != 'Map' and sub_a.text != 'Gallery':
+                    sub_url = sub_a.get('href')
+                    ret1, ret2 = get_area_info(f'{DOMAIN}{sub_url}')
+                    cname += ret1
+                    tags += ret2
+
+    else:
+        print(f'\nFailed to get Chinese name of {area_url.split("/")[-1]}')
+
+    return cname, tags
 
 
 def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
@@ -53,7 +90,11 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
                 ).find('a')
                 area_name = area_a.text.strip()
                 area_url = f'{DOMAIN}/wiki/{quote(area_name)}'
-                areas[area_name.replace('"', '')] = get_area_info(area_url)
+                cname, tags = get_area_info(area_url)
+                areas[area_name.replace('"', '')] = {
+                    'Chinese_name': '/'.join(trim_str_list(cname)),
+                    'tags': trim_str_list(tags)
+                }
 
             i += 1
 

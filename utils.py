@@ -53,30 +53,22 @@ def create_dir(dirpath='./data'):
 
 
 def trim_str_list(input_list):
-    """
-    Removes leading and trailing whitespace from all elements in a list of strings.
+    output = []
+    for s in input_list:
+        processed_s = rm_brackets_and_content(s).replace('"', '').strip()
+        if processed_s != '':
+            output.append(processed_s)
 
-    Parameters:
-    - input_list (list): A list of strings.
-
-    Returns:
-    - list: A new list with leading and trailing whitespace removed from each element.
-    """
-    result_list = [s.strip() for s in input_list]
-    return result_list
+    return list(set(output))
 
 
 def merge_dicts(dict1, dict2):
-    """
-    Merge two dictionaries.
-
-    Parameters:
-    - dict1 (dict): The first dictionary.
-    - dict2 (dict): The second dictionary.
-
-    Returns:
-    - dict: The merged dictionary.
-    """
     merged_dict = dict1.copy()
     merged_dict.update(dict2)
     return merged_dict
+
+
+def rm_brackets_and_content(input_string):
+    import re
+    result_string = re.sub(r'\([^)]*\)|\[[^\]]*\]', '', input_string)
+    return result_string

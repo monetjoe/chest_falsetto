@@ -2,6 +2,7 @@
     "Andrius": {
         "Chinese_name": "北风的王狼，奔狼的领主",
         "tags": [
+            "Windwail Highland",
             "Wolvendom",
             "Mondstadt"
         ]
@@ -10,56 +11,64 @@
         "Chinese_name": "裂空的魔龙",
         "tags": [
             "Stormterror's Lair",
+            "Confront Stormterror",
             "Mondstadt"
         ]
     },
     "Childe": {
         "Chinese_name": "「公子」",
         "tags": [
-            "Golden House",
-            "Liyue"
+            "Liyue",
+            "Enter the Golden House",
+            "Golden House"
         ]
     },
     "Azhdaha": {
         "Chinese_name": "若陀龙王",
         "tags": [
-            "Nantianmen",
-            "Liyue"
+            "Beneath the Dragon-Queller",
+            "Liyue",
+            "Nantianmen"
         ]
     },
     "La Signora": {
-        "Chinese_name": "「女士」/焚尽的炽炎魔女",
+        "Chinese_name": "焚尽的炽炎魔女/「女士」",
         "tags": [
+            "Inazuma",
             "Tenshukaku",
-            "Inazuma"
+            "Narukami Island: Tenshukaku"
         ]
     },
     "Magatsu Mitake Narukami no Mikoto": {
         "Chinese_name": "祸津御建鸣神命",
         "tags": [
-            "Grand Narukami Shrine",
-            "Inazuma"
+            "Inazuma",
+            "End of the Oneiric Euthymia",
+            "Grand Narukami Shrine"
         ]
     },
     "Everlasting Lord of Arcane Wisdom": {
-        "Chinese_name": "七叶寂照秘密主/「正机之神」",
+        "Chinese_name": "「正机之神」/七叶寂照秘密主",
         "tags": [
+            "Joururi Workshop",
             "Chinvat Ravine",
             "Sumeru"
         ]
     },
     "Guardian of Apep's Oasis": {
-        "Chinese_name": "终末绿洲的守望者/起源绿洲的守望者/阿佩普的绿洲守望者",
+        "Chinese_name": "起源绿洲的守望者/阿佩普的绿洲守望者/终末绿洲的守望者",
         "tags": [
-            "Desert of Hadramaveth",
-            "Sumeru"
+            "Sumeru",
+            "The Realm of Beginnings",
+            "Desert of Hadramaveth"
         ]
     },
     "All-Devouring Narwhal": {
         "Chinese_name": "吞星之鲸",
         "tags": [
             "Salacia Plain",
-            "Fontaine"
+            "Fontaine",
+            "Shadow of Another World"
         ]
     }
 }
