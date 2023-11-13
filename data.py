@@ -9,9 +9,9 @@ from utils import *
 
 if __name__ == "__main__":
     create_dir()
-    save_areas()
-    save_subareas()
     save_weekly_bosses()
+    save_areas()
     save_characters()
-    save_soundtracks()
+    save_subareas()
     save_points_of_interest()
+    save_soundtracks()

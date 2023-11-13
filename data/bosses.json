@@ -32,7 +32,7 @@
         ]
     },
     "La Signora": {
-        "Chinese_name": "焚尽的炽炎魔女/「女士」",
+        "Chinese_name": "「女士」/焚尽的炽炎魔女",
         "tags": [
             "Inazuma",
             "Tenshukaku",
@@ -42,33 +42,33 @@
     "Magatsu Mitake Narukami no Mikoto": {
         "Chinese_name": "祸津御建鸣神命",
         "tags": [
-            "Inazuma",
             "End of the Oneiric Euthymia",
-            "Grand Narukami Shrine"
+            "Grand Narukami Shrine",
+            "Inazuma"
         ]
     },
     "Everlasting Lord of Arcane Wisdom": {
-        "Chinese_name": "「正机之神」/七叶寂照秘密主",
+        "Chinese_name": "七叶寂照秘密主/「正机之神」",
         "tags": [
             "Joururi Workshop",
-            "Chinvat Ravine",
-            "Sumeru"
+            "Sumeru",
+            "Chinvat Ravine"
         ]
     },
     "Guardian of Apep's Oasis": {
-        "Chinese_name": "起源绿洲的守望者/阿佩普的绿洲守望者/终末绿洲的守望者",
+        "Chinese_name": "起源绿洲的守望者/终末绿洲的守望者/阿佩普的绿洲守望者",
         "tags": [
+            "Desert of Hadramaveth",
             "Sumeru",
-            "The Realm of Beginnings",
-            "Desert of Hadramaveth"
+            "The Realm of Beginnings"
         ]
     },
     "All-Devouring Narwhal": {
         "Chinese_name": "吞星之鲸",
         "tags": [
             "Salacia Plain",
-            "Fontaine",
-            "Shadow of Another World"
+            "Shadow of Another World",
+            "Fontaine"
         ]
     }
 }
