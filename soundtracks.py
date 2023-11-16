@@ -1,12 +1,12 @@
-import time
-import random
+# import time
+# import random
 from utils import *
 
 
 def get_song_info(song_url):
-    time.sleep(random.uniform(0.1, 1.0))
+    # time.sleep(random.uniform(0.1, 1.0))
     try:
-        response = requests.get(song_url)
+        response = requests.get(song_url, proxies=PROXY)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             cname_tds = soup.find_all('small', string='(Simplified)')
@@ -68,10 +68,10 @@ def get_song_info(song_url):
 
 
 def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
-    time.sleep(random.uniform(0.1, 1.0))
+    # time.sleep(random.uniform(0.1, 1.0))
     soundtracks = {}
     try:
-        response = requests.get(page_url)
+        response = requests.get(page_url, proxies=PROXY)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             songs_div = soup.find('div', class_='category-page__members')
@@ -81,8 +81,13 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
             )
             for song_a in tqdm(song_as, desc='Updating soundtracks...'):
                 song_name = song_a.get('title').strip()
+                if ' - Instrumental' in song_name or '(Album)' in song_name:
+                    continue
+
                 song_url = f"{DOMAIN}{song_a.get('href')}"
-                soundtracks[song_name] = get_song_info(song_url)
+                soundtracks[song_name.replace(' (Soundtrack)', '')] = get_song_info(
+                    song_url
+                )
 
             nextpage = soup.find('a', class_='category-page__pagination-next')
             if nextpage:

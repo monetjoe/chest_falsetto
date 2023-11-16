@@ -8,6 +8,11 @@ from urllib.parse import quote
 
 DOMAIN = 'https://genshin-impact.fandom.com'
 
+PROXY = {
+    'http': 'http://127.0.0.1:7890',
+    'https': 'http://127.0.0.1:7890'
+}
+
 Teyvat = {
     'Mondstadt': {
         'Chinese_name': '蒙德',
