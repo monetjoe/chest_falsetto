@@ -56,24 +56,31 @@ def get_title(response, url, substr='file_score_title":"'):
     return None
 
 
-def download(urls: dict, save_folder="./data/genshin", tags=[]):
+def download(urls: dict, save_folder="./data/genshin", region=''):
     create_dir(save_folder)
     for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])
-        score_name = '#'.join(set([urls[score_url]] + tags))
-        response = requests.get(file_url)
-        if response.status_code == 200:
-            with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
-                file.write(response.content)
+        score_name = f'[{region}]{urls[score_url]}'
+        # score_name = '#'.join(set([urls[score_url]] + tags))
+        try:
+            response = requests.get(file_url, proxies=PROXY)
+            if response.status_code == 200:
+                with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
+                    file.write(response.content)
 
-            print(f"Downloaded: {score_name}")
+                print(f"Downloaded: {score_name}")
 
-        else:
-            print(f"Failed to download: {file_url} => {score_name}")
+            else:
+                print(f"Failed to download: {file_url} => {score_name}")
+
+        except requests.exceptions.RetryError as e:
+            print(f"Max retries exceeded: {e}")
+        except requests.exceptions.RequestException as e:
+            print(f"Request failed: {e}")
 
 
 if __name__ == "__main__":
-    keyword = "furina"
-    tag_list = add_tags(keyword)
-    score_urls = get_score_urls(f"genshin {keyword}")
-    download(urls=score_urls, tags=tag_list)
+    regions = list(Teyvat.keys())[:5]
+    for region in regions:
+        score_urls = get_score_urls(f"genshin impact {region}")
+        download(urls=score_urls, region=region)
