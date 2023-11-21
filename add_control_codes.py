@@ -153,8 +153,10 @@ def run_filter(filename):
                 score += line + '\n'
             else:
                 score += line
+
     if not is_one_voice(filename):
         score = extract_melody(score)
+
     return score.strip()
 
 
@@ -168,20 +170,23 @@ for dirpath, dirlist, filelist in os.walk('data/abcs'):
         filename = os.path.join(dirpath, this_file)
         filenames.append(filename)
 
-for filename in tqdm(filenames):
+for filename in filenames:
     content = run_filter(filename)
     if content != "":
-        data.append(content)
+        data.append({
+            'tags': os.path.basename(filename).split('_')[0],
+            'content': content
+        })
 
 header_data = []
 
-for tune in data:
-    meta_data, merged_body_data = split_txt(tune)
-    control_code, tune = add_tokens(meta_data, merged_body_data)
-    if tune != "":
+for tune in tqdm(data, desc='Generating json...'):
+    meta_data, merged_body_data = split_txt(tune['content'])
+    control_code, melody = add_tokens(meta_data, merged_body_data)
+    if melody != "":
         item = {}
-        item['control code'] = control_code
-        item['abc notation'] = "X:1\n"+tune
+        item['control code'] = f"A:{tune['tags']}\n"+control_code
+        item['abc notation'] = "X:1\n"+melody
         header_data.append(item)
 
 with open('data/dataset.json', 'w', encoding='utf-8') as f:

@@ -3,6 +3,7 @@ import math
 import subprocess
 from tqdm import trange
 from multiprocessing import Pool
+from utils import *
 
 
 class suppress_stdout_stderr(object):
@@ -71,6 +72,7 @@ def convert_abc(file_list):
             # output = run_filter(output)
             if output == '':
                 continue
+
             else:
                 with open('data/abcs/'+filename.split('.')[-2]+'.txt', 'w', encoding='utf-8') as f:
                     f.write(output)
@@ -81,6 +83,7 @@ def convert_abc(file_list):
 if __name__ == '__main__':
     file_list = []
     abc_list = []
+    create_dir('data/abcs')
 
     # traverse folder
     for root, dirs, files in os.walk('data/xmls'):

@@ -6,7 +6,7 @@ from utils import *
 def get_song_info(song_url):
     # time.sleep(random.uniform(0.1, 1.0))
     try:
-        response = requests.get(song_url, proxies=PROXY)
+        response = requests.get(song_url, proxies=PROXY())
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             cname_tds = soup.find_all('small', string='(Simplified)')
@@ -71,7 +71,7 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
     # time.sleep(random.uniform(0.1, 1.0))
     soundtracks = {}
     try:
-        response = requests.get(page_url, proxies=PROXY)
+        response = requests.get(page_url, proxies=PROXY())
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             songs_div = soup.find('div', class_='category-page__members')
