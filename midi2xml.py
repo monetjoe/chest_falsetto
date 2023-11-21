@@ -13,13 +13,17 @@ def midi_to_mxl(midi_file, mxl_file):
         print(result)
 
 
-if __name__ == '__main__':
-    create_dir('data/xmls')
-    for foldername, subfolders, filenames in os.walk('data/genshin'):
+def batch_midi2mxl(game='genshin'):
+    create_dir(f'data/{game}_xmls')
+    for foldername, _, filenames in os.walk(f'data/{game}'):
         for filename in tqdm(filenames, desc='Converting midi to mxl...'):
             if filename.endswith('.mid'):
                 midi_file = os.path.join(
                     foldername, filename).replace('\\', '/')
                 mxl_file = midi_file.replace(
-                    '.mid', '.mxl').replace('/genshin/', '/xmls/')
+                    '.mid', '.mxl').replace(f'/{game}/', f'/{game}_xmls/')
                 midi_to_mxl(midi_file, mxl_file)
+
+
+if __name__ == '__main__':
+    batch_midi2mxl()

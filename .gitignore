@@ -6,4 +6,5 @@ test.py
 *.mxl
 *.musicxml
 *.txt
-*dataset.json
+*genshin.json
+*.abc

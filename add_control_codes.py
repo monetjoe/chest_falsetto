@@ -160,34 +160,39 @@ def run_filter(filename):
     return score.strip()
 
 
-data = []
-filenames = []
+def create_json(game='genshin'):
+    data = []
+    filenames = []
 
-# Traverse the path
-for dirpath, dirlist, filelist in os.walk('data/abcs'):
-    # Traverse the list of files
-    for this_file in filelist:
-        filename = os.path.join(dirpath, this_file)
-        filenames.append(filename)
+    # Traverse the path
+    for dirpath, _, filelist in os.walk(f'data/{game}_abcs'):
+        # Traverse the list of files
+        for this_file in filelist:
+            filename = os.path.join(dirpath, this_file)
+            filenames.append(filename)
 
-for filename in filenames:
-    content = run_filter(filename)
-    if content != "":
-        data.append({
-            'tags': os.path.basename(filename).split('_')[0],
-            'content': content
-        })
+    for filename in filenames:
+        content = run_filter(filename)
+        if content != "":
+            data.append({
+                'tags': os.path.basename(filename).split('_')[0],
+                'content': content
+            })
 
-header_data = []
+    header_data = []
 
-for tune in tqdm(data, desc='Generating json...'):
-    meta_data, merged_body_data = split_txt(tune['content'])
-    control_code, melody = add_tokens(meta_data, merged_body_data)
-    if melody != "":
-        item = {}
-        item['control code'] = f"A:{tune['tags']}\n"+control_code
-        item['abc notation'] = "X:1\n"+melody
-        header_data.append(item)
+    for tune in tqdm(data, desc='Generating json...'):
+        meta_data, merged_body_data = split_txt(tune['content'])
+        control_code, melody = add_tokens(meta_data, merged_body_data)
+        if melody != "":
+            item = {}
+            item['control code'] = f"A:{tune['tags']}\n"+control_code
+            item['abc notation'] = "X:1\n"+melody
+            header_data.append(item)
 
-with open('data/dataset.json', 'w', encoding='utf-8') as f:
-    json.dump(header_data, f)
+    with open(f'./data/{game}.json', 'w', encoding='utf-8') as f:
+        json.dump(header_data, f)
+
+
+if __name__ == '__main__':
+    create_json()

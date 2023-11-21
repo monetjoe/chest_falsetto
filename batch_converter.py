@@ -59,7 +59,7 @@ output = os.popen(cmd).read()
 cmd = 'cmd /u /c python xml2abc.py -m 2 -c 6 -x '
 
 
-def convert_abc(file_list):
+def convert_abc(file_list, game='genshin'):
     for file_idx in trange(len(file_list)):
         file = file_list[file_idx]
         filename = file.split('\\')[-1]
@@ -74,19 +74,19 @@ def convert_abc(file_list):
                 continue
 
             else:
-                with open('data/abcs/'+filename.split('.')[-2]+'.txt', 'w', encoding='utf-8') as f:
+                with open(f'./data/{game}_abcs/'+filename.split('.')[-2]+'.abc', 'w', encoding='utf-8') as f:
                     f.write(output)
         except:
             pass
 
 
-if __name__ == '__main__':
+def batch_xml2abc(game='genshin'):
     file_list = []
-    abc_list = []
-    create_dir('data/abcs')
+    # abc_list = []
+    create_dir(f'data/{game}_abcs')
 
     # traverse folder
-    for root, dirs, files in os.walk('data/xmls'):
+    for root, _, files in os.walk(f'data/{game}_xmls'):
         for file in files:
             filename = os.path.join(root, file)
             file_list.append(filename)
@@ -105,3 +105,7 @@ if __name__ == '__main__':
 
     pool = Pool(processes=os.cpu_count())
     pool.map(convert_abc, file_lists)
+
+
+if __name__ == '__main__':
+    batch_xml2abc()
