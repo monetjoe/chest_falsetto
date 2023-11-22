@@ -15,7 +15,7 @@ def midi_to_mxl(midi_file, mxl_file):
 
 def batch_midi2mxl(game='genshin'):
     create_dir(f'data/{game}_xmls')
-    for foldername, _, filenames in os.walk(f'data/{game}'):
+    for foldername, _, filenames in os.walk(f'data/{game}_mids'):
         for filename in tqdm(filenames, desc='Converting midi to mxl...'):
             if filename.endswith('.mid'):
                 midi_file = os.path.join(

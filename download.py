@@ -5,9 +5,9 @@ from utils import *
 
 
 def clean_windows_filename(input_str):
-    # 替换非法字符为空格
+    # Replace illegal characters with spaces
     cleaned_str = re.sub(r'[\\/:*?"<>|]', ' ', input_str)
-    # 删除多余的空格
+    # Remove redundant spaces
     cleaned_str = re.sub(r'\s+', ' ', cleaned_str).strip()
     return cleaned_str
 
@@ -77,7 +77,7 @@ def get_title(response, url, substr='file_score_title":"'):
     return None
 
 
-def download(urls: dict, save_folder="./data/genshin", region=''):
+def download(urls: dict, save_folder="./data/genshin_mids", region=''):
     create_dir(save_folder)
     for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])
@@ -101,7 +101,13 @@ def download(urls: dict, save_folder="./data/genshin", region=''):
 
 
 if __name__ == "__main__":
+    keywords = []
     regions = list(Teyvat.keys())[:5]
+
     for region in regions:
+        keywords.append(region)
+        keywords.append(Teyvat[region]['Chinese_name'])
+
+    for keyword in keywords:
         score_urls = get_score_urls(f"genshin impact {region}")
         download(urls=score_urls, region=region)
