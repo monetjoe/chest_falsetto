@@ -82,7 +82,6 @@ def download(urls: dict, save_folder="./data/genshin_mids", region=''):
     for score_url in urls.keys():
         file_url = get_file_url(score_url.split("/")[-1])
         score_name = f'{region}_{urls[score_url]}'
-        # score_name = '#'.join(set([urls[score_url]] + tags))
         try:
             response = requests.get(file_url, proxies=PROXY())
             if response.status_code == 200:
@@ -101,13 +100,13 @@ def download(urls: dict, save_folder="./data/genshin_mids", region=''):
 
 
 if __name__ == "__main__":
-    keywords = []
     regions = list(Teyvat.keys())[:5]
-
     for region in regions:
-        keywords.append(region)
+        score_urls = get_score_urls(f"genshin {region}")
+        keywords = list(Teyvat[region]['tags'])
         keywords.append(Teyvat[region]['Chinese_name'])
+        for keyword in keywords:
+            keyword_scores = get_score_urls(f"genshin {keyword}")
+            score_urls = merge_dicts(score_urls, keyword_scores)
 
-    for keyword in keywords:
-        score_urls = get_score_urls(f"genshin impact {region}")
         download(urls=score_urls, region=region)
