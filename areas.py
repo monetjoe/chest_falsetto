@@ -3,7 +3,7 @@ from utils import *
 
 def get_area_info(area_url):
     tags, cname = [], []
-    response = requests.get(area_url)
+    response = requests.get(area_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
@@ -79,9 +79,19 @@ def get_area_info(area_url):
     return cname, tags
 
 
+def special_area_region(key_area):
+    if key_area == 'Golden Apple Archipelago':
+        return 'Mondstadt'
+
+    elif key_area == 'Veluriyam Mirage':
+        return 'Sumeru'
+
+    return ''
+
+
 def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
     areas = {}
-    response = requests.get(page_url)
+    response = requests.get(page_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         i = 0
@@ -96,7 +106,12 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
                 area_name = area_a.text.strip()
                 area_url = f'{DOMAIN}/wiki/{quote(area_name)}'
                 cname, tags = get_area_info(area_url)
-                areas[area_name.replace('"', '')] = {
+                area_key = area_name.replace('"', '')
+                region = special_area_region(area_key)
+                if region != '':
+                    tags.append(region)
+
+                areas[area_key] = {
                     'Chinese_name': '/'.join(trim_str_list(cname)),
                     'tags': trim_str_list(tags)
                 }

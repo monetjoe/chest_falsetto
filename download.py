@@ -19,7 +19,7 @@ def get_score_urls(keyword='genshin'):
         print(f"Page {i}...", end="\n")
         page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={keyword}'
         try:
-            response = requests.get(page_url)
+            response = requests.get(page_url, proxies=PROXY())
 
             if re.findall('No results', response.text):
                 print(f"{i - 1} pages in total\n", '-' * 50)
@@ -45,7 +45,7 @@ def get_file_url(id):
     url = f"https://musescore.com/api/jmuse?id={id}&type=midi&index=0&v2=1"
     auth = "38fb9efaae51b0c83b5bb5791a698b48292129e7"
     try:
-        response = requests.get(url, headers={"Authorization": auth})
+        response = requests.get(url, headers={"Authorization": auth}, proxies=PROXY())
         data = response.json()
         info = data.get("info")
         if info:

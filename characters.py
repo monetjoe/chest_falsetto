@@ -4,7 +4,7 @@ from utils import *
 
 def get_character_info(char_url):
     cname, affiliation = [], []
-    response = requests.get(f'{DOMAIN}{char_url}')
+    response = requests.get(f'{DOMAIN}{char_url}', proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
@@ -43,7 +43,7 @@ def get_character_info(char_url):
 
 def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
     characters = {}
-    response = requests.get(page_url)
+    response = requests.get(page_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         char_tab = soup.find('tbody')

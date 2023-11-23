@@ -3,7 +3,7 @@ from utils import *
 
 def get_subarea_info(subarea_url):
     cname, tags = [], []
-    response = requests.get(subarea_url)
+    response = requests.get(subarea_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
@@ -22,6 +22,28 @@ def get_subarea_info(subarea_url):
                 name='div',
                 class_='pi-data-value'
             ).text.split(',')
+
+        map_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string='World Map'
+        )
+        if map_h3:
+            tags.append(map_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text)
+
+        event_h3 = soup.find(
+            name='h3',
+            class_='pi-data-label',
+            string='Event'
+        )
+        if event_h3:
+            tags.append(event_h3.find_next(
+                name='div',
+                class_='pi-data-value'
+            ).text)
 
         sub_div = soup.find('div', class_='custom-tabs-default')
         if sub_div:
@@ -53,9 +75,19 @@ def get_subarea_info(subarea_url):
     return cname, tags
 
 
+def special_subarea_region(tags):
+    if 'Veluriyam Mirage' in tags:
+        return 'Sumeru'
+
+    if 'Golden Apple Archipelago' in tags:
+        return 'Mondstadt'
+
+    return ''
+
+
 def get_subareas(page_url=f"{DOMAIN}/wiki/Category:Subareas"):
     subareas = {}
-    response = requests.get(page_url)
+    response = requests.get(page_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         subareas_div = soup.find('div', class_='category-page__members')
@@ -67,7 +99,12 @@ def get_subareas(page_url=f"{DOMAIN}/wiki/Category:Subareas"):
             subarea_name = subarea_a.get('title').split('/')[0]
             subarea_url = f"{DOMAIN}/wiki/{quote(subarea_name)}"
             cname, tags = get_subarea_info(subarea_url)
-            subareas[subarea_name.replace('"', '')] = {
+            subarea_key = subarea_name.replace('"', '')
+            region = special_subarea_region(tags)
+            if region != '':
+                tags.append(region)
+
+            subareas[subarea_key] = {
                 'Chinese_name': '/'.join(cname),
                 'tags': trim_str_list(tags)
             }
@@ -92,6 +129,35 @@ def save_subareas(subareas_path='./data/subareas.json', force_upd=True):
         print(f'Subareas have been updated into {subareas_path}.')
 
 
+def load_subarea_tags():
+    regions = list(Teyvat.keys())[:5]
+    region_subareas = {}
+    for region in regions:
+        region_subareas[region] = Teyvat[region]['tags']
+        region_subareas[region].append(Teyvat[region]['Chinese_name'])
+
+    with open('./data/subareas.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        subareas = dict(data).keys()
+        for subarea in tqdm(subareas, desc='Extracting regions...'):
+            region = find_cross(
+                data[subarea]['tags'],
+                regions
+            )
+
+            if region != '':
+                region_subareas[region].append(subarea)
+                region_subareas[region] += \
+                    data[subarea]['Chinese_name'].split('/')
+
+            else:
+                print(f'{subarea} has no region.')
+
+    print(region_subareas)
+    return region_subareas
+
+
 if __name__ == "__main__":
     create_dir()
-    save_subareas()
+    # save_subareas()
+    load_subarea_tags()

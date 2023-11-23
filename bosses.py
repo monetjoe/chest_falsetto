@@ -4,7 +4,7 @@ from utils import *
 
 def get_boss_info(boss_url):
     cname, tags = [], []
-    response = requests.get(boss_url)
+    response = requests.get(boss_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         cname_tds = soup.find_all('small', string='(Simplified)')
@@ -33,7 +33,7 @@ def get_boss_info(boss_url):
 
 def get_bosses(page_url=f"{DOMAIN}/wiki/Weekly_Boss"):
     weeklybosses = {}
-    response = requests.get(page_url)
+    response = requests.get(page_url, proxies=PROXY())
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         bosses_tab = soup.find('table', class_='tdc1')

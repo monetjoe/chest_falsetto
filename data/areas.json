@@ -60,11 +60,8 @@
         ]
     },
     "The Chasm": {
-        "Chinese_name": "层岩巨渊",
-        "tags": [
-            "Liyue",
-            "The Chasm"
-        ]
+        "Chinese_name": "",
+        "tags": []
     },
     "The Chasm: Underground Mines": {
         "Chinese_name": "地下矿区",
@@ -150,10 +147,9 @@
             "Dharma Forest"
         ]
     },
-    "Vanarana": {
+    "Vanarana (Area)": {
         "Chinese_name": "桓那兰那",
         "tags": [
-            "Vanarana",
             "Sumeru",
             "Dharma Forest"
         ]
@@ -252,24 +248,26 @@
     "Golden Apple Archipelago": {
         "Chinese_name": "雾海群岛/金苹果群岛",
         "tags": [
+            "Version 1.6",
             "Midsummer Island Adventure",
             "Version 2.8",
-            "Version 1.6",
+            "Mondstadt",
             "Summertime Odyssey"
         ]
     },
     "Three Realms Gateway Offering": {
         "Chinese_name": "三界路飨祭/海洲逐雾",
         "tags": [
-            "Aphotic Diffusal",
+            "Three Realms Gateway Offering",
             "Inazuma",
-            "Three Realms Gateway Offering"
+            "Aphotic Diffusal"
         ]
     },
     "Veluriyam Mirage": {
         "Chinese_name": "琉形蜃境",
         "tags": [
-            "Secret Summer Paradise"
+            "Secret Summer Paradise",
+            "Sumeru"
         ]
     }
 }
