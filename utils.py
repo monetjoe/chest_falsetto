@@ -118,3 +118,11 @@ def find_cross(list1, list2):
         return list(duplicates)[0]
 
     return ''
+
+
+def clean_windows_filename(input_str):
+    # Replace illegal characters with spaces
+    cleaned_str = re.sub(r'[\\/:*?"<>|]', ' ', input_str)
+    # Remove redundant spaces
+    cleaned_str = re.sub(r'\s+', ' ', cleaned_str).strip()
+    return cleaned_str

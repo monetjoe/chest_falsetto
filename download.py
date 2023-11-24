@@ -4,17 +4,9 @@ import requests
 from utils import *
 
 
-def clean_windows_filename(input_str):
-    # Replace illegal characters with spaces
-    cleaned_str = re.sub(r'[\\/:*?"<>|]', ' ', input_str)
-    # Remove redundant spaces
-    cleaned_str = re.sub(r'\s+', ' ', cleaned_str).strip()
-    return cleaned_str
-
-
-def get_score_urls(keyword='genshin'):
+def get_scores(keyword='genshin', region='Teyvat'):
     i = 1
-    url_title = {}
+    scores = {}
     while True:
         print(f"Page {i}...", end="\n")
         page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={keyword}'
@@ -22,14 +14,19 @@ def get_score_urls(keyword='genshin'):
             response = requests.get(page_url, proxies=PROXY())
 
             if re.findall('No results', response.text):
-                print(f"{i - 1} pages in total\n", '-' * 50)
+                print(f"[{keyword}] {i - 1} pages in total\n", '-' * 50)
                 break
 
             url_pattern = r'https://musescore.com/user/\d+/scores/\d+'
             urls = list(set(re.findall(url_pattern, response.text)))
 
             for url in urls:
-                url_title[url] = get_title(response.text, url)
+                score_id = url.split('/')[-1]
+                scores[score_id] = {
+                    'url': url,
+                    'title': get_title(response.text, url),
+                    'region': region
+                }
 
         except requests.exceptions.RetryError as e:
             print(f"Max retries exceeded: {e}")
@@ -38,7 +35,7 @@ def get_score_urls(keyword='genshin'):
 
         i += 1
 
-    return url_title
+    return scores
 
 
 def get_file_url(id):
@@ -78,38 +75,50 @@ def get_title(response, url, substr='file_score_title":"'):
     return None
 
 
-def download(urls: dict, save_folder="./data/genshin_mids", region=''):
-    create_dir(save_folder)
-    for score_url in urls.keys():
-        file_url = get_file_url(score_url.split("/")[-1])
-        score_name = f'{region}_{urls[score_url]}'
-        try:
-            response = requests.get(file_url, proxies=PROXY())
-            if response.status_code == 200:
-                with open(f'{save_folder}/{score_name}.mid', 'wb') as file:
-                    file.write(response.content)
+def download(file_url, save_path):
+    try:
+        response = requests.get(file_url, proxies=PROXY())
+        if response.status_code == 200:
+            with open(save_path, 'wb') as file:
+                file.write(response.content)
 
-                print(f"Downloaded: {score_name}")
+            print(f"Downloaded: {save_path}")
 
-            else:
-                print(f"Failed to download: {file_url} => {score_name}")
+        else:
+            print(f"Failed to download: {file_url} => {save_path}")
 
-        except requests.exceptions.RetryError as e:
-            print(f"Max retries exceeded: {e}")
-        except requests.exceptions.RequestException as e:
-            print(f"Request failed: {e}")
+    except requests.exceptions.RetryError as e:
+        print(f"Max retries exceeded: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
+
+
+def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores.json'):
+    with open(keywords_json, 'r', encoding='utf-8') as json_file:
+        regions = json.load(json_file)
+
+    score_infos = {}
+    for region in regions.keys():
+        keywords = [region] + regions[region]
+        for keyword in tqdm(keywords, desc=f'Getting scores by keywords from {region}...'):
+            keyword_scores = get_scores(f"genshin {keyword}", region)
+            score_infos = merge_dicts(score_infos, keyword_scores)
+
+    with open(scores_json, 'w', encoding='utf-8') as json_file:
+        json.dump(score_infos, json_file, indent=4)
+
+
+def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_mids"):
+    with open(scores_json, 'r', encoding='utf-8') as json_file:
+        scores = json.load(json_file)
+
+    create_dir(save_dir)
+    for score_id in scores.keys():
+        score_url = scores[score_id]['url']
+        score_label = scores[score_id]['region']
+        save_path = f'{save_dir}/{score_label}_{score_id}.mid'
+        download(score_url, save_path)
 
 
 if __name__ == "__main__":
-
-    with open('./data/keywords.json', 'r', encoding='utf-8') as json_file:
-        regions = json.load(json_file)
-
-    for region in regions.keys():
-        score_urls = get_score_urls(f"genshin {region}")
-        keywords = regions[region]
-        for keyword in keywords:
-            keyword_scores = get_score_urls(f"genshin {keyword}")
-            score_urls = merge_dicts(score_urls, keyword_scores)
-
-        download(urls=score_urls, region=region)
+    save_scores()
