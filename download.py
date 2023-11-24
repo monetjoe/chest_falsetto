@@ -85,12 +85,14 @@ def get_title(response, url, substr='file_score_title":"'):
 
 
 def download(file_url, save_path):
+    success = False
     try:
         response = requests.get(file_url, proxies=PROXY())
         if response.status_code == 200:
             with open(save_path, 'wb') as file:
                 file.write(response.content)
 
+            success = True
             print(f"Downloaded: {save_path}")
 
         else:
@@ -100,6 +102,8 @@ def download(file_url, save_path):
         print(f"Max retries exceeded: {e}")
     except requests.exceptions.RequestException as e:
         print(f"Request failed: {e}")
+
+    return success
 
 
 def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores.json'):
@@ -136,7 +140,11 @@ def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_m
         score_label = scores[score_id]['region']
         score_title = scores[score_id]['title']
         save_path = f'{save_dir}/{score_label}_{score_id}_{score_title}.mid'
-        download(score_url, save_path)
+        dld_success = download(score_url, save_path)
+        while not dld_success:
+            print(f'Failed to download {score_id}, retrying...')
+            rand_sleep(3, 5)
+            dld_success = download(score_url, save_path)
 
 
 if __name__ == "__main__":
