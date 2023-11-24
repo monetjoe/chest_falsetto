@@ -9,7 +9,7 @@ from urllib.parse import quote
 DOMAIN = 'https://genshin-impact.fandom.com'
 
 
-def PROXY(port=None):
+def PROXY(port=9910):
     if port != None:
         return {
             'http': f'http://127.0.0.1:{port}',

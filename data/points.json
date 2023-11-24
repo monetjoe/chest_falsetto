@@ -2,36 +2,45 @@
     "My Treasure": {
         "Chinese_name": "「我的宝物」",
         "tags": [
+            "Teyvat",
             "Starfell Valley",
-            "Mondstadt",
-            "Whispering Woods"
+            "Whispering Woods",
+            "Mondstadt"
         ]
     },
     "The Real Annapausis": {
         "Chinese_name": "「真正的安眠处」",
         "tags": [
+            "Fontaine",
+            "Teyvat",
             "Court of Fontaine Region",
-            "Annapausis",
-            "Fontaine"
+            "After Escaping the Convoluted Corridor",
+            "Annapausis"
         ]
     },
     "The Rusty Rudder": {
         "Chinese_name": "「锈舵」",
-        "tags": []
+        "tags": [
+            "Fontaine",
+            "Teyvat",
+            "Erinnyes Forest"
+        ]
     },
     "The Two Strange Bells": {
         "Chinese_name": "「怪怪两口钟」",
         "tags": [
             "Liyue",
+            "Nameless Ruins",
             "The Chasm: Underground Mines",
-            "Nameless Ruins"
+            "The Chasm"
         ]
     },
     "???": {
         "Chinese_name": "？？？",
         "tags": [
-            "Beryl Region",
-            "Fontaine"
+            "Fontaine",
+            "Teyvat",
+            "Beryl Region"
         ]
     },
     "Aaru's Shut": {
@@ -40,130 +49,150 @@
             "The Mausoleum of King Deshret",
             "Sumeru",
             "Hypostyle Desert",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Abandoned Production Zone": {
         "Chinese_name": "废弃生产区",
         "tags": [
-            "Liffey Region",
+            "Fontaine",
+            "Fortress of Meropide: Abandoned Production Zone",
             "Fortress of Meropide",
-            "Fontaine"
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Academic Assembly Hall": {
         "Chinese_name": "学术会堂",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Acara Crafts": {
         "Chinese_name": "阿折罗造像",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Administrative Area": {
         "Chinese_name": "管理区",
         "tags": [
-            "Liffey Region",
             "Fortress of Meropide",
-            "Fontaine"
+            "Teyvat",
+            "Fontaine",
+            "Liffey Region"
         ]
     },
     "Aisa Bathhouse": {
         "Chinese_name": "秋沙钱汤",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Akademiya Public Message Board": {
         "Chinese_name": "教令院公共留言板",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Albedo's Campsite": {
         "Chinese_name": "阿贝多的营地",
         "tags": [
-            "Mondstadt",
-            "Dragonspine"
+            "Teyvat",
+            "Dragonspine",
+            "Mondstadt"
         ]
     },
     "Alcor": {
         "Chinese_name": "死兆星",
         "tags": [
             "Liyue",
+            "Sea of Clouds",
             "Guyun Stone Forest",
-            "Sea of Clouds"
+            "Teyvat"
         ]
     },
     "Alhaitham's Home": {
         "Chinese_name": "艾尔海森的住宅",
         "tags": [
-            "Avidya Forest",
             "Sumeru",
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
             "Treasures Street",
-            "Sumeru City"
+            "Dharma Forest"
         ]
     },
     "Amenoma Smithy": {
         "Chinese_name": "天目锻冶屋",
         "tags": [
             "Inazuma",
+            "Hanamizaka",
+            "Teyvat",
             "Narukami Island",
-            "Inazuma City",
-            "Hanamizaka"
+            "Inazuma City"
         ]
     },
     "Amrita Pool": {
         "Chinese_name": "甘露池",
         "tags": [
-            "Sumeru",
+            "Amrita Pool",
             "Vourukasha Oasis",
-            "Realm of Farakhkert",
-            "Girdle of the Sands"
+            "Sumeru",
+            "Girdle of the Sands",
+            "Teyvat",
+            "Realm of Farakhkert"
         ]
     },
     "Anemo Archon Statue": {
         "Chinese_name": "风神像",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Angel's Share": {
         "Chinese_name": "天使的馈赠",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Apep's Resort": {
         "Chinese_name": "阿佩普的行宫花园",
         "tags": [
-            "Desert of Hadramaveth",
             "Sumeru",
-            "Great Red Sand"
+            "Desert of Hadramaveth",
+            "Apep's Resort",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Baiju Guesthouse": {
         "Chinese_name": "白驹客栈",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -171,87 +200,99 @@
         "Chinese_name": "万端珊瑚侦探社",
         "tags": [
             "Inazuma",
+            "Hanamizaka",
+            "Teyvat",
             "Narukami Island",
-            "Inazuma City",
-            "Hanamizaka"
+            "Inazuma City"
         ]
     },
     "Bayt Al-Hayah": {
         "Chinese_name": "生命之殿",
         "tags": [
-            "Mt. Damavand",
+            "Mt Damavand Ruins: Lower Level",
             "Sumeru",
             "Desert of Hadramaveth",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat",
+            "Mt. Damavand"
         ]
     },
     "Bayt Al-Muazzam": {
         "Chinese_name": "君王之殿",
         "tags": [
-            "Mt. Damavand",
             "Sumeru",
             "Desert of Hadramaveth",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat",
+            "Mt. Damavand"
         ]
     },
     "Bayt Al-Sukr": {
         "Chinese_name": "酣乐之殿",
         "tags": [
-            "Mt. Damavand",
+            "Mt. Damavand Ruins: Upper Level",
             "Sumeru",
             "Desert of Hadramaveth",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat",
+            "Mt. Damavand"
         ]
     },
     "Beaumont Workshop": {
         "Chinese_name": "博蒙特工坊",
         "tags": [
-            "Court of Fontaine Region",
-            "Fontaine",
             "Court of Fontaine: Vasari Passage",
-            "Court of Fontaine"
+            "Fontaine",
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Bertin's House of Curiosities": {
         "Chinese_name": "白棠珍奇屋",
         "tags": [
-            "Court of Fontaine: Quartier Lyonnais",
             "Fontaine",
             "Court of Fontaine",
+            "Court of Fontaine: Quartier Lyonnais",
+            "Teyvat",
             "Court of Fontaine Region"
         ]
     },
     "Bimarstan": {
         "Chinese_name": "健康之家",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Bimarstan's Proverb Column": {
         "Chinese_name": "健康之家箴言栏",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Blackcliff Forge": {
         "Chinese_name": "黑岩厂",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Boar Habitat": {
         "Chinese_name": "",
         "tags": [
-            "Brightcrown Canyon",
             "Brightcrown Mountains",
+            "Teyvat",
+            "Brightcrown Canyon",
             "Mondstadt"
         ]
     },
@@ -259,110 +300,126 @@
         "Chinese_name": "布拉维的藏书室",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Bravais' Press Works": {
         "Chinese_name": "布拉维的锻压工坊",
         "tags": [
+            "Fontaine",
+            "Teyvat",
             "Liffey Region",
-            "Fontaine"
+            "Submerged Stony Path"
         ]
     },
     "Bubu Pharmacy": {
         "Chinese_name": "不卜庐",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Café Lutece": {
         "Chinese_name": "露泽咖啡厅",
         "tags": [
-            "Court of Fontaine Region",
-            "Fontaine",
             "Court of Fontaine: Vasari Passage",
-            "Court of Fontaine"
+            "Fontaine",
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Canotila and the Book of Revealing": {
         "Chinese_name": "夏诺蒂拉与揭示之书",
         "tags": [
+            "Within Elynas: Northern Zone",
+            "Fontaine",
+            "Teyvat",
             "A Very Warm Place",
-            "Beryl Region",
-            "Fontaine"
+            "Beryl Region"
         ]
     },
     "Caravan Ribat Bulletin Board": {
         "Chinese_name": "喀万驿公告板",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
+            "Ashavan Realm",
+            "Teyvat",
             "Caravan Ribat",
-            "Ashavan Realm"
+            "Dharma Forest"
         ]
     },
     "Cat's Tail Message Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Central Hub": {
         "Chinese_name": "核心轮縠",
         "tags": [
-            "Silver Bottle Courtyard",
-            "Veluriyam Mirage"
+            "Veluriyam Mirage",
+            "Sumeru"
         ]
     },
     "Chasm Exploration Team Camp": {
         "Chinese_name": "",
         "tags": [
             "Liyue",
-            "The Chasm: Underground Mines"
+            "The Chasm: Underground Mines",
+            "The Chasm"
         ]
     },
     "Chemin Oublie": {
         "Chinese_name": "遗忘之路",
         "tags": [
             "Sumeru",
+            "Girdle of the Sands",
+            "Teyvat",
             "Realm of Farakhkert",
-            "Girdle of the Sands"
+            "Chemin Oublie"
         ]
     },
     "Chihu Rock": {
         "Chinese_name": "吃虎岩",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Chihu Rock Bulletin Board": {
         "Chinese_name": "",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Chioriya Boutique": {
         "Chinese_name": "千织屋",
         "tags": [
-            "Court of Fontaine: Quartier Lyonnais",
             "Fontaine",
             "Court of Fontaine",
+            "Court of Fontaine: Quartier Lyonnais",
+            "Teyvat",
             "Court of Fontaine Region"
         ]
     },
     "Chouji's House": {
         "Chinese_name": "",
         "tags": [
-            "Jakotsu Mine",
+            "Teyvat",
             "Inazuma",
+            "Jakotsu Mine",
             "Yashiori Island"
         ]
     },
@@ -370,15 +427,17 @@
         "Chinese_name": "聚砂厅",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Coast to Watchtower": {
         "Chinese_name": "海岸到瞭望台",
         "tags": [
+            "Teyvat",
             "Starfell Valley",
             "Mondstadt"
         ]
@@ -386,139 +445,158 @@
     "Conspicuous Stone Wall": {
         "Chinese_name": "令人在意的石壁",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Coupon Cafeteria": {
         "Chinese_name": "特许食堂",
         "tags": [
             "Fontaine",
-            "Liffey Region",
+            "Administrative Area",
             "Fortress of Meropide",
-            "Administrative Area"
+            "Liffey Region",
+            "Teyvat",
+            "Fortress of Meropide: Administrative Area"
         ]
     },
     "Court of Fontaine: Court Region Waterway Hub": {
         "Chinese_name": "枫丹廷・廷区水道枢纽",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine Region",
+            "Court of Fontaine",
+            "Teyvat"
         ]
     },
     "Court of Fontaine: Fleuve Cendre": {
         "Chinese_name": "枫丹廷・灰河",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine",
+            "Fleuve Cendre",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Court of Fontaine: Palais Mermonia": {
         "Chinese_name": "枫丹廷・沫芒宫",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine Region",
+            "Court of Fontaine",
+            "Teyvat"
         ]
     },
     "Court of Fontaine: Quartier Lyonnais": {
         "Chinese_name": "枫丹廷・利奥奈区",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine Region",
+            "Court of Fontaine",
+            "Teyvat"
         ]
     },
     "Court of Fontaine: Quartier Narbonnais": {
         "Chinese_name": "枫丹廷・纳博内区",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine Region",
+            "Court of Fontaine",
+            "Teyvat"
         ]
     },
     "Court of Fontaine: Vasari Passage": {
         "Chinese_name": "枫丹廷・瓦萨里回廊",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine Region",
+            "Court of Fontaine",
+            "Teyvat"
         ]
     },
     "Damoville Purveyor": {
         "Chinese_name": "达莫维百货",
         "tags": [
-            "Court of Fontaine Region",
-            "Fontaine",
             "Court of Fontaine: Vasari Passage",
-            "Court of Fontaine"
+            "Fontaine",
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Dawn Winery Manor": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
+            "Dawn Winery",
             "Mondstadt",
-            "Windwail Highland",
-            "Dawn Winery"
+            "Windwail Highland"
         ]
     },
     "Decarabian's Tower": {
         "Chinese_name": "",
         "tags": [
             "Stormterror's Lair",
-            "Brightcrown Mountains",
-            "Mondstadt"
+            "Teyvat",
+            "Mondstadt",
+            "Brightcrown Mountains"
         ]
     },
     "Depths of Mt. Yougou": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Narukami Island",
-            "Mt. Yougou"
+            "Mt. Yougou",
+            "Narukami Island"
         ]
     },
     "Deshret's Glass Goblet": {
         "Chinese_name": "「赤王的水晶杯」",
         "tags": [
-            "Mt. Damavand",
             "Sumeru",
             "Desert of Hadramaveth",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat",
+            "Mt. Damavand"
         ]
     },
     "Dev's Cavern": {
         "Chinese_name": "迪弗旧窟",
         "tags": [
-            "Ardravi Valley",
+            "Teyvat",
             "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Ardravi Valley"
         ]
     },
     "Diwan Bulletin Board": {
         "Chinese_name": "底万告示板",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Djafar Tavern": {
         "Chinese_name": "迪亚法饭店",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Downriver": {
         "Chinese_name": "下川",
         "tags": [
+            "Teyvat",
             "Liyue",
             "Minlin"
         ]
@@ -527,6 +605,7 @@
         "Chinese_name": "伏龙树",
         "tags": [
             "Nantianmen",
+            "Teyvat",
             "Liyue",
             "Minlin"
         ]
@@ -535,34 +614,38 @@
         "Chinese_name": "龙骨花",
         "tags": [
             "Inazuma",
-            "Enkanomiya",
-            "The Serpent's Bowels"
+            "The Serpent's Bowels",
+            "Enkanomiya"
         ]
     },
     "Dragonspine Adventurer Camp": {
         "Chinese_name": "",
         "tags": [
-            "Windwail Highland",
-            "Mondstadt"
+            "Teyvat",
+            "Mondstadt",
+            "Windwail Highland"
         ]
     },
     "Drunkard Gorge": {
         "Chinese_name": "醉汉峡",
         "tags": [
-            "Windwail Highland",
-            "Mondstadt"
+            "Teyvat",
+            "Mondstadt",
+            "Windwail Highland"
         ]
     },
     "Dryas Wood": {
         "Chinese_name": "德吕阿松林",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Duat Hall": {
         "Chinese_name": "渡厄厅",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
@@ -571,14 +654,16 @@
     "Dwelling in the Clouds": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
+            "Qingyun Peak",
             "Liyue",
-            "Minlin",
-            "Qingyun Peak"
+            "Minlin"
         ]
     },
     "Eipekkusu": {
         "Chinese_name": "天顶屋",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -587,16 +672,18 @@
     "Emerald Maple Inn": {
         "Chinese_name": "客栈・翠枫庭",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Entrance to Stormterror's Lair": {
         "Chinese_name": "",
         "tags": [
-            "Brightcrown Canyon",
             "Brightcrown Mountains",
+            "Teyvat",
+            "Brightcrown Canyon",
             "Mondstadt"
         ]
     },
@@ -604,21 +691,25 @@
         "Chinese_name": "行政院",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Exploration Team Campsite Noticeboard": {
         "Chinese_name": "勘探队营地告示牌",
         "tags": [
+            "The Chasm: Underground Mines",
             "Liyue",
-            "Ad-Hoc Main Tunnel",
-            "The Chasm: Underground Mines"
+            "The Chasm",
+            "Teyvat",
+            "Ad-Hoc Main Tunnel"
         ]
     },
     "Fanmu Carpenter": {
         "Chinese_name": "范木堂",
         "tags": [
             "Liyue",
+            "Teyvat",
             "Bishui Plain",
             "Qingce Village"
         ]
@@ -626,24 +717,27 @@
     "Favonius Cathedral": {
         "Chinese_name": "西风大教堂",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Feiyun Slope": {
         "Chinese_name": "绯云坡",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Feiyun Slope Bulletin Board": {
         "Chinese_name": "",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -651,39 +745,45 @@
         "Chinese_name": "「耕地机」/奇怪的雕像",
         "tags": [
             "Stormterror's Lair",
-            "Brightcrown Mountains",
-            "Mondstadt"
+            "Teyvat",
+            "Mondstadt",
+            "Brightcrown Mountains"
         ]
     },
     "Floral Whisper": {
         "Chinese_name": "花语",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Fontaine Café Lucerne Message Board": {
         "Chinese_name": "咖啡厅・露泽留言板",
         "tags": [
-            "Court of Fontaine Region",
-            "Fontaine",
             "Court of Fontaine: Vasari Passage",
-            "Court of Fontaine"
+            "Fontaine",
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Forbidden Zone": {
         "Chinese_name": "禁区",
         "tags": [
-            "Liffey Region",
+            "Secret Keepers and Forbidden Zones",
+            "Fontaine",
             "Fortress of Meropide",
-            "Fontaine"
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Forgotten Sword Cemetery": {
         "Chinese_name": "未名的剑冢",
         "tags": [
             "Dadaupa Gorge",
+            "Teyvat",
             "Mondstadt",
             "Galesong Hill"
         ]
@@ -691,67 +791,76 @@
     "Fortress of Meropide Bulletin Board": {
         "Chinese_name": "",
         "tags": [
-            "Liffey Region",
             "Fortress of Meropide",
-            "Fontaine"
+            "Teyvat",
+            "Fontaine",
+            "Liffey Region"
         ]
     },
     "Frostbearing Tree": {
         "Chinese_name": "忍冬之树",
         "tags": [
             "Snow-Covered Path",
+            "Dragonspine",
             "Mondstadt",
-            "Dragonspine"
+            "Teyvat"
         ]
     },
     "Geode Mine Shaft": {
         "Chinese_name": "晶簇矿坑道",
         "tags": [
-            "Liffey Region",
-            "Fortress of Meropide",
             "Fontaine",
-            "Abandoned Production Zone"
+            "Fortress of Meropide: Abandoned Production Zone",
+            "Abandoned Production Zone",
+            "Fortress of Meropide",
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Golden House": {
         "Chinese_name": "黄金屋",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Mt. Tianheng"
         ]
     },
     "Good Hunter": {
         "Chinese_name": "猎鹿人",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Good Hunter's Daily Recommendation": {
         "Chinese_name": "猎鹿人今日推荐",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Goth Grand Hotel": {
         "Chinese_name": "歌德大酒店",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Grand Bazaar": {
         "Chinese_name": "大巴扎",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Great Hall of Truths": {
@@ -760,145 +869,165 @@
             "The Mausoleum of King Deshret",
             "Sumeru",
             "Hypostyle Desert",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Grove of Dreams": {
         "Chinese_name": "梦景林莽",
         "tags": [
+            "Apam Woods",
             "Sumeru",
-            "Dharma Forest",
             "Ashavan Realm",
-            "Apam Woods"
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Guizhong Ballista": {
         "Chinese_name": "归终机/翳狐机关",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Mt. Tianheng"
         ]
     },
     "Gurabad's Ruin - Temple of Deshret": {
         "Chinese_name": "居尔城墟・赤王神殿",
         "tags": [
-            "Desert of Hadramaveth",
             "Sumeru",
-            "Great Red Sand"
+            "Desert of Hadramaveth",
+            "Temple of Gurabad: Upper LevelTemple of Gurabad: Lower Level",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Hanamizaka": {
         "Chinese_name": "花见坂",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Hanamizaka Bulletin Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Hanfeng's Ironmongers": {
         "Chinese_name": "寒锋铁器",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Hangeh Afrasiyab": {
         "Chinese_name": "逾渊地墟",
         "tags": [
+            "Hangeh Afrasiyab: Upper LevelHangeh Afrasiyab: Lower Level",
             "Sumeru",
             "Gavireh Lajavard",
-            "Girdle of the Sands"
+            "Girdle of the Sands",
+            "Teyvat"
         ]
     },
     "Harvisptokhm": {
         "Chinese_name": "万种母树",
         "tags": [
-            "Sumeru",
             "Vourukasha Oasis",
+            "Sumeru",
+            "Girdle of the Sands",
+            "Teyvat",
             "Realm of Farakhkert"
         ]
     },
     "Hexenzirkel's Island in the Sky": {
         "Chinese_name": "",
         "tags": [
-            "Mondstadt",
+            "Teyvat",
             "Falcon Coast",
+            "Mondstadt",
             "Galesong Hill"
         ]
     },
     "Heyu Tea House": {
         "Chinese_name": "和裕茶馆",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Hotel Debord": {
         "Chinese_name": "德波大饭店",
         "tags": [
-            "Court of Fontaine Region",
             "Court of Fontaine: Quartier Narbonnais",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "House of Daena": {
         "Chinese_name": "智慧宫",
         "tags": [
-            "The Akademiya",
             "Sumeru",
-            "Dharma Forest",
+            "Teyvat",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "The Akademiya",
+            "Dharma Forest"
         ]
     },
     "Inazuma Commercial Street Bulletin Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Inscribed Map": {
         "Chinese_name": "地图石刻",
         "tags": [
-            "The Narrows",
+            "Enkanomiya",
             "Inazuma",
-            "Enkanomiya"
+            "The Narrows"
         ]
     },
     "Inverted City": {
         "Chinese_name": "颠倒古城",
         "tags": [
             "Liyue",
+            "Nameless Ruins",
             "The Chasm: Underground Mines",
-            "Nameless Ruins"
+            "The Chasm"
         ]
     },
     "Jade Chamber": {
         "Chinese_name": "群玉阁",
         "tags": [
-            "Liyue",
-            "Sea of Clouds"
+            "Teyvat",
+            "Sea of Clouds",
+            "Liyue"
         ]
     },
     "Jade Mystery": {
         "Chinese_name": "解翠行",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -906,104 +1035,117 @@
         "Chinese_name": "卡里米交易所",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Kalimi Exchange Bulletin Board": {
         "Chinese_name": "卡里米交易所公告板",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Kiminami Restaurant": {
         "Chinese_name": "木南料亭",
         "tags": [
             "Inazuma",
+            "Hanamizaka",
+            "Teyvat",
             "Narukami Island",
-            "Inazuma City",
-            "Hanamizaka"
+            "Inazuma City"
         ]
     },
     "Knights of Favonius Headquarters": {
         "Chinese_name": "骑士团总部",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Komore Teahouse": {
         "Chinese_name": "木漏茶室",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Kuisel's Clockwork Workshop": {
         "Chinese_name": "奎瑟尔的发条工坊",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "L'or noir Message Board": {
         "Chinese_name": "",
         "tags": [
-            "Court of Fontaine",
             "Fontaine",
+            "Court of Fontaine",
             "Court of Fontaine: Fleuve Cendre",
+            "Teyvat",
             "Court of Fontaine Region"
         ]
     },
     "Lamb-Devourer Rock": {
         "Chinese_name": "吞羊岩",
         "tags": [
+            "Teyvat",
             "Sumeru",
-            "Land of Upper Setekh",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Land of Upper Setekh"
         ]
     },
     "Lambad's Tavern": {
         "Chinese_name": "兰巴德酒馆",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Land of Grounded Dreams": {
         "Chinese_name": "失梦的国土",
         "tags": [
             "Sumeru",
+            "Old Vanarana",
+            "Old Vanarana: Land of Grounded Dreams",
             "Lost Nursery",
-            "Dharma Forest",
-            "Old Vanarana"
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Lepaute Horlogerie": {
         "Chinese_name": "勒波特钟表店",
         "tags": [
-            "Court of Fontaine: Quartier Lyonnais",
             "Fontaine",
             "Court of Fontaine",
+            "Court of Fontaine: Quartier Lyonnais",
+            "Teyvat",
             "Court of Fontaine Region"
         ]
     },
     "Leschots Clockwork Workshop": {
         "Chinese_name": "莱舒的发条工坊",
         "tags": [
-            "Court of Fontaine: Quartier Lyonnais",
             "Fontaine",
             "Court of Fontaine",
+            "Court of Fontaine: Quartier Lyonnais",
+            "Teyvat",
             "Court of Fontaine Region"
         ]
     },
@@ -1011,16 +1153,18 @@
         "Chinese_name": "镇灵监牢",
         "tags": [
             "Safhe Shatranj",
-            "Desert of Hadramaveth",
             "Sumeru",
-            "Great Red Sand"
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Liuli Pavilion": {
         "Chinese_name": "琉璃亭",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -1028,23 +1172,27 @@
         "Chinese_name": "精石铜城",
         "tags": [
             "Sumeru",
-            "Realm of Farakhkert",
-            "Samudra Coast"
+            "Girdle of the Sands",
+            "Teyvat",
+            "Samudra Coast",
+            "Realm of Farakhkert"
         ]
     },
     "Mahamata Bulletin Board": {
         "Chinese_name": "教令官公告板",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Mary-Ann Memorial Park": {
         "Chinese_name": "玛丽安纪念公园",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
@@ -1052,128 +1200,145 @@
         "Chinese_name": "资料院",
         "tags": [
             "Fontaine",
+            "Teyvat",
             "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Mawtiyima": {
         "Chinese_name": "无郁夷摩",
         "tags": [
+            "Mawtiyima Forest",
             "Sumeru",
-            "Dharma Forest",
+            "Mawtiyima: Concealed Sanctuary",
+            "Teyvat",
             "Lokapala Jungle",
-            "Mawtiyima Forest"
+            "Dharma Forest"
         ]
     },
     "Memory of Stone (Monument)": {
         "Chinese_name": "石头的记忆",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
             "Yasna Monument",
-            "Ashavan Realm"
+            "Ashavan Realm",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Menakeri's Treasure Shop": {
         "Chinese_name": "梅娜卡里商铺",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Mikage Furnace": {
         "Chinese_name": "御影炉心",
         "tags": [
-            "Tatarasuna",
+            "Kannazuka",
+            "Teyvat",
             "Inazuma",
-            "Kannazuka"
+            "Tatarasuna"
         ]
     },
     "Mingxing Jewelry": {
         "Chinese_name": "明星斋",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Mingyun Village Billboard": {
         "Chinese_name": "明蕴镇告示牌",
         "tags": [
+            "Teyvat",
+            "Mingyun Village",
             "Liyue",
-            "Qiongji Estuary",
-            "Mingyun Village"
+            "Qiongji Estuary"
         ]
     },
     "Ministry of Civil Affairs": {
         "Chinese_name": "总务司",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Missing Person Bulletin Board": {
         "Chinese_name": "寻人告示板",
         "tags": [
-            "Konda Village",
+            "Teyvat",
             "Inazuma",
-            "Narukami Island"
+            "Narukami Island",
+            "Konda Village"
         ]
     },
     "Mona's Laboratory": {
         "Chinese_name": "莫娜的实验室",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Mondstadt General Goods": {
         "Chinese_name": "蒙德百货",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Mondstadt General Goods Order Board": {
         "Chinese_name": "蒙德百货订货板",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Mondstadt Market District": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Mural Room": {
         "Chinese_name": "",
         "tags": [
-            "Mondstadt",
-            "Dragonspine"
+            "Teyvat",
+            "Dragonspine",
+            "Mondstadt"
         ]
     },
     "Naganohara Fireworks": {
         "Chinese_name": "长野原烟花店",
         "tags": [
             "Inazuma",
+            "Hanamizaka",
+            "Teyvat",
             "Narukami Island",
-            "Inazuma City",
-            "Hanamizaka"
+            "Inazuma City"
         ]
     },
     "Nameless Island": {
         "Chinese_name": "无名小岛",
         "tags": [
+            "Teyvat",
             "Starfell Valley",
             "Mondstadt"
         ]
@@ -1181,64 +1346,107 @@
     "Netsuke no Gen Crafts": {
         "Chinese_name": "根付之源",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Nice to Meet You": {
         "Chinese_name": "很高兴见到你",
         "tags": [
+            "Fontaine",
             "Elynas",
-            "Beryl Region",
-            "Fontaine"
+            "Limner, Dreamer, and Robotic Dog",
+            "Teyvat",
+            "Beryl Region"
         ]
     },
     "Northland Bank": {
         "Chinese_name": "北国银行",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Ogura Textiles & Kimonos": {
         "Chinese_name": "小仓屋",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Opera Epiclese (Instance)": {
         "Chinese_name": "欧庇克莱歌剧院",
         "tags": [
+            "Fontaine",
             "Court of Fontaine Region",
-            "Opera Epiclese",
-            "Fontaine"
+            "Teyvat",
+            "Opera Epiclese"
         ]
     },
     "Opera Epiclese Notice Board": {
         "Chinese_name": "",
         "tags": [
+            "Fontaine",
             "Court of Fontaine Region",
-            "Opera Epiclese",
-            "Fontaine"
+            "Teyvat",
+            "Opera Epiclese"
         ]
     },
     "Opet Hall": {
         "Chinese_name": "祝祭厅",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
         ]
     },
+    "Orthant of Memory": {
+        "Chinese_name": "记忆之象限",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Teyvat"
+        ]
+    },
+    "Orthant of Persona": {
+        "Chinese_name": "人格之象限",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Teyvat"
+        ]
+    },
+    "Orthant of Souls": {
+        "Chinese_name": "灵魂之象限",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Teyvat",
+            "East Slopes of Mont Automnequi"
+        ]
+    },
+    "Orthant of Wishes": {
+        "Chinese_name": "愿望之象限",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Fort Charybdis Ruins",
+            "Teyvat"
+        ]
+    },
     "Outlander Affairs Agency": {
         "Chinese_name": "远国监司",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -1247,6 +1455,7 @@
     "Outsider Shrine": {
         "Chinese_name": "异人龛",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Serpent's Head",
             "Yashiori Island"
@@ -1255,56 +1464,64 @@
     "Pairidaeza Canyon": {
         "Chinese_name": "绿洲峡谷",
         "tags": [
-            "Desert of Hadramaveth",
-            "Sumeru",
             "Wadi Al-Majuj",
-            "Great Red Sand"
+            "Sumeru",
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Palais Mermonia": {
         "Chinese_name": "沫芒宫",
         "tags": [
-            "Court of Fontaine Region",
             "Fontaine",
+            "Court of Fontaine",
             "Court of Fontaine: Palais Mermonia",
-            "Court of Fontaine"
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Pankration Ring": {
         "Chinese_name": "拳力斗技",
         "tags": [
             "Fontaine",
-            "Liffey Region",
+            "Administrative Area",
             "Fortress of Meropide",
-            "Administrative Area"
+            "Liffey Region",
+            "Teyvat",
+            "Fortress of Meropide: Administrative Area"
         ]
     },
     "Pearl Galley": {
         "Chinese_name": "珠钿舫",
         "tags": [
-            "Liyue",
-            "Sea of Clouds"
+            "Teyvat",
+            "Sea of Clouds",
+            "Liyue"
         ]
     },
     "Pervases's Temple": {
         "Chinese_name": "",
         "tags": [
             "Liyue",
+            "Teyvat",
             "Lisha"
         ]
     },
     "Pharos Lighthouse": {
         "Chinese_name": "法逻斯灯塔",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Place of Breath": {
         "Chinese_name": "气息之间",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
@@ -1313,6 +1530,7 @@
     "Place of Rebirth": {
         "Chinese_name": "再生之间",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
@@ -1321,6 +1539,7 @@
     "Place of Swallowing": {
         "Chinese_name": "吞咽之间",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
@@ -1330,59 +1549,66 @@
         "Chinese_name": "白淞隧道",
         "tags": [
             "Fontaine",
-            "West Slopes of Mont Automnequi",
-            "Belleau Region"
+            "Teyvat",
+            "Belleau Region",
+            "West Slopes of Mont Automnequi"
         ]
     },
     "Police Station": {
         "Chinese_name": "奉行所",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Port Ormos Bulletin Board": {
         "Chinese_name": "奥摩斯港公告板",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Production Zone": {
         "Chinese_name": "生产区",
         "tags": [
-            "Liffey Region",
             "Fortress of Meropide",
-            "Fontaine"
+            "Teyvat",
+            "Fontaine",
+            "Liffey Region"
         ]
     },
     "Puspa Café": {
         "Chinese_name": "普斯帕咖啡馆",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Puspa Café Message Board": {
         "Chinese_name": "",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Qingce Village Bulletin Board": {
         "Chinese_name": "",
         "tags": [
             "Liyue",
+            "Teyvat",
             "Bishui Plain",
             "Qingce Village"
         ]
@@ -1391,49 +1617,69 @@
         "Chinese_name": "破烂骨头商店",
         "tags": [
             "Fontaine",
-            "Liffey Region",
+            "Administrative Area",
             "Fortress of Meropide",
-            "Administrative Area"
+            "Liffey Region",
+            "Teyvat",
+            "Fortress of Meropide: Administrative Area"
         ]
     },
     "Razan Garden": {
         "Chinese_name": "寂静园",
         "tags": [
-            "The Akademiya",
             "Sumeru",
-            "Dharma Forest",
+            "Teyvat",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "The Akademiya",
+            "Dharma Forest"
         ]
     },
     "Realm of Khab": {
         "Chinese_name": "呿波境",
         "tags": [
+            "Teyvat",
+            "Lokapala Jungle",
             "Sumeru",
-            "Dharma Forest",
-            "Lokapala Jungle"
+            "Dharma Forest"
+        ]
+    },
+    "Rehearsal Location": {
+        "Chinese_name": "",
+        "tags": [
+            "Fontaine",
+            "Court of Fontaine",
+            "The Little Oceanid",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Restricted Repository": {
         "Chinese_name": "秘密资料室",
         "tags": [
+            "All Returns to Silence",
+            "Sumeru",
+            "Teyvat",
+            "Sumeru City",
             "Avidya Forest",
             "The Akademiya",
-            "Sumeru",
-            "Sumeru City"
+            "Dharma Forest"
         ]
     },
     "Rift of Erosion": {
         "Chinese_name": "海蚀裂隙",
         "tags": [
-            "Liffey Region",
+            "Fontaine",
+            "Fortress of Meropide: Dormitory Block",
             "Fortress of Meropide",
-            "Fontaine"
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Ritou Bulletin Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -1442,6 +1688,7 @@
     "Ritou Harbor Bulletin Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -1451,42 +1698,55 @@
         "Chinese_name": "",
         "tags": [
             "Fontaine",
-            "Romaritime Harbor",
-            "Belleau Region"
+            "Teyvat",
+            "Belleau Region",
+            "Romaritime Harbor"
+        ]
+    },
+    "Roots of Erinnyes": {
+        "Chinese_name": "伊黎耶之根/欧蒂克莱尔",
+        "tags": [
+            "Fontaine",
+            "Teyvat",
+            "Erinnyes Forest"
         ]
     },
     "Roots of the Valley of Life": {
         "Chinese_name": "",
         "tags": [
+            "The Chasm: Main Mining Area",
             "Liyue",
             "The Chasm: Underground Mines",
-            "The Chasm: Main Mining Area"
+            "The Chasm"
         ]
     },
     "Royal Hot Springs": {
         "Chinese_name": "御温泉",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Ruin Golem (Desert of Hadramaveth)": {
         "Chinese_name": "",
         "tags": [
-            "Great Red Sand",
-            "Desert of Hadramaveth",
             "Sumeru",
-            "Wounded Shin Valley"
+            "Desert of Hadramaveth",
+            "Wounded Shin Valley",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Ruin Golem (Devantaka Mountain)": {
         "Chinese_name": "",
         "tags": [
-            "Devantaka Mountain",
             "Sumeru",
-            "Dharma Forest",
-            "Ardravi Valley"
+            "Devantaka Mountain",
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Ruin Golem (Valley of Dahri)": {
@@ -1494,21 +1754,24 @@
         "tags": [
             "Sumeru",
             "Valley of Dahri",
-            "Land of Upper Setekh",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Teyvat",
+            "Land of Upper Setekh"
         ]
     },
     "Sacred Sakura": {
         "Chinese_name": "神樱",
         "tags": [
+            "Inazuma",
             "Grand Narukami Shrine",
             "Narukami Island",
-            "Inazuma"
+            "Teyvat"
         ]
     },
     "Sailing Breeze": {
         "Chinese_name": "远航之风",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -1517,41 +1780,46 @@
     "Sanctuary of Surasthana": {
         "Chinese_name": "净善宫",
         "tags": [
-            "The Akademiya",
             "Sumeru",
-            "Dharma Forest",
+            "Teyvat",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "The Akademiya",
+            "Dharma Forest"
         ]
     },
     "Sand-Embraced Home": {
         "Chinese_name": "沙中故里",
         "tags": [
             "Sumeru",
+            "Old Vanarana",
             "Lost Nursery",
-            "Dharma Forest",
-            "Old Vanarana"
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Schulz's Blacksmith": {
         "Chinese_name": "舒茨铁铺",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Second Life": {
         "Chinese_name": "荣发商铺",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Sekhem Hall": {
         "Chinese_name": "权杖厅",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Hypostyle Desert",
             "Great Red Sand"
@@ -1561,43 +1829,48 @@
         "Chinese_name": "沙姆希尔铁匠",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Shapur Hotel": {
         "Chinese_name": "沙普尔旅舍",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Shimura's": {
         "Chinese_name": "志村屋",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Spiritstone": {
         "Chinese_name": "灵石",
         "tags": [
             "Liyue",
-            "The Chasm: Underground Mines"
+            "The Chasm: Underground Mines",
+            "The Chasm"
         ]
     },
     "Statue of the Omnipresent God": {
         "Chinese_name": "千手百眼神像",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Statue of the Vassals": {
@@ -1610,14 +1883,16 @@
     "Stone Gate Bulletin Board": {
         "Chinese_name": "",
         "tags": [
-            "Liyue",
             "Stone Gate",
+            "Teyvat",
+            "Liyue",
             "Bishui Plain"
         ]
     },
     "Stormbearer Coast": {
         "Chinese_name": "望风海岸",
         "tags": [
+            "Teyvat",
             "Starfell Valley",
             "Mondstadt"
         ]
@@ -1626,15 +1901,17 @@
         "Chinese_name": "须弥杂货店",
         "tags": [
             "Sumeru",
-            "Dharma Forest",
-            "Treasures Street",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Treasures Street",
+            "Dharma Forest"
         ]
     },
     "Syavushi Bakshesh Shoppe": {
         "Chinese_name": "葱茏之愿",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Narukami Island",
             "Ritou"
@@ -1643,6 +1920,7 @@
     "Symbol of Mondstadt's Hero": {
         "Chinese_name": "蒙德英雄的象征",
         "tags": [
+            "Teyvat",
             "Windrise",
             "Mondstadt",
             "Galesong Hill"
@@ -1651,81 +1929,92 @@
     "Tenryou": {
         "Chinese_name": "天领",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Tenryou Commission Headquarters": {
         "Chinese_name": "天领奉行府",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Tenshukaku": {
         "Chinese_name": "天守阁",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "The Akademiya": {
         "Chinese_name": "教令院",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "The Altar at The Serpent's Heart": {
         "Chinese_name": "",
         "tags": [
-            "The Serpent's Heart",
             "Inazuma",
+            "The Serpent's Heart",
             "Enkanomiya"
         ]
     },
     "The Arsenal": {
         "Chinese_name": "兵库",
         "tags": [
-            "Tatarasuna",
+            "Kannazuka",
+            "Teyvat",
             "Inazuma",
-            "Kannazuka"
+            "Tatarasuna"
         ]
     },
     "The Cat's Tail": {
         "Chinese_name": "猫尾酒馆",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "The Chasm Withered Tree": {
         "Chinese_name": "",
         "tags": [
             "Liyue",
-            "The Chasm: Underground Mines"
+            "The Chasm: Underground Mines",
+            "The Chasm"
         ]
     },
     "The Chasm's Bed": {
         "Chinese_name": "巨渊深底",
         "tags": [
+            "Perilous Trail",
             "Liyue",
-            "The Chasm: Underground Mines"
+            "The Chasm: Underground Mines",
+            "The Chasm"
         ]
     },
     "The Duke's Office": {
         "Chinese_name": "「公爵」办公室",
         "tags": [
             "Fontaine",
-            "Liffey Region",
+            "Administrative Area",
             "Fortress of Meropide",
-            "Administrative Area"
+            "Liffey Region",
+            "Teyvat",
+            "Fortress of Meropide: Administrative Area"
         ]
     },
     "The Emanant Skylight": {
@@ -1738,31 +2027,38 @@
     "The Narzissenkreuz Ordo": {
         "Chinese_name": "水仙十字结社",
         "tags": [
-            "Institute of Natural Philosophy",
             "Fontaine",
-            "Court of Fontaine Region"
+            "Institute of Natural Philosophy",
+            "Teyvat",
+            "Court of Fontaine Region",
+            "Submerged Ruins: Central Quartier"
         ]
     },
     "The Orchard of Pairidaeza": {
         "Chinese_name": "「永恒绿洲」",
         "tags": [
-            "Mt. Damavand",
             "Sumeru",
-            "Desert of Hadramaveth"
+            "Desert of Hadramaveth",
+            "Great Red Sand",
+            "Teyvat",
+            "Mt. Damavand"
         ]
     },
     "The Rain's End": {
         "Chinese_name": "雨的尽头",
         "tags": [
+            "Apam Woods",
             "Sumeru",
-            "Dharma Forest",
             "Ashavan Realm",
-            "Apam Woods"
+            "Teyvat",
+            "The Rain's End",
+            "Dharma Forest"
         ]
     },
     "The Sign of Apaosha": {
         "Chinese_name": "焚真之天象",
         "tags": [
+            "Teyvat",
             "Sumeru",
             "Girdle of the Sands"
         ]
@@ -1770,17 +2066,19 @@
     "The Steambird": {
         "Chinese_name": "蒸汽鸟报",
         "tags": [
-            "Court of Fontaine Region",
             "Court of Fontaine: Quartier Narbonnais",
             "Fontaine",
-            "Court of Fontaine"
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Third-Round Knockout": {
         "Chinese_name": "三碗不过港",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -1792,21 +2090,41 @@
             "Evernight Temple"
         ]
     },
+    "Tower of Ipsissimus: Bottom": {
+        "Chinese_name": "自体自身之塔・下部",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Teyvat",
+            "Tower of Ipsissimus"
+        ]
+    },
+    "Tower of Ipsissimus: Middle": {
+        "Chinese_name": "自体自身之塔・中部",
+        "tags": [
+            "Fontaine",
+            "Morte Region",
+            "Teyvat",
+            "Tower of Ipsissimus"
+        ]
+    },
     "Toy Shop": {
         "Chinese_name": "「玩具摊」",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Treasures Street": {
         "Chinese_name": "宝商街",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Tree of Dreams": {
@@ -1814,57 +2132,64 @@
         "tags": [
             "Vanarana",
             "Sumeru",
+            "Teyvat",
             "Dharma Forest"
         ]
     },
     "Tsukumomono Groceries": {
         "Chinese_name": "九十九物",
         "tags": [
-            "Tenryou",
-            "Inazuma City",
             "Inazuma",
-            "Narukami Island"
+            "Tenryou",
+            "Teyvat",
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Tsurumi Underground Ruins": {
         "Chinese_name": "",
         "tags": [
-            "Tsurumi Island",
-            "Inazuma"
+            "Teyvat",
+            "Inazuma",
+            "Tsurumi Island"
         ]
     },
     "Uyuu Restaurant": {
         "Chinese_name": "乌有亭",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Uyuu Restaurant Bulletin Board": {
         "Chinese_name": "",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Vasari Passage Advertisement Board": {
         "Chinese_name": "瓦萨里回廊广告板",
         "tags": [
-            "Court of Fontaine Region",
-            "Fontaine",
             "Court of Fontaine: Vasari Passage",
-            "Court of Fontaine"
+            "Fontaine",
+            "Court of Fontaine",
+            "Teyvat",
+            "Court of Fontaine Region"
         ]
     },
     "Village Chief's House": {
         "Chinese_name": "阿如村村长家",
         "tags": [
-            "Aaru Village",
             "Land of Lower Setekh",
             "Sumeru",
-            "Great Red Sand"
+            "Aaru Village",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Vishap Research Lab": {
@@ -1877,82 +2202,92 @@
     "Wangsheng Funeral Parlor": {
         "Chinese_name": "往生堂",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Wangshu Inn Bulletin Board": {
         "Chinese_name": "",
         "tags": [
-            "Wangshu Inn",
             "Liyue",
-            "Bishui Plain"
+            "Teyvat",
+            "Bishui Plain",
+            "Wangshu Inn"
         ]
     },
     "Wanmin Restaurant": {
         "Chinese_name": "万民堂",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Wanwen Bookhouse": {
         "Chinese_name": "万文集舍",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Wanyou Boutique": {
         "Chinese_name": "万有铺子",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Wenut Tunnels": {
         "Chinese_name": "沙虫隧道",
         "tags": [
-            "The Sands of Al-Azif",
-            "Desert of Hadramaveth",
             "Sumeru",
-            "Great Red Sand"
+            "Desert of Hadramaveth",
+            "The Sands of Al-Azif",
+            "Great Red Sand",
+            "Teyvat"
         ]
     },
     "Wikala Funduq": {
         "Chinese_name": "维卡拉商栈",
         "tags": [
-            "Ardravi Valley",
+            "Port Ormos",
             "Sumeru",
-            "Dharma Forest",
-            "Port Ormos"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "With Wind Comes Glory": {
         "Chinese_name": "荣光之风",
         "tags": [
+            "Teyvat",
+            "Starfell Valley",
             "Mondstadt City",
-            "Mondstadt",
-            "Starfell Valley"
+            "Mondstadt"
         ]
     },
     "Xigu Antiques": {
         "Chinese_name": "希古居",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Xinyue Kiosk": {
         "Chinese_name": "新月轩",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
@@ -1960,22 +2295,25 @@
         "Chinese_name": "八重堂",
         "tags": [
             "Inazuma",
+            "Hanamizaka",
+            "Teyvat",
             "Narukami Island",
-            "Inazuma City",
-            "Hanamizaka"
+            "Inazuma City"
         ]
     },
     "Yanshang Teahouse": {
         "Chinese_name": "岩上茶室",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Yashiro Commission Headquarters": {
         "Chinese_name": "社奉行本部",
         "tags": [
+            "Teyvat",
             "Inazuma",
             "Kamisato Estate",
             "Narukami Island"
@@ -1984,44 +2322,49 @@
     "Yayoi Lacquerware": {
         "Chinese_name": "弥生漆器",
         "tags": [
+            "Teyvat",
             "Inazuma",
-            "Inazuma City",
-            "Narukami Island"
+            "Narukami Island",
+            "Inazuma City"
         ]
     },
     "Yiyan Temple": {
         "Chinese_name": "倚岩殿",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Yujing Terrace": {
         "Chinese_name": "玉京台",
         "tags": [
-            "Liyue",
+            "Teyvat",
             "Sea of Clouds",
+            "Liyue",
             "Liyue Harbor"
         ]
     },
     "Zubayr Theater": {
         "Chinese_name": "祖拜尔剧场",
         "tags": [
-            "Sumeru",
             "Grand Bazaar",
-            "Dharma Forest",
+            "Sumeru",
+            "Sumeru City",
             "Avidya Forest",
-            "Sumeru City"
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Zubayr Theater Billboard": {
         "Chinese_name": "",
         "tags": [
-            "Avidya Forest",
-            "Dharma Forest",
             "Sumeru",
-            "Sumeru City"
+            "Sumeru City",
+            "Avidya Forest",
+            "Teyvat",
+            "Dharma Forest"
         ]
     }
 }

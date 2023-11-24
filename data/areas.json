@@ -60,14 +60,17 @@
         ]
     },
     "The Chasm": {
-        "Chinese_name": "",
-        "tags": []
+        "Chinese_name": "层岩巨渊",
+        "tags": [
+            "The Chasm",
+            "Liyue"
+        ]
     },
     "The Chasm: Underground Mines": {
         "Chinese_name": "地下矿区",
         "tags": [
-            "Liyue",
-            "The Chasm"
+            "The Chasm",
+            "Liyue"
         ]
     },
     "Enkanomiya": {
@@ -115,50 +118,50 @@
     "Ardravi Valley": {
         "Chinese_name": "阿陀河谷",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Ashavan Realm": {
         "Chinese_name": "善见地",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Avidya Forest": {
         "Chinese_name": "道成林",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Lokapala Jungle": {
         "Chinese_name": "护世森",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Lost Nursery": {
         "Chinese_name": "失落的苗圃",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Vanarana (Area)": {
         "Chinese_name": "桓那兰那",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Vissudha Field": {
         "Chinese_name": "二净甸",
         "tags": [
-            "Sumeru",
-            "Dharma Forest"
+            "Dharma Forest",
+            "Sumeru"
         ]
     },
     "Desert of Hadramaveth": {
@@ -192,15 +195,15 @@
     "Gavireh Lajavard": {
         "Chinese_name": "荒石苍漠",
         "tags": [
-            "Sumeru",
-            "Girdle of the Sands"
+            "Girdle of the Sands",
+            "Sumeru"
         ]
     },
     "Realm of Farakhkert": {
         "Chinese_name": "浮罗囿",
         "tags": [
-            "Sumeru",
-            "Girdle of the Sands"
+            "Girdle of the Sands",
+            "Sumeru"
         ]
     },
     "Belleau Region": {
@@ -246,17 +249,15 @@
         ]
     },
     "Golden Apple Archipelago": {
-        "Chinese_name": "雾海群岛/金苹果群岛",
+        "Chinese_name": "",
         "tags": [
-            "Version 1.6",
-            "Midsummer Island Adventure",
             "Version 2.8",
             "Mondstadt",
             "Summertime Odyssey"
         ]
     },
     "Three Realms Gateway Offering": {
-        "Chinese_name": "三界路飨祭/海洲逐雾",
+        "Chinese_name": "海洲逐雾",
         "tags": [
             "Three Realms Gateway Offering",
             "Inazuma",

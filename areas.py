@@ -104,7 +104,7 @@ def get_areas(page_url=f"{DOMAIN}/wiki/Area"):
                     class_='lightbox-caption'
                 ).find('a')
                 area_name = area_a.text.strip()
-                area_url = f'{DOMAIN}/wiki/{quote(area_name)}'
+                area_url = f"{DOMAIN}{area_a.get('href')}"
                 cname, tags = get_area_info(area_url)
                 area_key = area_name.replace('"', '')
                 region = special_area_region(area_key)

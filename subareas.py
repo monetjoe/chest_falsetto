@@ -129,35 +129,6 @@ def save_subareas(subareas_path='./data/subareas.json', force_upd=True):
         print(f'Subareas have been updated into {subareas_path}.')
 
 
-def load_subarea_tags():
-    regions = list(Teyvat.keys())[:5]
-    region_subareas = {}
-    for region in regions:
-        region_subareas[region] = Teyvat[region]['tags']
-        region_subareas[region].append(Teyvat[region]['Chinese_name'])
-
-    with open('./data/subareas.json', 'r', encoding='utf-8') as file:
-        data = json.load(file)
-        subareas = dict(data).keys()
-        for subarea in tqdm(subareas, desc='Extracting regions...'):
-            region = find_cross(
-                data[subarea]['tags'],
-                regions
-            )
-
-            if region != '':
-                region_subareas[region].append(subarea)
-                region_subareas[region] += \
-                    data[subarea]['Chinese_name'].split('/')
-
-            else:
-                print(f'{subarea} has no region.')
-
-    print(region_subareas)
-    return region_subareas
-
-
 if __name__ == "__main__":
     create_dir()
-    # save_subareas()
-    load_subarea_tags()
+    save_subareas()
