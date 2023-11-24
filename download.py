@@ -8,13 +8,13 @@ def get_scores(keyword='genshin', region='Teyvat'):
     i = 1
     scores = {}
     while True:
-        print(f"Page {i}...", end="\n")
+        # print(f"Page {i}...", end="\n")
         page_url = f'https://musescore.com/sheetmusic?instrument=2&instrumentation=114&page={i}&text={keyword}'
         try:
             response = requests.get(page_url, proxies=PROXY())
 
             if re.findall('No results', response.text):
-                print(f"[{keyword}] {i - 1} pages in total\n", '-' * 50)
+                # print(f"[{keyword}] {i - 1} pages in total\n", '-' * 50)
                 break
 
             url_pattern = r'https://musescore.com/user/\d+/scores/\d+'
@@ -94,6 +94,10 @@ def download(file_url, save_path):
 
 
 def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores.json'):
+    if os.path.exists(scores_json):
+        print('scores.json already exists, skip...')
+        return
+
     with open(keywords_json, 'r', encoding='utf-8') as json_file:
         regions = json.load(json_file)
 
@@ -105,7 +109,7 @@ def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores
             score_infos = merge_dicts(score_infos, keyword_scores)
 
     with open(scores_json, 'w', encoding='utf-8') as json_file:
-        json.dump(score_infos, json_file, indent=4)
+        json.dump(score_infos, json_file, ensure_ascii=False, indent=4)
 
 
 def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_mids"):
@@ -122,3 +126,4 @@ def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_m
 
 if __name__ == "__main__":
     save_scores()
+    download_scores()
