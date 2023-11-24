@@ -45,7 +45,8 @@ def get_file_url(id):
     url = f"https://musescore.com/api/jmuse?id={id}&type=midi&index=0&v2=1"
     auth = "38fb9efaae51b0c83b5bb5791a698b48292129e7"
     try:
-        response = requests.get(url, headers={"Authorization": auth}, proxies=PROXY())
+        response = requests.get(
+            url, headers={"Authorization": auth}, proxies=PROXY())
         data = response.json()
         info = data.get("info")
         if info:
@@ -100,11 +101,13 @@ def download(urls: dict, save_folder="./data/genshin_mids", region=''):
 
 
 if __name__ == "__main__":
-    regions = list(Teyvat.keys())[:5]
-    for region in regions:
+
+    with open('./data/keywords.json', 'r', encoding='utf-8') as json_file:
+        regions = json.load(json_file)
+
+    for region in regions.keys():
         score_urls = get_score_urls(f"genshin {region}")
-        keywords = list(Teyvat[region]['tags'])
-        keywords.append(Teyvat[region]['Chinese_name'])
+        keywords = regions[region]
         for keyword in keywords:
             keyword_scores = get_score_urls(f"genshin {keyword}")
             score_urls = merge_dicts(score_urls, keyword_scores)
