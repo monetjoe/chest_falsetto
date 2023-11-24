@@ -9,7 +9,7 @@ from urllib.parse import quote
 DOMAIN = 'https://genshin-impact.fandom.com'
 
 
-def PROXY(port=9910):
+def PROXY(port=7890):
     if port != None:
         return {
             'http': f'http://127.0.0.1:{port}',
@@ -111,6 +111,9 @@ def is_decimal(s):
 
 
 def find_cross(list1, list2):
+    if list1 == None or list2 == None:
+        return ''
+
     set1 = set(list1)
     set2 = set(list2)
     duplicates = set1.intersection(set2)

@@ -1,10 +1,7 @@
-# import time
-# import random
 from utils import *
 
 
 def get_song_info(song_url):
-    # time.sleep(random.uniform(0.1, 1.0))
     try:
         response = requests.get(song_url, proxies=PROXY())
         if response.status_code == 200:
@@ -38,7 +35,7 @@ def get_song_info(song_url):
                     album_h3.find_next(
                         name='div',
                         class_='pi-data-value'
-                    ).text
+                    ).text.replace(' (Album)', '')
                 )
 
             feature_h3 = soup.find(
@@ -64,11 +61,13 @@ def get_song_info(song_url):
     except requests.RequestException as e:
         print(f'Error making request of {song_url.split("/")[-1]} : {e}')
 
-    return None
+    return {
+        "Chinese_name": "",
+        "tags": []
+    }
 
 
 def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
-    # time.sleep(random.uniform(0.1, 1.0))
     soundtracks = {}
     try:
         response = requests.get(page_url, proxies=PROXY())
@@ -85,9 +84,10 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
                     continue
 
                 song_url = f"{DOMAIN}{song_a.get('href')}"
-                soundtracks[song_name.replace(' (Soundtrack)', '')] = get_song_info(
-                    song_url
-                )
+                song_key = song_name.replace(' (Soundtrack)', '')
+                soundtracks[song_key] = get_song_info(song_url)
+                if song_key == 'La vaguelette':
+                    soundtracks[song_key]['tags'].append('Fontaine')
 
             nextpage = soup.find('a', class_='category-page__pagination-next')
             if nextpage:

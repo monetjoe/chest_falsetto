@@ -5450,28 +5450,94 @@
             "Jade Chamber"
         ]
     },
-    "Moon-Eclipsing Chamber": null,
-    "The Imminent Triumph": null,
-    "A Noble Sacrifice": null,
-    "Lingering Bitterness": null,
-    "Frostbiting Bloom": null,
-    "Tale of the Yakshas": null,
-    "Invitation of Windblume (The Shimmering Voyage)": null,
-    "An Inauspicious Blow": null,
-    "Fateful Departing": null,
-    "Reconnaissance Captain": null,
-    "Ominous Monolith": null,
-    "Through the Eyes of a Dragon": null,
-    "Dvalin Is Landing!": null,
-    "Summertime Wonderland": null,
-    "A New Summer Adventure!": null,
-    "Tales from the Snow Mountain": null,
-    "Destined Parting": null,
-    "Path of Yaksha": null,
-    "Broker Betwixt Life and Death": null,
-    "Any Last Words?": null,
-    "Shadow of Nemesis": null,
-    "Marching of Xiezhi": null,
+    "Moon-Eclipsing Chamber": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "The Imminent Triumph": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "A Noble Sacrifice": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Lingering Bitterness": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Frostbiting Bloom": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Tale of the Yakshas": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Invitation of Windblume (The Shimmering Voyage)": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "An Inauspicious Blow": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Fateful Departing": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Reconnaissance Captain": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Ominous Monolith": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Through the Eyes of a Dragon": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Dvalin Is Landing!": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Summertime Wonderland": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "A New Summer Adventure!": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Tales from the Snow Mountain": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Destined Parting": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Path of Yaksha": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Broker Betwixt Life and Death": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Any Last Words?": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Shadow of Nemesis": {
+        "Chinese_name": "",
+        "tags": []
+    },
+    "Marching of Xiezhi": {
+        "Chinese_name": "",
+        "tags": []
+    },
     "The Frozen Emblem": {
         "Chinese_name": "冰封的徽记",
         "tags": [
@@ -5586,7 +5652,10 @@
             "The Stellar Moments Vol. 2"
         ]
     },
-    "Time to Shine": null,
+    "Time to Shine": {
+        "Chinese_name": "",
+        "tags": []
+    },
     "The Spotlight's on Me!": {
         "Chinese_name": "豪荡戏台",
         "tags": [

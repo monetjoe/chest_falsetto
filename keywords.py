@@ -12,7 +12,7 @@ def region_keywords():
     return region_keys
 
 
-def load_subarea_tags(baseline=region_keywords(), jsoname='subareas'):
+def load_tags(baseline=region_keywords(), jsoname='subareas'):
     keywords = baseline
     with open(f'./data/{jsoname}.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -28,7 +28,42 @@ def load_subarea_tags(baseline=region_keywords(), jsoname='subareas'):
                 keywords[region] += data[item]['Chinese_name'].split('/')
 
             else:
-                print(f'{jsoname} [{item}] has no region.')
+                print(f'\n{jsoname} - [{item}] has no region.')
+
+    return keywords
+
+
+def load_soundtrack_tags(baseline):
+    keywords = baseline
+    albums = list(Albums.keys())
+    regions = list(Teyvat.keys())[:5]
+
+    with open('./data/soundtracks.json', 'r', encoding='utf-8') as file:
+        soundtracks = json.load(file)
+        soundtrackeys = soundtracks.keys()
+
+        for soundtrackey in tqdm(soundtrackeys, desc='Extracting soundtracks regions...'):
+            region = find_cross(
+                regions,
+                soundtracks[soundtrackey]['tags'],
+            )
+
+            if region == '':
+                album = find_cross(
+                    albums,
+                    soundtracks[soundtrackey]['tags']
+                )
+
+                if album != '' and Albums[album] != '' and Albums[album] in regions:
+                    region = Albums[album]
+
+            if region != '':
+                keywords[region].append(soundtrackey)
+                keywords[region] += \
+                    soundtracks[soundtrackey]['Chinese_name'].split('/')
+
+            else:
+                print(f'\nSoundtrack [{soundtrackey}] has been skipped.')
 
     return keywords
 
@@ -42,18 +77,13 @@ def save_keywords(keywords_dict, keywords_path='./data/keywords.json', force_upd
 
 
 if __name__ == "__main__":
-    jsonames = [
-        'areas',
-        'bosses',
-        'characters',
-        'points',
-        # 'soundtracks'
-    ]
-
-    benchmark = load_subarea_tags()
+    jsonames = ['areas', 'bosses', 'characters', 'points']
+    benchmark = load_tags()
 
     for jsoname in jsonames:
-        benchmark = load_subarea_tags(baseline=benchmark, jsoname=jsoname)
+        benchmark = load_tags(benchmark, jsoname)
+
+    benchmark = load_soundtrack_tags(benchmark)
 
     for key in benchmark.keys():
         benchmark[key] = trim_str_list(benchmark[key])
