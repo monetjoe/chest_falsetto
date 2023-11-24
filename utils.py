@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import time
+import random
 import requests
 from tqdm import tqdm
 from bs4 import BeautifulSoup
@@ -129,3 +131,7 @@ def clean_windows_filename(input_str):
     # Remove redundant spaces
     cleaned_str = re.sub(r'\s+', ' ', cleaned_str).strip()
     return cleaned_str
+
+
+def rand_sleep(from_second, to_second):
+    time.sleep(random.uniform(from_second, to_second))

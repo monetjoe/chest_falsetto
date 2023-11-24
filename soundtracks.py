@@ -61,10 +61,7 @@ def get_song_info(song_url):
     except requests.RequestException as e:
         print(f'Error making request of {song_url.split("/")[-1]} : {e}')
 
-    return {
-        "Chinese_name": "",
-        "tags": []
-    }
+    return None
 
 
 def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
@@ -85,14 +82,29 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
 
                 song_url = f"{DOMAIN}{song_a.get('href')}"
                 song_key = song_name.replace(' (Soundtrack)', '')
-                soundtracks[song_key] = get_song_info(song_url)
+                song_info = get_song_info(song_url)
+                while not song_info:
+                    print(
+                        f'Failed to get the info of {song_name}, retrying...')
+                    rand_sleep(1, 2)
+                    song_info = get_song_info(song_url)
+
+                soundtracks[song_key] = song_info
+
                 if song_key == 'La vaguelette':
                     soundtracks[song_key]['tags'].append('Fontaine')
 
             nextpage = soup.find('a', class_='category-page__pagination-next')
             if nextpage:
                 nextpage_url = nextpage.get('href')
-                soundtracks = merge_dicts(soundtracks, get_songs(nextpage_url))
+                nextpage_songs = get_songs(nextpage_url)
+                while not nextpage_songs:
+                    print(
+                        f'Failed to get the page of {nextpage_url}, retrying...')
+                    rand_sleep(1, 2)
+                    nextpage_songs = get_songs(nextpage_url)
+
+                soundtracks = merge_dicts(soundtracks, nextpage_songs)
 
         else:
             print(

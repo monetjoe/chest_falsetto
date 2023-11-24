@@ -22,16 +22,25 @@ def get_scores(keyword='genshin', region='Teyvat'):
 
             for url in urls:
                 score_id = url.split('/')[-1]
+                score_title = get_title(response.text, url)
+                while not score_title:
+                    print(f'Failed to get title of {url}, retrying...')
+                    rand_sleep(1, 2)
+                    score_title = get_title(response.text, url)
+
                 scores[score_id] = {
                     'url': url,
-                    'title': get_title(response.text, url),
+                    'title': score_title,
                     'region': region
                 }
 
         except requests.exceptions.RetryError as e:
-            print(f"Max retries exceeded: {e}")
+            print(f"Max retries exceeded: {e}, retrying...")
+            i -= 1
+
         except requests.exceptions.RequestException as e:
-            print(f"Request failed: {e}")
+            print(f"Request failed: {e}, retrying...")
+            i -= 1
 
         i += 1
 
@@ -118,9 +127,15 @@ def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_m
 
     create_dir(save_dir)
     for score_id in scores.keys():
-        score_url = scores[score_id]['url']
+        score_url = get_file_url(score_id)
+        while not score_url:
+            print(f'Failed to get the url of {score_id}, retrying...')
+            rand_sleep(1, 2)
+            score_url = get_file_url(score_id)
+
         score_label = scores[score_id]['region']
-        save_path = f'{save_dir}/{score_label}_{score_id}.mid'
+        score_title = scores[score_id]['title']
+        save_path = f'{save_dir}/{score_label}_{score_id}_{score_title}.mid'
         download(score_url, save_path)
 
 
