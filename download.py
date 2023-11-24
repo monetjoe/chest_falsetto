@@ -66,15 +66,20 @@ def get_file_url(id):
     return None
 
 
-def get_title(response, url, substr='file_score_title":"'):
+def get_title(response, url, substr='"file_score_title":"'):
     try:
         response_txt = html.unescape(str(response))
         index = response_txt.index(url)
-        last_index = response_txt.rfind(substr, 0, index)
-        if last_index != -1:
-            title = str(response_txt[last_index + len(substr):index]).split('","')[
-                0].replace('\\n.', '').replace('\\n', ' ').replace('.', ' ').strip()
-            return clean_windows_filename(title)
+        fst_index = response_txt.find(substr, 0, index)
+        if fst_index != -1:
+            piece_with_title = str(response_txt[fst_index:index])
+            waiting_list = piece_with_title.split(substr)
+            waiting_list.reverse()
+            for item in waiting_list:
+                title = item.split('","')[0].replace('\\n.', '').replace(
+                    '\\n', ' ').replace('.', ' ').strip()
+                if title != '':
+                    return clean_windows_filename(title)
 
     except requests.exceptions.RetryError as e:
         print(f"Max retries exceeded: {e}")
