@@ -33,7 +33,8 @@ def load_tags(baseline=region_keywords(), jsoname='subareas'):
     return keywords
 
 
-def load_soundtrack_tags(baseline):
+def load_soundtrack_tags(baseline=region_keywords()):
+    fail_count = 0
     keywords = baseline
     albums = list(Albums.keys())
     regions = list(Teyvat.keys())[:5]
@@ -63,7 +64,15 @@ def load_soundtrack_tags(baseline):
                     soundtracks[soundtrackey]['Chinese_name'].split('/')
 
             else:
-                print(f'\nSoundtrack [{soundtrackey}] has been skipped.')
+                print(f'Soundtrack [{soundtrackey}] has been skipped.')
+                fail_count += 1
+
+    if fail_count > 0:
+        total_count = len(soundtrackeys)
+        acc = round(100.0 * fail_count / total_count, 2)
+        print('-'*50)
+        print(f'Failed soundtracks: {fail_count}/{total_count} = {acc}%')
+        print('-'*50)
 
     return keywords
 
@@ -77,13 +86,11 @@ def save_keywords(keywords_dict, keywords_path='./data/keywords.json', force_upd
 
 
 if __name__ == "__main__":
-    jsonames = ['areas', 'bosses', 'characters', 'points']
-    benchmark = load_tags()
+    jsonames = ['areas', 'subareas', 'points', 'characters', 'bosses']
+    benchmark = load_soundtrack_tags()
 
     for jsoname in jsonames:
         benchmark = load_tags(benchmark, jsoname)
-
-    benchmark = load_soundtrack_tags(benchmark)
 
     for key in benchmark.keys():
         benchmark[key] = trim_str_list(benchmark[key])
