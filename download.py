@@ -111,14 +111,20 @@ def download(file_url, save_path):
     return success
 
 
-def relabel_scores(scores: dict, regions=list(Teyvat.keys())[:5]):
+def relabel_scores(scores: dict, regions=list(Teyvat.keys())[:5], keywords_json='./data/keywords.json'):
     result = scores
+
+    with open(keywords_json, 'r', encoding='utf-8') as json_file:
+        regions_tag = json.load(json_file)
+
     for score_id in scores.keys():
         if scores[score_id]['region'] == "Teyvat":
             score_title = scores[score_id]['title']
             for region in regions:
-                if region.lower() in score_title.lower():
-                    result[score_id]['region'] = region
+                region_tags = [region] + regions_tag[region]
+                for region_tag in region_tags:
+                    if region_tag.lower() in score_title.lower():
+                        result[score_id]['region'] = region
 
     return result
 
