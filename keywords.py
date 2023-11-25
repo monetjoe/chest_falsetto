@@ -12,6 +12,22 @@ def region_keywords():
     return region_keys
 
 
+def expend_cntags(cntag_list: list):
+    result = cntag_list
+    for cntag in cntag_list:
+        processed = None
+        if '「' in cntag:
+            processed = cntag.replace('「', ' ').replace('」', ' ').strip()
+
+        if '・' in cntag:
+            processed = cntag.replace('・', ' ')
+
+        if processed:
+            result.append(processed)
+
+    return result
+
+
 def load_tags(baseline=region_keywords(), jsoname='subareas'):
     keywords = baseline
     with open(f'./data/{jsoname}.json', 'r', encoding='utf-8') as file:
@@ -25,7 +41,9 @@ def load_tags(baseline=region_keywords(), jsoname='subareas'):
 
             if region != '':
                 keywords[region].append(item)
-                keywords[region] += data[item]['Chinese_name'].split('/')
+                keywords[region] += expend_cntags(
+                    data[item]['Chinese_name'].split('/')
+                )
 
             else:
                 print(f'\n{jsoname} - [{item}] has no region.')
@@ -60,8 +78,9 @@ def load_soundtrack_tags(baseline=region_keywords()):
 
             if region != '':
                 keywords[region].append(soundtrackey)
-                keywords[region] += \
+                keywords[region] += expend_cntags(
                     soundtracks[soundtrackey]['Chinese_name'].split('/')
+                )
 
             else:
                 print(f'Soundtrack [{soundtrackey}] has been skipped.')
@@ -82,7 +101,13 @@ def save_keywords(keywords_dict, keywords_path='./data/keywords.json', force_upd
         with open(keywords_path, 'w', encoding='utf-8') as json_file:
             json.dump(keywords_dict, json_file, ensure_ascii=False, indent=4)
 
-        print(f'Kewords have been updated into {keywords_path}.')
+        print(f'Kewords have been updated into {keywords_path}')
+
+        count = 0
+        for keyword_list in keywords_dict.values():
+            count += len(keyword_list)
+
+        print(f'{count} in total')
 
 
 if __name__ == "__main__":

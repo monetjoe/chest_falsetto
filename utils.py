@@ -120,6 +120,7 @@ def find_cross(list1, list2):
     set1 = set(list1)
     set2 = set(list2)
     duplicates = set1.intersection(set2)
+
     if duplicates:
         return list(duplicates)[0]
 

@@ -111,6 +111,18 @@ def download(file_url, save_path):
     return success
 
 
+def relabel_scores(scores: dict, regions=list(Teyvat.keys())[:5]):
+    result = scores
+    for score_id in scores.keys():
+        if scores[score_id]['region'] == "Teyvat":
+            score_title = scores[score_id]['title']
+            for region in regions:
+                if region.lower in score_title.lower:
+                    result[score_id]['region'] = region
+
+    return result
+
+
 def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores.json'):
     if os.path.exists(scores_json):
         print('scores.json already exists, skip...')
@@ -119,15 +131,24 @@ def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores
     with open(keywords_json, 'r', encoding='utf-8') as json_file:
         regions = json.load(json_file)
 
-    score_infos = {}
+    # load scores without label
+    score_infos = get_scores("genshin", "Teyvat")
+    score_infos = merge_dicts(score_infos, get_scores("原神", "Teyvat"))
+
+    # add label for scores, may cover some of above
     for region in regions.keys():
         keywords = [region] + regions[region]
         for keyword in tqdm(keywords, desc=f'Getting scores by keywords from {region}...'):
             keyword_scores = get_scores(f"genshin {keyword}", region)
+            keyword_scores = merge_dicts(
+                keyword_scores,
+                get_scores(f"原神 {keyword}", region)
+            )
             score_infos = merge_dicts(score_infos, keyword_scores)
 
+    scores = relabel_scores(score_infos)
     with open(scores_json, 'w', encoding='utf-8') as json_file:
-        json.dump(score_infos, json_file, ensure_ascii=False, indent=4)
+        json.dump(scores, json_file, ensure_ascii=False, indent=4)
 
 
 def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_mids"):
