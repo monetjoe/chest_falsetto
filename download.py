@@ -117,7 +117,7 @@ def relabel_scores(scores: dict, regions=list(Teyvat.keys())[:5]):
         if scores[score_id]['region'] == "Teyvat":
             score_title = scores[score_id]['title']
             for region in regions:
-                if region.lower in score_title.lower:
+                if region.lower() in score_title.lower():
                     result[score_id]['region'] = region
 
     return result
