@@ -2,19 +2,21 @@
     "Mondstadt": {
         "Chinese_name": "蒙德",
         "tags": [
-            "Full Concert Arrangement",
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
+            "Full Concert Arrangement"
         ]
     },
     "Novatio Novena": {
         "Chinese_name": "九彻生识",
-        "tags": []
+        "tags": [
+            "Inazuma"
+        ]
     },
     "Twilight Serenity (Genshin Impact Main Theme Var.)": {
         "Chinese_name": "宁静的黄昏",
         "tags": [
-            "Login Menu (Dawn & Dusk)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "Login Menu (Dawn & Dusk)"
         ]
     },
     "Legend of the Wind": {
@@ -26,8 +28,8 @@
     "The City Favored by Wind": {
         "Chinese_name": "风所爱之城",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Bustling Afternoon in Mondstadt": {
@@ -39,15 +41,15 @@
     "Dusk in Mondstadt": {
         "Chinese_name": "蒙德的黄昏",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Mondstadt Starlit": {
         "Chinese_name": "星光下的蒙德",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Moonlight in Mondstadt": {
@@ -59,15 +61,15 @@
     "Another Day in Mondstadt": {
         "Chinese_name": "蒙德的又一日",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Windborne Hymn": {
         "Chinese_name": "风带来的圣歌",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Knights of Favonius": {
@@ -79,8 +81,8 @@
     "Angel's Share": {
         "Chinese_name": "天使的馈赠",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Silhouette and Silk Steps": {
@@ -212,8 +214,8 @@
     "Statue of The Seven": {
         "Chinese_name": "七天神像",
         "tags": [
-            "Wish Menu",
             "Statue of The Seven",
+            "Wish Menu",
             "City of Winds and Idylls"
         ]
     },
@@ -311,8 +313,8 @@
     "Midday Prospects": {
         "Chinese_name": "午日的眺望",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Dwelling in the Past": {
@@ -330,8 +332,8 @@
     "Photon of Fluctuation": {
         "Chinese_name": "光辉的涨落",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "His Resolution": {
@@ -343,8 +345,8 @@
     "Rhythm from Ancient Times": {
         "Chinese_name": "亘古的韵律",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Endless Echoes": {
@@ -356,8 +358,8 @@
     "Charge! Fearless Warriors": {
         "Chinese_name": "冲啊！无畏的勇士",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Beats of Water Drops": {
@@ -375,8 +377,8 @@
     "Against All Odds": {
         "Chinese_name": "无数的逆境",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "City of Winds and Idylls"
+            "City of Winds and Idylls",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Perpetual Motion of Wind": {
@@ -654,8 +656,8 @@
     "Return to Trueness": {
         "Chinese_name": "于智境谛思",
         "tags": [
-            "Forest of Jnana and Vidya",
-            "Sumeru Mansion: Meditative Retreat"
+            "Sumeru Mansion: Meditative Retreat",
+            "Forest of Jnana and Vidya"
         ]
     },
     "Hustle and Bustle of Ormos": {
@@ -2563,29 +2565,29 @@
     "La vaguelette feat. Hu Xia": {
         "Chinese_name": "轻涟",
         "tags": [
-            "La vaguelette feat. Hu Xia",
-            "La vaguelette (Chinese Performance) feat. Hu Xia"
+            "La vaguelette (Chinese Performance) feat. Hu Xia",
+            "La vaguelette feat. Hu Xia"
         ]
     },
     "La vaguelette feat. Laure Shang": {
         "Chinese_name": "轻涟",
         "tags": [
-            "La vaguelette (French Performance) feat. Laure Shang",
-            "La vaguelette feat. Laure Shang"
+            "La vaguelette feat. Laure Shang",
+            "La vaguelette (French Performance) feat. Laure Shang"
         ]
     },
     "La vaguelette feat. Tan Weiwei": {
         "Chinese_name": "轻涟",
         "tags": [
-            "La vaguelette feat. Tan Weiwei",
-            "La vaguelette (Chinese Performance) feat. Tan Weiwei"
+            "La vaguelette (Chinese Performance) feat. Tan Weiwei",
+            "La vaguelette feat. Tan Weiwei"
         ]
     },
     "La vaguelette - Female Version Instrumental without Harmony": {
         "Chinese_name": "轻涟",
         "tags": [
-            "La vaguelette feat. Tan Weiwei",
-            "La vaguelette (Chinese Performance) feat. Tan Weiwei"
+            "La vaguelette (Chinese Performance) feat. Tan Weiwei",
+            "La vaguelette feat. Tan Weiwei"
         ]
     },
     "Wordless Cliffs": {
@@ -2804,11 +2806,11 @@
         "tags": [
             "Stony Halls",
             "The Serpent's Cave",
-            "The Chasm: Main Mining Area",
             "Underground Waterway",
+            "Millelith's Watch",
             "Ad-Hoc Main Tunnel",
             "The Lost Valley (Combat)",
-            "Millelith's Watch"
+            "The Chasm: Main Mining Area"
         ]
     },
     "Seething Animosity": {
@@ -3404,8 +3406,8 @@
         "Chinese_name": "且看今朝",
         "tags": [
             "The Shimmering Voyage Vol. 2",
-            "and Here We Go",
-            "Animated cutscene in Three to Get Ready"
+            "Animated cutscene in Three to Get Ready",
+            "and Here We Go"
         ]
     },
     "Bravery and Tenderness": {
@@ -4121,9 +4123,9 @@
     "Fireside Rest": {
         "Chinese_name": "炉边小憩",
         "tags": [
+            "Mondstadt Mansion: Windward Manor",
             "The Shimmering Voyage",
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "Mondstadt Mansion: Windward Manor"
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "A Wicked Plot": {
@@ -4382,8 +4384,8 @@
     "Path of Yaksha": {
         "Chinese_name": "捷疾之业",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Stellar Moments Vol. 2"
+            "The Stellar Moments Vol. 2",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Broker Betwixt Life and Death": {
@@ -4419,8 +4421,8 @@
     "Dance of Aphros": {
         "Chinese_name": "浪沫起舞",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Stellar Moments Vol. 2"
+            "The Stellar Moments Vol. 2",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Iridescent Summer Day": {
@@ -5207,15 +5209,15 @@
     "Steps to Heptas": {
         "Chinese_name": "七荣的陵殿",
         "tags": [
-            "The Unfathomable Sand Dunes",
-            "Towers of Betrayal"
+            "Towers of Betrayal",
+            "The Unfathomable Sand Dunes"
         ]
     },
     "Juncture of Admonition": {
         "Chinese_name": "伏谏之刻",
         "tags": [
-            "The Unfathomable Sand Dunes",
-            "Towers of Betrayal"
+            "Towers of Betrayal",
+            "The Unfathomable Sand Dunes"
         ]
     },
     "Emerald in the Desert": {
@@ -5425,9 +5427,9 @@
     "Genshin Impact Main Theme": {
         "Chinese_name": "原神",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
             "The Wind and The Star Traveler",
-            "Login Menu (Day)"
+            "Login Menu (Day)",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Dawn Winery Theme (The Wind and The Star Traveler)": {
@@ -5445,15 +5447,15 @@
     "A Storm, A Spire, and a Sanctum (Dvalin's Nest)": {
         "Chinese_name": "风暴，高塔与圣地",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Caelestinum Finale Termini": {
         "Chinese_name": "终天的闭幕曲",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Lone Sojourner": {
@@ -5471,8 +5473,8 @@
     "Dream Aria (Genshin Impact Main Theme Var.)": {
         "Chinese_name": "梦之咏叹",
         "tags": [
-            "Login Menu (Night)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "Login Menu (Night)"
         ]
     },
     "Pure Sky": {
@@ -5484,8 +5486,8 @@
     "The Edge of the Prairie": {
         "Chinese_name": "平原的边际",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "A Tale of Two Dragons": {
@@ -5497,29 +5499,29 @@
     "Rite of Battle": {
         "Chinese_name": "战斗的秘仪",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Knighthood Excellence": {
         "Chinese_name": "骑士的义举",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Happy Journey": {
         "Chinese_name": "快乐的旅程",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "The Outlander Who Caught the Wind": {
         "Chinese_name": "捕风的异乡人",
         "tags": [
-            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)",
-            "The Wind and The Star Traveler"
+            "The Wind and The Star Traveler",
+            "GENSHIN CONCERT 2021 Melodies of an Endless Journey (CD)"
         ]
     },
     "Snow-Buried Tales": {

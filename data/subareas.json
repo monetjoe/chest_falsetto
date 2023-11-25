@@ -2,107 +2,107 @@
     "A Lonely Place": {
         "Chinese_name": "「寂寞的地方」",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "A Very Bright Place": {
         "Chinese_name": "「很明亮的地方」",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "A Very Warm Place": {
         "Chinese_name": "「特别温暖的地方」",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Seiraimaru": {
         "Chinese_name": "「清籁丸」",
         "tags": [
-            "Inazuma",
             "Seirai Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Aaru Village": {
         "Chinese_name": "阿如村",
         "tags": [
-            "Teyvat",
-            "Sumeru",
+            "Great Red Sand",
             "Land of Lower Setekh",
-            "Great Red Sand"
+            "Sumeru",
+            "Teyvat"
         ]
     },
     "Abdju Pit": {
         "Chinese_name": "舍身陷坑/舍身步道",
         "tags": [
-            "Teyvat",
-            "Sumeru",
+            "Great Red Sand",
             "Land of Lower Setekh",
-            "Great Red Sand"
+            "Sumeru",
+            "Teyvat"
         ]
     },
     "Ad-Hoc Main Tunnel": {
         "Chinese_name": "临时主矿道",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "Amakane Island": {
         "Chinese_name": "甘金岛",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Amakumo Peak": {
         "Chinese_name": "天云峠",
         "tags": [
-            "Inazuma",
             "Seirai Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Annapausis": {
         "Chinese_name": "安眠处",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Apam Woods": {
         "Chinese_name": "水天丛林",
         "tags": [
-            "Dharma Forest",
-            "Sumeru",
             "Ashavan Realm",
-            "Teyvat"
+            "Sumeru",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Araumi": {
         "Chinese_name": "荒海",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Asase Shrine": {
         "Chinese_name": "浅濑神社",
         "tags": [
-            "Inazuma",
             "Seirai Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
@@ -111,8 +111,8 @@
         "tags": [
             "Sumeru",
             "Girdle of the Sands",
-            "Realm of Farakhkert",
-            "Teyvat"
+            "Teyvat",
+            "Realm of Farakhkert"
         ]
     },
     "Autake Plains": {
@@ -142,78 +142,78 @@
     "Broken Isle": {
         "Chinese_name": "破破岛",
         "tags": [
-            "Mondstadt",
             "Version 1.6",
-            "Golden Apple Archipelago",
             "Version 2.8",
+            "Mondstadt",
+            "Golden Apple Archipelago",
             "Summertime Odyssey"
         ]
     },
     "Byakko Plain": {
         "Chinese_name": "白狐之野",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Cape Oath": {
         "Chinese_name": "誓言岬",
         "tags": [
+            "Teyvat",
             "Mondstadt",
-            "Galesong Hill",
-            "Teyvat"
+            "Galesong Hill"
         ]
     },
     "Caravan Ribat": {
         "Chinese_name": "喀万驿",
         "tags": [
-            "Dharma Forest",
-            "Sumeru",
             "Ashavan Realm",
-            "Teyvat"
+            "Sumeru",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Central Laboratory Ruins": {
         "Chinese_name": "中央实验室遗址",
         "tags": [
             "Teyvat",
-            "Fontaine Research Institute of Kinetic Energy Engineering Region",
-            "Fontaine"
+            "Fontaine",
+            "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Chatrakam Cave": {
         "Chinese_name": "茸蕈窟",
         "tags": [
-            "Dharma Forest",
-            "Lokapala Jungle",
             "Sumeru",
-            "Teyvat"
+            "Teyvat",
+            "Lokapala Jungle",
+            "Dharma Forest"
         ]
     },
     "Chemin de L'Espoir": {
         "Chinese_name": "希望之路",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Chinju Forest": {
         "Chinese_name": "镇守之森",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Chinvat Ravine": {
         "Chinese_name": "离渡谷",
         "tags": [
-            "Dharma Forest",
             "Sumeru",
+            "Teyvat",
             "Avidya Forest",
-            "Teyvat"
+            "Dharma Forest"
         ]
     },
     "Chirai Shrine": {
@@ -235,17 +235,17 @@
     "Cinnabar Cliff": {
         "Chinese_name": "丹砂崖",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
     "Court of Fontaine": {
         "Chinese_name": "枫丹廷",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Cuijue Slope": {
@@ -259,9 +259,9 @@
     "Dadaupa Gorge": {
         "Chinese_name": "达达乌帕谷",
         "tags": [
+            "Teyvat",
             "Mondstadt",
-            "Galesong Hill",
-            "Teyvat"
+            "Galesong Hill"
         ]
     },
     "Dainichi Mikoshi": {
@@ -274,10 +274,10 @@
     "Dar al-Shifa": {
         "Chinese_name": "活力之家",
         "tags": [
-            "Teyvat",
-            "Sumeru",
+            "Great Red Sand",
             "Land of Lower Setekh",
-            "Great Red Sand"
+            "Sumeru",
+            "Teyvat"
         ]
     },
     "Dawn Winery": {
@@ -291,68 +291,68 @@
     "Debris of Panjvahe": {
         "Chinese_name": "「五绿洲」的孑遗",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Devantaka Mountain": {
         "Chinese_name": "降诸魔山",
         "tags": [
-            "Dharma Forest",
-            "Ardravi Valley",
             "Sumeru",
-            "Teyvat"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Dihua Marsh": {
         "Chinese_name": "荻花洲",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Dunes of Steel": {
         "Chinese_name": "镔铁沙丘",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Dunyu Ruins": {
         "Chinese_name": "遁玉陵",
         "tags": [
-            "Liyue",
             "Teyvat",
+            "Liyue",
             "Lisha"
         ]
     },
     "East Slopes of Mont Automnequi": {
         "Chinese_name": "秋分山东侧",
         "tags": [
-            "Teyvat",
             "Morte Region",
-            "Fontaine"
+            "Fontaine",
+            "Teyvat"
         ]
     },
     "Elton Trench": {
         "Chinese_name": "埃尔顿海沟",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Elynas": {
         "Chinese_name": "厄里那斯",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Entombed City - Ancient Palace": {
@@ -381,157 +381,157 @@
     "Falcon Coast": {
         "Chinese_name": "鹰翔海滩",
         "tags": [
+            "Teyvat",
             "Mondstadt",
-            "Galesong Hill",
-            "Teyvat"
+            "Galesong Hill"
         ]
     },
     "Fane of Ashvattha": {
         "Chinese_name": "觉王之殿",
         "tags": [
-            "Dharma Forest",
-            "Teyvat",
+            "Vissudha Field",
             "Sumeru",
-            "Vissudha Field"
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Foggy Forest Path": {
         "Chinese_name": "幽林雾道",
         "tags": [
+            "Erinnyes Forest",
             "Fontaine",
-            "Teyvat",
-            "Erinnyes Forest"
+            "Teyvat"
         ]
     },
     "Fort Charybdis Ruins": {
         "Chinese_name": "卡布狄斯堡遗迹",
         "tags": [
-            "Teyvat",
             "Morte Region",
-            "Fontaine"
+            "Fontaine",
+            "Teyvat"
         ]
     },
     "Fort Fujitou": {
         "Chinese_name": "藤兜砦",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Fort Hiraumi": {
         "Chinese_name": "平海砦",
         "tags": [
-            "Inazuma",
             "Seirai Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Fort Mumei": {
         "Chinese_name": "无明砦",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Fortress of Meropide": {
         "Chinese_name": "梅洛彼得堡",
         "tags": [
             "Fontaine",
-            "Teyvat",
-            "Liffey Region"
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Fountain of Lucine": {
         "Chinese_name": "露景泉",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Fuao Vale": {
         "Chinese_name": "伏鳌谷",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
     "Gandha Hill": {
         "Chinese_name": "香醉坡",
         "tags": [
-            "Dharma Forest",
             "Sumeru",
+            "Teyvat",
             "Avidya Forest",
-            "Teyvat"
+            "Dharma Forest"
         ]
     },
     "Gandharva Ville": {
         "Chinese_name": "化城郭",
         "tags": [
-            "Dharma Forest",
             "Sumeru",
+            "Teyvat",
             "Avidya Forest",
-            "Teyvat"
+            "Dharma Forest"
         ]
     },
     "Gate of Zulqarnain": {
         "Chinese_name": "阻勒隘",
         "tags": [
-            "Gavireh Lajavard",
             "Sumeru",
             "Girdle of the Sands",
+            "Gavireh Lajavard",
             "Teyvat"
         ]
     },
     "Genesis of a Certain Micro-Universe": {
         "Chinese_name": "某微观宇宙的肇始",
         "tags": [
-            "Teyvat",
             "Morte Region",
-            "Fontaine"
+            "Fontaine",
+            "Teyvat"
         ]
     },
     "Glaze Peak": {
         "Chinese_name": "琉璃峰",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
     "Grand Narukami Shrine": {
         "Chinese_name": "鸣神大社",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Guili Plains": {
         "Chinese_name": "归离原",
         "tags": [
-            "Liyue",
             "Qiongji Estuary",
+            "Liyue",
             "Teyvat"
         ]
     },
     "Guyun Stone Forest": {
         "Chinese_name": "孤云阁",
         "tags": [
-            "Sea of Clouds",
             "Liyue",
+            "Sea of Clouds",
             "Teyvat"
         ]
     },
     "Higi Village": {
         "Chinese_name": "绯木村",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Hills of Barsom": {
@@ -539,8 +539,8 @@
         "tags": [
             "Sumeru",
             "Girdle of the Sands",
-            "Realm of Farakhkert",
-            "Teyvat"
+            "Teyvat",
+            "Realm of Farakhkert"
         ]
     },
     "Huaguang Stone Forest": {
@@ -554,32 +554,32 @@
     "Inazuma City": {
         "Chinese_name": "稻妻城",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Institute of Natural Philosophy": {
         "Chinese_name": "自然哲学学院",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Jakotsu Mine": {
         "Chinese_name": "蛇骨矿洞",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Jinren Island": {
         "Chinese_name": "刃连岛",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
@@ -594,42 +594,42 @@
     "Kamisato Estate": {
         "Chinese_name": "神里屋敷",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Khaj-Nisut": {
         "Chinese_name": "圣显厅/沙之眼",
         "tags": [
-            "Teyvat",
-            "Sumeru",
+            "Great Red Sand",
             "Land of Lower Setekh",
-            "Great Red Sand"
+            "Sumeru",
+            "Teyvat"
         ]
     },
     "Khemenu Temple": {
         "Chinese_name": "秘仪圣殿",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "Konda Village": {
         "Chinese_name": "绀田村",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Koseki Village": {
         "Chinese_name": "越石村",
         "tags": [
-            "Inazuma",
             "Seirai Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
@@ -651,91 +651,91 @@
     "Lingju Pass": {
         "Chinese_name": "灵矩关",
         "tags": [
-            "Liyue",
             "Teyvat",
+            "Liyue",
             "Lisha"
         ]
     },
     "Liyue Harbor": {
         "Chinese_name": "璃月港",
         "tags": [
-            "Sea of Clouds",
             "Liyue",
+            "Sea of Clouds",
             "Teyvat"
         ]
     },
     "Loch Urania": {
         "Chinese_name": "优兰尼娅湖",
         "tags": [
+            "Erinnyes Forest",
             "Fontaine",
-            "Teyvat",
-            "Erinnyes Forest"
+            "Teyvat"
         ]
     },
     "Luhua Pool": {
         "Chinese_name": "渌华池",
         "tags": [
-            "Liyue",
             "Qiongji Estuary",
+            "Liyue",
             "Teyvat"
         ]
     },
     "Lumberpick Valley": {
         "Chinese_name": "采樵谷",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
     "Lumidouce Harbor": {
         "Chinese_name": "柔灯港",
         "tags": [
+            "Erinnyes Forest",
             "Fontaine",
-            "Teyvat",
-            "Erinnyes Forest"
+            "Teyvat"
         ]
     },
     "Marcotte Station": {
         "Chinese_name": "茉洁站",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Mawtiyima Forest": {
         "Chinese_name": "无郁稠林",
         "tags": [
-            "Dharma Forest",
-            "Lokapala Jungle",
             "Sumeru",
-            "Teyvat"
+            "Teyvat",
+            "Lokapala Jungle",
+            "Dharma Forest"
         ]
     },
     "Merusea Village": {
         "Chinese_name": "海沫村",
         "tags": [
+            "Fontaine",
             "Beryl Region",
-            "Teyvat",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Minacious Isle": {
         "Chinese_name": "危危岛",
         "tags": [
-            "Mondstadt",
             "Version 1.6",
-            "Golden Apple Archipelago",
             "Version 2.8",
+            "Mondstadt",
+            "Golden Apple Archipelago",
             "Summertime Odyssey"
         ]
     },
     "Mingyun Village": {
         "Chinese_name": "明蕴镇",
         "tags": [
-            "Liyue",
             "Qiongji Estuary",
+            "Liyue",
             "Teyvat"
         ]
     },
@@ -751,8 +751,8 @@
         "Chinese_name": "芒索斯山东麓",
         "tags": [
             "Fontaine",
-            "Teyvat",
-            "Liffey Region"
+            "Liffey Region",
+            "Teyvat"
         ]
     },
     "Moshiri Ceremonial Site": {
@@ -782,10 +782,10 @@
     "Mt. Damavand": {
         "Chinese_name": "达马山",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Mt. Hulao": {
@@ -807,41 +807,41 @@
     "Mt. Tianheng": {
         "Chinese_name": "天衡山",
         "tags": [
-            "Sea of Clouds",
             "Liyue",
+            "Sea of Clouds",
             "Teyvat"
         ]
     },
     "Mt. Yougou": {
         "Chinese_name": "影向山",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
     "Musk Reef": {
         "Chinese_name": "马斯克礁",
         "tags": [
+            "Teyvat",
             "Mondstadt",
-            "Galesong Hill",
-            "Teyvat"
+            "Galesong Hill"
         ]
     },
     "Musoujin Gorge": {
         "Chinese_name": "无想刃狭间",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Nameless Ruins": {
         "Chinese_name": "无名遗迹",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "Nantianmen": {
@@ -855,17 +855,17 @@
     "Nazuchi Beach": {
         "Chinese_name": "名椎滩",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "New Fontaine Research Institute": {
         "Chinese_name": "新枫丹科学院",
         "tags": [
             "Teyvat",
-            "Fontaine Research Institute of Kinetic Energy Engineering Region",
-            "Fontaine"
+            "Fontaine",
+            "Fontaine Research Institute of Kinetic Energy Engineering Region"
         ]
     },
     "Oina Beach": {
@@ -879,18 +879,18 @@
     "Old Vanarana": {
         "Chinese_name": "往昔的桓那兰那",
         "tags": [
-            "Dharma Forest",
-            "Lost Nursery",
             "Sumeru",
-            "Teyvat"
+            "Teyvat",
+            "Dharma Forest",
+            "Lost Nursery"
         ]
     },
     "Opera Epiclese": {
         "Chinese_name": "欧庇克莱歌剧院",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Overgrown Valley": {
@@ -904,19 +904,19 @@
     "Pardis Dhyai": {
         "Chinese_name": "禅那园",
         "tags": [
-            "Dharma Forest",
-            "Sumeru",
             "Ashavan Realm",
-            "Teyvat"
+            "Sumeru",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Passage of Ghouls": {
         "Chinese_name": "亡者狭廊",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Pavilion of Hermits": {
@@ -931,42 +931,42 @@
         "Chinese_name": "白淞镇",
         "tags": [
             "Teyvat",
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Port Ormos": {
         "Chinese_name": "奥摩斯港",
         "tags": [
-            "Dharma Forest",
-            "Ardravi Valley",
             "Sumeru",
-            "Teyvat"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Pudding Isle": {
         "Chinese_name": "布丁岛",
         "tags": [
-            "Mondstadt",
             "Version 1.6",
-            "Golden Apple Archipelago",
             "Version 2.8",
+            "Mondstadt",
+            "Golden Apple Archipelago",
             "Summertime Odyssey"
         ]
     },
     "Qingce Village": {
         "Chinese_name": "轻策庄",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Qingxu Pool": {
         "Chinese_name": "青墟浦",
         "tags": [
-            "Liyue",
             "Teyvat",
+            "Liyue",
             "Lisha"
         ]
     },
@@ -981,17 +981,17 @@
     "Qusayr Al-Inkhida'": {
         "Chinese_name": "愚妄行宫",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Ritou": {
         "Chinese_name": "离岛",
         "tags": [
-            "Inazuma",
             "Narukami Island",
+            "Inazuma",
             "Teyvat"
         ]
     },
@@ -999,42 +999,42 @@
         "Chinese_name": "海露港",
         "tags": [
             "Teyvat",
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Ruins of Dahri": {
         "Chinese_name": "荼诃之座",
         "tags": [
-            "Dharma Forest",
-            "Sumeru",
             "Ashavan Realm",
-            "Teyvat"
+            "Sumeru",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Safhe Shatranj": {
         "Chinese_name": "「神的棋盘」/神弃殿阁",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Sal Terrae": {
         "Chinese_name": "地中之盐",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Salacia Plain": {
         "Chinese_name": "塞洛海原",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "Samudra Coast": {
@@ -1042,8 +1042,8 @@
         "tags": [
             "Sumeru",
             "Girdle of the Sands",
-            "Realm of Farakhkert",
-            "Teyvat"
+            "Teyvat",
+            "Realm of Farakhkert"
         ]
     },
     "Sangonomiya Shrine": {
@@ -1057,9 +1057,9 @@
     "Serpent's Head": {
         "Chinese_name": "蛇神之首",
         "tags": [
+            "Yashiori Island",
             "Inazuma",
-            "Teyvat",
-            "Yashiori Island"
+            "Teyvat"
         ]
     },
     "Shirikoro Peak": {
@@ -1097,10 +1097,10 @@
     "Sobek Oasis": {
         "Chinese_name": "丰饶绿洲",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "Springvale": {
@@ -1138,17 +1138,17 @@
     "Stone Gate": {
         "Chinese_name": "石门",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Stony Halls": {
         "Chinese_name": "崎岖石厅",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "Stormbearer Mountains": {
@@ -1186,19 +1186,19 @@
     "Sumeru City": {
         "Chinese_name": "须弥城",
         "tags": [
-            "Dharma Forest",
             "Sumeru",
+            "Teyvat",
             "Avidya Forest",
-            "Teyvat"
+            "Dharma Forest"
         ]
     },
     "Tanit Camps": {
         "Chinese_name": "塔尼特露营地",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Tatarasuna": {
@@ -1212,78 +1212,78 @@
     "Temir Mountains": {
         "Chinese_name": "铁穆山",
         "tags": [
-            "Gavireh Lajavard",
             "Sumeru",
             "Girdle of the Sands",
+            "Gavireh Lajavard",
             "Teyvat"
         ]
     },
     "Thalatta Submarine Canyon": {
         "Chinese_name": "塔拉塔海谷",
         "tags": [
-            "Teyvat",
+            "Fontaine",
             "Court of Fontaine Region",
-            "Fontaine"
+            "Teyvat"
         ]
     },
     "The Chasm's Maw": {
         "Chinese_name": "巨渊之口",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
     "The Chasm: Main Mining Area": {
         "Chinese_name": "巨渊主矿区",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "The Dune of Carouses": {
         "Chinese_name": "饱饮之丘",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "The Dune of Elusion": {
         "Chinese_name": "避让之丘",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "The Dune of Magma": {
         "Chinese_name": "铄石之丘",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "The Glowing Narrows": {
         "Chinese_name": "荧光狭道",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "The Mausoleum of King Deshret": {
         "Chinese_name": "赤王陵",
         "tags": [
-            "Hypostyle Desert",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Hypostyle Desert",
+            "Teyvat"
         ]
     },
     "The Narrows": {
@@ -1296,28 +1296,28 @@
     "The Palace of Alcazarzaray": {
         "Chinese_name": "卡萨扎莱宫",
         "tags": [
-            "Dharma Forest",
-            "Lokapala Jungle",
             "Sumeru",
-            "Teyvat"
+            "Teyvat",
+            "Lokapala Jungle",
+            "Dharma Forest"
         ]
     },
     "The Sands of Al-Azif": {
         "Chinese_name": "啁哳之沙",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "The Sands of Three Canals": {
         "Chinese_name": "「三运河之地」",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "The Serpent's Bowels": {
@@ -1330,9 +1330,9 @@
     "The Serpent's Cave": {
         "Chinese_name": "巨蛇岩洞",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "The Serpent's Heart": {
@@ -1345,8 +1345,8 @@
     "The Surface": {
         "Chinese_name": "地面矿区",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
@@ -1369,8 +1369,8 @@
     "Tiangong Gorge": {
         "Chinese_name": "天工峡",
         "tags": [
-            "The Chasm",
             "Liyue",
+            "The Chasm",
             "Teyvat"
         ]
     },
@@ -1385,63 +1385,63 @@
     "Tower of Ipsissimus": {
         "Chinese_name": "自体自身之塔/闭锁的遗迹塔",
         "tags": [
-            "Teyvat",
             "Morte Region",
-            "Fontaine"
+            "Fontaine",
+            "Teyvat"
         ]
     },
     "Tunigi Hollow": {
         "Chinese_name": "荼泥黑渊",
         "tags": [
-            "Gavireh Lajavard",
             "Sumeru",
             "Girdle of the Sands",
+            "Gavireh Lajavard",
             "Teyvat"
         ]
     },
     "Twinning Isle": {
         "Chinese_name": "双双岛",
         "tags": [
-            "Mondstadt",
             "Version 1.6",
-            "Golden Apple Archipelago",
             "Version 2.8",
+            "Mondstadt",
+            "Golden Apple Archipelago",
             "Summertime Odyssey"
         ]
     },
     "Underground Waterway": {
         "Chinese_name": "地下水泽",
         "tags": [
+            "The Chasm: Underground Mines",
             "The Chasm",
-            "Liyue",
-            "The Chasm: Underground Mines"
+            "Liyue"
         ]
     },
     "Valley of Dahri": {
         "Chinese_name": "荼诃落谷",
         "tags": [
+            "Great Red Sand",
             "Land of Upper Setekh",
-            "Teyvat",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat"
         ]
     },
     "Vanarana (Subarea)": {
         "Chinese_name": "桓那兰那",
         "tags": [
-            "Dharma Forest",
-            "Vanarana",
             "Sumeru",
-            "Teyvat"
+            "Vanarana",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Vimara Village": {
         "Chinese_name": "维摩庄",
         "tags": [
-            "Dharma Forest",
-            "Ardravi Valley",
             "Sumeru",
-            "Teyvat"
+            "Ardravi Valley",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Vourukasha Oasis": {
@@ -1449,17 +1449,17 @@
         "tags": [
             "Sumeru",
             "Girdle of the Sands",
-            "Realm of Farakhkert",
-            "Teyvat"
+            "Teyvat",
+            "Realm of Farakhkert"
         ]
     },
     "Wadi Al-Majuj": {
         "Chinese_name": "巨人峡谷",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Wakukau Shoal": {
@@ -1473,25 +1473,25 @@
     "Wangshu Inn": {
         "Chinese_name": "望舒客栈",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Weeping Willow of the Lake": {
         "Chinese_name": "湖中垂柳",
         "tags": [
+            "Erinnyes Forest",
             "Fontaine",
-            "Teyvat",
-            "Erinnyes Forest"
+            "Teyvat"
         ]
     },
     "West Slopes of Mont Automnequi": {
         "Chinese_name": "秋分山西侧",
         "tags": [
             "Teyvat",
-            "Belleau Region",
-            "Fontaine"
+            "Fontaine",
+            "Belleau Region"
         ]
     },
     "Whispering Woods": {
@@ -1505,9 +1505,9 @@
     "Windrise": {
         "Chinese_name": "风起地",
         "tags": [
+            "Teyvat",
             "Mondstadt",
-            "Galesong Hill",
-            "Teyvat"
+            "Galesong Hill"
         ]
     },
     "Wolvendom": {
@@ -1521,18 +1521,18 @@
     "Wounded Shin Valley": {
         "Chinese_name": "折胫谷",
         "tags": [
-            "Desert of Hadramaveth",
-            "Teyvat",
+            "Great Red Sand",
             "Sumeru",
-            "Great Red Sand"
+            "Teyvat",
+            "Desert of Hadramaveth"
         ]
     },
     "Wuwang Hill": {
         "Chinese_name": "无妄坡",
         "tags": [
+            "Teyvat",
             "Liyue",
-            "Bishui Plain",
-            "Teyvat"
+            "Bishui Plain"
         ]
     },
     "Wyrmrest Valley": {
@@ -1560,27 +1560,27 @@
     "Yaoguang Shoal": {
         "Chinese_name": "瑶光滩",
         "tags": [
-            "Liyue",
             "Qiongji Estuary",
+            "Liyue",
             "Teyvat"
         ]
     },
     "Yasna Monument": {
         "Chinese_name": "谒颂幽境",
         "tags": [
-            "Dharma Forest",
-            "Sumeru",
             "Ashavan Realm",
-            "Teyvat"
+            "Sumeru",
+            "Teyvat",
+            "Dharma Forest"
         ]
     },
     "Yazadaha Pool": {
         "Chinese_name": "天臂池",
         "tags": [
-            "Dharma Forest",
             "Sumeru",
+            "Teyvat",
             "Avidya Forest",
-            "Teyvat"
+            "Dharma Forest"
         ]
     }
 }

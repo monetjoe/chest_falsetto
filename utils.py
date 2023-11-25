@@ -2,6 +2,7 @@ import os
 import re
 import json
 import time
+import string
 import random
 import requests
 from tqdm import tqdm
@@ -135,3 +136,16 @@ def clean_windows_filename(input_str):
 
 def rand_sleep(from_second, to_second):
     time.sleep(random.uniform(from_second, to_second))
+
+
+def is_punctuation(s):
+    """
+    Check if a string contains only punctuation symbols.
+
+    Parameters:
+    - s (str): The input string.
+
+    Returns:
+    - bool: True if the string contains only punctuation, False otherwise.
+    """
+    return all(char in string.punctuation for char in s)

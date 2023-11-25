@@ -10,64 +10,64 @@
     "Stormterror Dvalin": {
         "Chinese_name": "裂空的魔龙",
         "tags": [
+            "Mondstadt",
             "Stormterror's Lair",
-            "Confront Stormterror",
-            "Mondstadt"
+            "Confront Stormterror"
         ]
     },
     "Childe": {
         "Chinese_name": "「公子」",
         "tags": [
             "Liyue",
-            "Enter the Golden House",
-            "Golden House"
+            "Golden House",
+            "Enter the Golden House"
         ]
     },
     "Azhdaha": {
         "Chinese_name": "若陀龙王",
         "tags": [
-            "Beneath the Dragon-Queller",
             "Liyue",
+            "Beneath the Dragon-Queller",
             "Nantianmen"
         ]
     },
     "La Signora": {
         "Chinese_name": "「女士」/焚尽的炽炎魔女",
         "tags": [
-            "Inazuma",
             "Tenshukaku",
-            "Narukami Island: Tenshukaku"
+            "Narukami Island: Tenshukaku",
+            "Inazuma"
         ]
     },
     "Magatsu Mitake Narukami no Mikoto": {
         "Chinese_name": "祸津御建鸣神命",
         "tags": [
+            "Inazuma",
             "End of the Oneiric Euthymia",
-            "Grand Narukami Shrine",
-            "Inazuma"
+            "Grand Narukami Shrine"
         ]
     },
     "Everlasting Lord of Arcane Wisdom": {
-        "Chinese_name": "七叶寂照秘密主/「正机之神」",
+        "Chinese_name": "「正机之神」/七叶寂照秘密主",
         "tags": [
+            "Chinvat Ravine",
             "Joururi Workshop",
-            "Sumeru",
-            "Chinvat Ravine"
+            "Sumeru"
         ]
     },
     "Guardian of Apep's Oasis": {
-        "Chinese_name": "起源绿洲的守望者/终末绿洲的守望者/阿佩普的绿洲守望者",
+        "Chinese_name": "终末绿洲的守望者/起源绿洲的守望者/阿佩普的绿洲守望者",
         "tags": [
-            "Desert of Hadramaveth",
             "Sumeru",
+            "Desert of Hadramaveth",
             "The Realm of Beginnings"
         ]
     },
     "All-Devouring Narwhal": {
         "Chinese_name": "吞星之鲸",
         "tags": [
-            "Salacia Plain",
             "Shadow of Another World",
+            "Salacia Plain",
             "Fontaine"
         ]
     }

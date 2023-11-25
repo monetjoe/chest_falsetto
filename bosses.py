@@ -68,7 +68,7 @@ def save_weekly_bosses(boss_path='./data/bosses.json', force_upd=True):
         with open(boss_path, 'w', encoding='utf-8') as json_file:
             json.dump(area_dict, json_file, ensure_ascii=False, indent=4)
 
-        print(f'Weekly bosses have been updated into {boss_path}.')
+        print(f'Weekly bosses have been updated into {boss_path}')
 
 
 if __name__ == "__main__":

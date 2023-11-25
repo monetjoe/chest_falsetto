@@ -118,78 +118,78 @@
     "Ardravi Valley": {
         "Chinese_name": "阿陀河谷",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Ashavan Realm": {
         "Chinese_name": "善见地",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Avidya Forest": {
         "Chinese_name": "道成林",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Lokapala Jungle": {
         "Chinese_name": "护世森",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Lost Nursery": {
         "Chinese_name": "失落的苗圃",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Vanarana (Area)": {
         "Chinese_name": "桓那兰那",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Vissudha Field": {
         "Chinese_name": "二净甸",
         "tags": [
-            "Dharma Forest",
-            "Sumeru"
+            "Sumeru",
+            "Dharma Forest"
         ]
     },
     "Desert of Hadramaveth": {
         "Chinese_name": "千壑沙地",
         "tags": [
-            "Sumeru",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Sumeru"
         ]
     },
     "Hypostyle Desert": {
         "Chinese_name": "列柱沙原",
         "tags": [
-            "Sumeru",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Sumeru"
         ]
     },
     "Land of Lower Setekh": {
         "Chinese_name": "下风蚀地",
         "tags": [
-            "Sumeru",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Sumeru"
         ]
     },
     "Land of Upper Setekh": {
         "Chinese_name": "上风蚀地",
         "tags": [
-            "Sumeru",
-            "Great Red Sand"
+            "Great Red Sand",
+            "Sumeru"
         ]
     },
     "Gavireh Lajavard": {
@@ -252,23 +252,23 @@
         "Chinese_name": "",
         "tags": [
             "Version 2.8",
-            "Mondstadt",
-            "Summertime Odyssey"
+            "Summertime Odyssey",
+            "Mondstadt"
         ]
     },
     "Three Realms Gateway Offering": {
         "Chinese_name": "海洲逐雾",
         "tags": [
-            "Three Realms Gateway Offering",
             "Inazuma",
-            "Aphotic Diffusal"
+            "Aphotic Diffusal",
+            "Three Realms Gateway Offering"
         ]
     },
     "Veluriyam Mirage": {
         "Chinese_name": "琉形蜃境",
         "tags": [
-            "Secret Summer Paradise",
-            "Sumeru"
+            "Sumeru",
+            "Secret Summer Paradise"
         ]
     }
 }

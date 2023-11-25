@@ -4,39 +4,45 @@ from utils import *
 
 def get_character_info(char_url):
     cname, affiliation = [], []
-    response = requests.get(f'{DOMAIN}{char_url}', proxies=PROXY())
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, 'html.parser')
-        cname_tds = soup.find_all('small', string='(Simplified)')
-        if len(cname_tds) > 0:
-            for cname_td in cname_tds:
-                cname.append(
-                    cname_td.find_next(name='span', lang='zh-Hans').text
-                )
+    try:
+        response = requests.get(f'{DOMAIN}{char_url}', proxies=PROXY())
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            cname_tds = soup.find_all('small', string='(Simplified)')
+            if len(cname_tds) > 0:
+                for cname_td in cname_tds:
+                    cname.append(
+                        cname_td.find_next(name='span', lang='zh-Hans').text
+                    )
 
-        org_h3 = soup.find(
-            name='h3',
-            string=unescape('Affil&shy;i&shy;a&shy;tion'),
-            class_='pi-data-label'
-        )
-        if org_h3:
-            affiliation = [org_h3.find_next(
-                name='div',
-                class_='pi-data-value'
-            ).text]
+            org_h3 = soup.find(
+                name='h3',
+                string=unescape('Affil&shy;i&shy;a&shy;tion'),
+                class_='pi-data-label'
+            )
+            if org_h3:
+                affiliation = [org_h3.find_next(
+                    name='div',
+                    class_='pi-data-value'
+                ).text]
 
-        orgs_h3 = soup.find(
-            name='h3',
-            string=unescape('Affil&shy;i&shy;a&shy;tions'),
-            class_='pi-data-label'
-        )
-        if orgs_h3:
-            orgs_ul = orgs_h3.find_next('ul')
-            for org_li in orgs_ul:
-                affiliation.append(org_li.text)
+            orgs_h3 = soup.find(
+                name='h3',
+                string=unescape('Affil&shy;i&shy;a&shy;tions'),
+                class_='pi-data-label'
+            )
+            if orgs_h3:
+                orgs_ul = orgs_h3.find_next('ul')
+                for org_li in orgs_ul:
+                    affiliation.append(org_li.text)
 
-    else:
-        print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
+        else:
+            print(f'\nFailed to get Chinese name of {char_url.split("/")[-1]}')
+
+    except requests.exceptions.RetryError as e:
+        print(f"Max retries exceeded: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"Request failed: {e}")
 
     return cname, affiliation
 
@@ -63,6 +69,11 @@ def get_characters(page_url=f"{DOMAIN}/wiki/Character/List"):
 
             tags = [element, region, gender, weapon]
             cname, affiliation = get_character_info(url)
+            while (not cname) and (not affiliation):
+                print(f'Failed to get [{name}] info, retrying...')
+                rand_sleep(1, 2)
+                cname, affiliation = get_character_info(url)
+
             if len(affiliation) > 0:
                 tags += affiliation
 
@@ -83,7 +94,8 @@ def save_characters(character_path=f'./data/characters.json', force_upd=True):
         with open(character_path, 'w', encoding='utf-8') as json_file:
             json.dump(char_dict, json_file, ensure_ascii=False, indent=4)
 
-        print(f'Characters have been updated into {character_path}.')
+        print(f'Characters have been updated into {character_path}')
+        print(f'{len(char_dict.keys())} in total')
 
 
 if __name__ == "__main__":

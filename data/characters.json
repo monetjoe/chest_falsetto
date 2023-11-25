@@ -2,23 +2,23 @@
     "Albedo": {
         "Chinese_name": "阿贝多",
         "tags": [
-            "Sword",
-            "Mondstadt",
-            "Geo",
-            "Knights of Favonius",
             "Yae Publishing House",
-            "Medium Male"
+            "Mondstadt",
+            "Knights of Favonius",
+            "Medium Male",
+            "Geo",
+            "Sword"
         ]
     },
     "Alhaitham": {
         "Chinese_name": "艾尔海森",
         "tags": [
-            "Dendro",
+            "Sumeru",
+            "Sumeru Akademiya",
             "Tall Male",
             "Haravatat",
             "Sword",
-            "Sumeru",
-            "Sumeru Akademiya"
+            "Dendro"
         ]
     },
     "Amber": {
@@ -26,135 +26,135 @@
         "tags": [
             "Bow",
             "Mondstadt",
-            "Medium Female",
+            "Pyro",
             "Knights of Favonius",
-            "Pyro"
+            "Medium Female"
         ]
     },
     "Arataki Itto": {
         "Chinese_name": "荒泷一斗",
         "tags": [
+            "Inazuma",
+            "Arataki Gang",
             "Tall Male",
             "Claymore",
-            "Geo",
-            "Inazuma",
-            "Arataki Gang"
+            "Geo"
         ]
     },
     "Baizhu": {
         "Chinese_name": "白术",
         "tags": [
-            "Dendro",
             "Tall Male",
-            "Liyue",
+            "Catalyst",
             "Bubu Pharmacy",
-            "Catalyst"
+            "Liyue",
+            "Dendro"
         ]
     },
     "Barbara": {
         "Chinese_name": "芭芭拉",
         "tags": [
-            "Hydro",
-            "Mondstadt",
-            "Medium Female",
             "Church of Favonius",
-            "Catalyst"
+            "Mondstadt",
+            "Catalyst",
+            "Hydro",
+            "Medium Female"
         ]
     },
     "Beidou": {
         "Chinese_name": "北斗",
         "tags": [
-            "Claymore",
+            "The Crux",
             "Electro",
             "Tall Female",
-            "The Crux",
+            "Claymore",
             "Liyue"
         ]
     },
     "Bennett": {
         "Chinese_name": "班尼特",
         "tags": [
-            "Sword",
             "Mondstadt",
+            "Pyro",
             "Adventurers' Guild",
             "Benny's Adventure Team",
-            "Pyro",
-            "Medium Male"
+            "Medium Male",
+            "Sword"
         ]
     },
     "Candace": {
         "Chinese_name": "坎蒂丝",
         "tags": [
-            "Hydro",
-            "Tall Female",
-            "Polearm",
             "Sumeru",
-            "Aaru Village"
+            "Polearm",
+            "Aaru Village",
+            "Hydro",
+            "Tall Female"
         ]
     },
     "Charlotte": {
         "Chinese_name": "夏洛蒂",
         "tags": [
-            "Fontaine",
             "The Steambird",
+            "Catalyst",
             "Cryo",
             "Medium Female",
-            "Catalyst"
+            "Fontaine"
         ]
     },
     "Chongyun": {
         "Chinese_name": "重云",
         "tags": [
             "Claymore",
+            "Medium Male",
             "Cryo",
-            "Liyue",
             "Tianheng Thaumaturges",
-            "Medium Male"
+            "Liyue"
         ]
     },
     "Collei": {
         "Chinese_name": "柯莱",
         "tags": [
-            "Dendro",
-            "Forest Rangers",
             "Bow",
             "Sumeru",
+            "Forest Rangers",
+            "Gandharva Ville",
             "Medium Female",
-            "Gandharva Ville"
+            "Dendro"
         ]
     },
     "Cyno": {
         "Chinese_name": "赛诺",
         "tags": [
-            "Electro",
-            "Spantamad",
-            "Polearm",
-            "Matra",
             "Sumeru",
-            "Temple of Silence",
-            "Medium Male"
+            "Polearm",
+            "Electro",
+            "Matra",
+            "Spantamad",
+            "Medium Male",
+            "Temple of Silence"
         ]
     },
     "Dehya": {
         "Chinese_name": "迪希雅",
         "tags": [
-            "The Eremites",
-            "Corps of Thirty",
-            "Claymore",
-            "Tall Female",
             "Sumeru",
-            "Pyro"
+            "The Eremites",
+            "Pyro",
+            "Claymore",
+            "Corps of Thirty",
+            "Tall Female"
         ]
     },
     "Diluc": {
         "Chinese_name": "迪卢克",
         "tags": [
-            "Tall Male",
-            "Claymore",
             "Mondstadt",
+            "Tall Male",
+            "Pyro",
+            "Claymore",
             "Unnamed intelligence organization",
             "Knights of Favonius",
-            "Pyro",
             "Dawn Winery"
         ]
     },
@@ -162,9 +162,9 @@
         "Chinese_name": "迪奥娜",
         "tags": [
             "Bow",
-            "Cryo",
             "Mondstadt",
             "The Cat's Tail",
+            "Cryo",
             "Short Female",
             "Kätzlein Bloodline"
         ]
@@ -172,40 +172,40 @@
     "Dori": {
         "Chinese_name": "多莉",
         "tags": [
-            "The Palace of Alcazarzaray",
-            "Claymore",
-            "Electro",
             "Sumeru",
+            "Electro",
+            "Claymore",
+            "The Palace of Alcazarzaray",
             "Short Female"
         ]
     },
     "Eula": {
         "Chinese_name": "优菈",
         "tags": [
-            "Claymore",
-            "Tall Female",
-            "Cryo",
-            "Mondstadt",
             "Lawrence Clan",
-            "Knights of Favonius"
+            "Mondstadt",
+            "Claymore",
+            "Knights of Favonius",
+            "Cryo",
+            "Tall Female"
         ]
     },
     "Faruzan": {
         "Chinese_name": "珐露珊",
         "tags": [
-            "Haravatat",
             "Bow",
             "Sumeru",
-            "Medium Female",
-            "Anemo"
+            "Anemo",
+            "Haravatat",
+            "Medium Female"
         ]
     },
     "Fischl": {
         "Chinese_name": "菲谢尔",
         "tags": [
             "Bow",
-            "Electro",
             "Mondstadt",
+            "Electro",
             "Adventurers' Guild",
             "Medium Female"
         ]
@@ -213,385 +213,385 @@
     "Freminet": {
         "Chinese_name": "菲米尼",
         "tags": [
-            "Fontaine",
+            "Hotel Bouffes d'ete",
             "Claymore",
+            "Medium Male",
             "Cryo",
             "House of the Hearth",
-            "Hotel Bouffes d'ete",
-            "Medium Male"
+            "Fontaine"
         ]
     },
     "Furina": {
         "Chinese_name": "芙宁娜",
         "tags": [
-            "Hydro",
-            "Fontaine",
-            "Sword",
-            "Opera Epiclese",
-            "Medium Female",
             "Court of Fontaine",
-            "The Seven"
+            "Opera Epiclese",
+            "The Seven",
+            "Hydro",
+            "Medium Female",
+            "Sword",
+            "Fontaine"
         ]
     },
     "Ganyu": {
         "Chinese_name": "甘雨",
         "tags": [
             "Bow",
-            "Adepti",
-            "Cryo",
-            "Liyue",
-            "Medium Female",
             "Yuehai Pavilion",
-            "Liyue Qixing Employees"
+            "Liyue Qixing Employees",
+            "Cryo",
+            "Medium Female",
+            "Adepti",
+            "Liyue"
         ]
     },
     "Gorou": {
         "Chinese_name": "五郎",
         "tags": [
-            "Bow",
-            "Watatsumi Island",
-            "Geo",
-            "Watatsumi Army",
             "Inazuma",
+            "Bow",
             "Yae Publishing House",
-            "Medium Male"
+            "Watatsumi Army",
+            "Watatsumi Island",
+            "Medium Male",
+            "Geo"
         ]
     },
     "Hu Tao": {
         "Chinese_name": "胡桃",
         "tags": [
             "Polearm",
-            "Liyue",
+            "Pyro",
+            "Wangsheng Funeral Parlor",
             "Hu Family",
             "Medium Female",
-            "Wangsheng Funeral Parlor",
-            "Pyro"
+            "Liyue"
         ]
     },
     "Jean": {
         "Chinese_name": "琴",
         "tags": [
-            "Tall Female",
-            "Sword",
             "Mondstadt",
+            "Tall Female",
+            "Anemo",
+            "Knights of Favonius",
             "Four Winds",
             "Gunnhildr Clan",
-            "Knights of Favonius",
-            "Anemo"
+            "Sword"
         ]
     },
     "Kaedehara Kazuha": {
         "Chinese_name": "枫原万叶",
         "tags": [
-            "The Crux",
-            "Sword",
-            "Kaedehara Clan",
-            "Watatsumi Army",
-            "Anemo",
             "Inazuma",
-            "Medium Male"
+            "Watatsumi Army",
+            "The Crux",
+            "Anemo",
+            "Medium Male",
+            "Kaedehara Clan",
+            "Sword"
         ]
     },
     "Kaeya": {
         "Chinese_name": "凯亚",
         "tags": [
-            "Tall Male",
-            "Alberich Clan",
-            "Sword",
-            "Cryo",
             "Mondstadt",
+            "Tall Male",
             "Knights of Favonius",
-            "Khaenri'ah"
+            "Khaenri'ah",
+            "Alberich Clan",
+            "Cryo",
+            "Sword"
         ]
     },
     "Kamisato Ayaka": {
         "Chinese_name": "神里绫华",
         "tags": [
+            "Inazuma",
             "Kamisato Clan",
             "Yashiro Commission",
-            "Sword",
             "Cryo",
             "Medium Female",
-            "Inazuma"
+            "Sword"
         ]
     },
     "Kamisato Ayato": {
         "Chinese_name": "神里绫人",
         "tags": [
-            "Hydro",
+            "Inazuma",
             "Tall Male",
             "Kamisato Clan",
+            "Shuumatsuban",
             "Yashiro Commission",
-            "Sword",
-            "Inazuma",
-            "Shuumatsuban"
+            "Hydro",
+            "Sword"
         ]
     },
     "Kaveh": {
         "Chinese_name": "卡维",
         "tags": [
-            "Dendro",
+            "Sumeru",
             "Tall Male",
             "Claymore",
-            "Sumeru",
             "Independent Design Studio",
-            "Kshahrewar"
+            "Kshahrewar",
+            "Dendro"
         ]
     },
     "Keqing": {
         "Chinese_name": "刻晴",
         "tags": [
             "Electro",
-            "Liyue Qixing",
-            "Sword",
             "Liyue",
-            "Medium Female"
+            "Liyue Qixing",
+            "Medium Female",
+            "Sword"
         ]
     },
     "Kirara": {
         "Chinese_name": "绮良良",
         "tags": [
-            "Dendro",
-            "Komaniya Express",
-            "Sword",
+            "Inazuma",
             "Medium Female",
-            "Inazuma"
+            "Sword",
+            "Komaniya Express",
+            "Dendro"
         ]
     },
     "Klee": {
         "Chinese_name": "可莉",
         "tags": [
             "Mondstadt",
-            "Knights of Favonius",
-            "Short Female",
             "Pyro",
-            "Catalyst"
+            "Catalyst",
+            "Knights of Favonius",
+            "Short Female"
         ]
     },
     "Kujou Sara": {
         "Chinese_name": "九条裟罗",
         "tags": [
-            "Electro",
+            "Inazuma",
             "Bow",
-            "Tall Female",
+            "Electro",
             "Tenryou Commission",
-            "Inazuma"
+            "Tall Female"
         ]
     },
     "Kuki Shinobu": {
         "Chinese_name": "久岐忍",
         "tags": [
-            "Electro",
-            "Sword",
-            "Kuki Clan",
-            "Grand Narukami Shrine",
-            "Medium Female",
             "Inazuma",
-            "Arataki Gang"
+            "Electro",
+            "Arataki Gang",
+            "Kuki Clan",
+            "Medium Female",
+            "Sword",
+            "Grand Narukami Shrine"
         ]
     },
     "Layla": {
         "Chinese_name": "莱依拉",
         "tags": [
-            "Sword",
-            "Cryo",
             "Sumeru",
+            "Rtawahist",
+            "Cryo",
             "Medium Female",
-            "Rtawahist"
+            "Sword"
         ]
     },
     "Lisa": {
         "Chinese_name": "丽莎",
         "tags": [
-            "Electro",
-            "Spantamad",
-            "Tall Female",
             "Mondstadt",
+            "Electro",
+            "Catalyst",
             "Knights of Favonius",
-            "Catalyst"
+            "Spantamad",
+            "Tall Female"
         ]
     },
     "Lynette": {
         "Chinese_name": "琳妮特",
         "tags": [
-            "Fontaine",
-            "Sword",
-            "Medium Female",
-            "House of the Hearth",
+            "Hotel Bouffes d'ete",
             "Anemo",
-            "Hotel Bouffes d'ete"
+            "House of the Hearth",
+            "Medium Female",
+            "Sword",
+            "Fontaine"
         ]
     },
     "Lyney": {
         "Chinese_name": "林尼",
         "tags": [
-            "Fontaine",
             "Bow",
-            "House of the Hearth",
             "Pyro",
             "Hotel Bouffes d'ete",
-            "Medium Male"
+            "Medium Male",
+            "House of the Hearth",
+            "Fontaine"
         ]
     },
     "Mika": {
         "Chinese_name": "米卡",
         "tags": [
             "Polearm",
-            "Cryo",
             "Mondstadt",
             "Knights of Favonius",
-            "Medium Male"
+            "Medium Male",
+            "Cryo"
         ]
     },
     "Mona": {
         "Chinese_name": "莫娜",
         "tags": [
-            "Hydro",
             "The Steambird",
             "Mondstadt",
-            "Medium Female",
-            "Catalyst"
+            "Catalyst",
+            "Hydro",
+            "Medium Female"
         ]
     },
     "Nahida": {
         "Chinese_name": "纳西妲",
         "tags": [
-            "Dendro",
             "Sumeru",
-            "Short Female",
+            "Sumeru City",
             "Sumeru Akademiya",
             "Catalyst",
-            "Sumeru City",
-            "The Seven"
+            "The Seven",
+            "Short Female",
+            "Dendro"
         ]
     },
     "Neuvillette": {
         "Chinese_name": "那维莱特",
         "tags": [
-            "Marechaussee Phantom",
-            "Hydro",
-            "Fontaine",
             "Tall Male",
             "Palais Mermonia",
-            "Seven Sovereigns",
+            "Marechaussee Phantom",
             "Catalyst",
-            "Court of Fontaine"
+            "Court of Fontaine",
+            "Hydro",
+            "Seven Sovereigns",
+            "Fontaine"
         ]
     },
     "Nilou": {
         "Chinese_name": "妮露",
         "tags": [
-            "Hydro",
-            "Sword",
             "Sumeru",
             "Zubayr Theater",
-            "Medium Female"
+            "Hydro",
+            "Medium Female",
+            "Sword"
         ]
     },
     "Ningguang": {
         "Chinese_name": "凝光",
         "tags": [
-            "Liyue Qixing",
             "Tall Female",
-            "Liyue",
+            "Catalyst",
+            "Liyue Qixing",
             "Geo",
-            "Catalyst"
+            "Liyue"
         ]
     },
     "Noelle": {
         "Chinese_name": "诺艾尔",
         "tags": [
-            "Claymore",
             "Mondstadt",
-            "Geo",
+            "Claymore",
+            "Knights of Favonius",
             "Medium Female",
-            "Knights of Favonius"
+            "Geo"
         ]
     },
     "Qiqi": {
         "Chinese_name": "七七",
         "tags": [
-            "Adepti",
-            "Sword",
-            "Cryo",
             "Liyue",
             "Bubu Pharmacy",
-            "Short Female"
+            "Cryo",
+            "Short Female",
+            "Adepti",
+            "Sword"
         ]
     },
     "Raiden Shogun": {
         "Chinese_name": "雷电将军",
         "tags": [
-            "Electro",
-            "Tall Female",
-            "Polearm",
-            "Inazuma Shogunate",
-            "Inazuma City",
             "Inazuma",
-            "The Seven"
+            "Polearm",
+            "Electro",
+            "Inazuma City",
+            "The Seven",
+            "Inazuma Shogunate",
+            "Tall Female"
         ]
     },
     "Razor": {
         "Chinese_name": "雷泽",
         "tags": [
-            "Claymore",
-            "Electro",
             "Mondstadt",
             "Wolvendom",
+            "Electro",
+            "Claymore",
             "Medium Male"
         ]
     },
     "Rosaria": {
         "Chinese_name": "罗莎莉亚",
         "tags": [
-            "Tall Female",
+            "Church of Favonius",
             "Polearm",
-            "Cryo",
             "Mondstadt",
-            "Church of Favonius"
+            "Cryo",
+            "Tall Female"
         ]
     },
     "Sangonomiya Kokomi": {
         "Chinese_name": "珊瑚宫心海",
         "tags": [
-            "Hydro",
+            "Inazuma",
+            "Sangonomiya Clan",
+            "Watatsumi Army",
             "Watatsumi Island",
             "Catalyst",
-            "Watatsumi Army",
-            "Medium Female",
-            "Sangonomiya Clan",
-            "Inazuma"
+            "Hydro",
+            "Medium Female"
         ]
     },
     "Sayu": {
         "Chinese_name": "早柚",
         "tags": [
-            "Claymore",
-            "Short Female",
-            "Anemo",
             "Inazuma",
-            "Shuumatsuban"
+            "Claymore",
+            "Anemo",
+            "Shuumatsuban",
+            "Short Female"
         ]
     },
     "Shenhe": {
         "Chinese_name": "申鹤",
         "tags": [
-            "Adepti",
-            "Tall Female",
             "Polearm",
+            "Tall Female",
             "Cryo",
-            "Liyue",
-            "Cloud Retainer's Abode"
+            "Cloud Retainer's Abode",
+            "Adepti",
+            "Liyue"
         ]
     },
     "Shikanoin Heizou": {
         "Chinese_name": "鹿野院平藏",
         "tags": [
-            "Catalyst",
+            "Inazuma",
+            "Bantan Sango Detective Agency",
             "Tenryou Commission",
             "Anemo",
-            "Bantan Sango Detective Agency",
-            "Inazuma",
+            "Catalyst",
             "Medium Male"
         ]
     },
@@ -599,44 +599,44 @@
         "Chinese_name": "砂糖",
         "tags": [
             "Mondstadt",
-            "Medium Female",
-            "Knights of Favonius",
             "Anemo",
-            "Catalyst"
+            "Catalyst",
+            "Knights of Favonius",
+            "Medium Female"
         ]
     },
     "Tartaglia": {
         "Chinese_name": "达达利亚",
         "tags": [
-            "Fatui",
-            "Hydro",
-            "Tall Male",
             "Bow",
+            "Eleven Fatui Harbingers",
+            "Tall Male",
             "Snezhnaya",
-            "Eleven Fatui Harbingers"
+            "Hydro",
+            "Fatui"
         ]
     },
     "Thoma": {
         "Chinese_name": "托马",
         "tags": [
-            "Tall Male",
-            "Kamisato Clan",
-            "Yashiro Commission",
+            "Inazuma",
             "Polearm",
+            "Tall Male",
             "Pyro",
-            "Inazuma"
+            "Kamisato Clan",
+            "Yashiro Commission"
         ]
     },
     "Tighnari": {
         "Chinese_name": "提纳里",
         "tags": [
-            "Dendro",
-            "Forest Rangers",
             "Bow",
             "Sumeru",
+            "Forest Rangers",
             "Amurta",
             "Gandharva Ville",
-            "Medium Male"
+            "Medium Male",
+            "Dendro"
         ]
     },
     "Venti": {
@@ -653,143 +653,143 @@
         "Chinese_name": "流浪者",
         "tags": [
             "Sumeru",
-            "Vahumana",
             "Anemo",
             "Catalyst",
-            "None",
-            "Medium Male"
+            "Medium Male",
+            "Vahumana",
+            "None"
         ]
     },
     "Wriothesley": {
         "Chinese_name": "莱欧斯利",
         "tags": [
-            "Fontaine",
             "Tall Male",
-            "Cryo",
             "Fortress of Meropide",
-            "Catalyst"
+            "Catalyst",
+            "Cryo",
+            "Fontaine"
         ]
     },
     "Xiangling": {
         "Chinese_name": "香菱",
         "tags": [
-            "The Crux",
             "Polearm",
+            "The Crux",
+            "Pyro",
             "Wanmin Restaurant",
-            "Liyue",
             "Medium Female",
-            "Pyro"
+            "Liyue"
         ]
     },
     "Xiao": {
         "Chinese_name": "魈",
         "tags": [
-            "Yakshas",
             "Polearm",
-            "Liyue",
+            "Liyue Adeptus",
             "Anemo",
+            "Yakshas",
             "Medium Male",
-            "Liyue Adeptus"
+            "Liyue"
         ]
     },
     "Xingqiu": {
         "Chinese_name": "行秋",
         "tags": [
-            "Guhua Clan",
-            "Hydro",
-            "Sword",
-            "Liyue",
             "Feiyun Commerce Guild",
             "Yae Publishing House",
-            "Medium Male"
+            "Guhua Clan",
+            "Liyue",
+            "Medium Male",
+            "Hydro",
+            "Sword"
         ]
     },
     "Xinyan": {
         "Chinese_name": "辛焱",
         "tags": [
+            "Pyro",
             "Claymore",
-            "Liyue",
             "The Red Strings",
             "Medium Female",
-            "Pyro"
+            "Liyue"
         ]
     },
     "Yae Miko": {
         "Chinese_name": "八重神子",
         "tags": [
-            "Electro",
-            "Tall Female",
-            "Catalyst",
-            "Grand Narukami Shrine",
             "Inazuma",
-            "Yae Publishing House"
+            "Yae Publishing House",
+            "Electro",
+            "Catalyst",
+            "Tall Female",
+            "Grand Narukami Shrine"
         ]
     },
     "Yanfei": {
         "Chinese_name": "烟绯",
         "tags": [
-            "Adepti",
-            "Liyue",
-            "Yanfei Legal Consultancy",
-            "Medium Female",
             "Pyro",
-            "Catalyst"
+            "Adepti",
+            "Catalyst",
+            "Medium Female",
+            "Yanfei Legal Consultancy",
+            "Liyue"
         ]
     },
     "Yaoyao": {
         "Chinese_name": "瑶瑶",
         "tags": [
-            "Dendro",
-            "Polearm",
-            "Liyue",
             "Streetward Rambler's Abode",
-            "Short Female"
+            "Polearm",
+            "Short Female",
+            "Liyue",
+            "Dendro"
         ]
     },
     "Yelan": {
         "Chinese_name": "夜兰",
         "tags": [
-            "Hydro",
             "Bow",
+            "Yanshang Teahouse",
             "Tall Female",
-            "Liyue",
             "Ministry of Civil Affairs",
-            "Yanshang Teahouse"
+            "Hydro",
+            "Liyue"
         ]
     },
     "Yoimiya": {
         "Chinese_name": "宵宫",
         "tags": [
-            "Bow",
             "Inazuma",
-            "Medium Female",
+            "Bow",
             "Pyro",
+            "Medium Female",
             "Naganohara Fireworks"
         ]
     },
     "Yun Jin": {
         "Chinese_name": "云堇",
         "tags": [
-            "Heyu Tea House",
             "Polearm",
-            "Liyue",
             "Yun-Han Opera Troupe",
-            "Geo",
+            "Heyu Tea House",
+            "Yun Family",
             "Medium Female",
-            "Yun Family"
+            "Geo",
+            "Liyue"
         ]
     },
     "Zhongli": {
         "Chinese_name": "钟离",
         "tags": [
+            "Polearm",
             "Tall Male",
+            "Wangsheng Funeral Parlor",
             "Liyue Harbor",
             "Adepti",
-            "Polearm",
-            "Liyue",
+            "The Seven",
             "Geo",
-            "Wangsheng Funeral Parlor",
-            "The Seven"
+            "Liyue"
         ]
     }
 }

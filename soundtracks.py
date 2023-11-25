@@ -84,15 +84,17 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
                 song_key = song_name.replace(' (Soundtrack)', '')
                 song_info = get_song_info(song_url)
                 while not song_info:
-                    print(
-                        f'Failed to get the info of {song_name}, retrying...')
+                    print(f'Failed to get [{song_name}] info, retrying...')
                     rand_sleep(1, 2)
                     song_info = get_song_info(song_url)
 
                 soundtracks[song_key] = song_info
 
+                # Special items
                 if song_key == 'La vaguelette':
                     soundtracks[song_key]['tags'].append('Fontaine')
+                elif song_key == 'Novatio Novena':
+                    soundtracks[song_key]['tags'].append('Inazuma')
 
             nextpage = soup.find('a', class_='category-page__pagination-next')
             if nextpage:
@@ -100,7 +102,7 @@ def get_songs(page_url=f"{DOMAIN}/wiki/Category:Soundtrack"):
                 nextpage_songs = get_songs(nextpage_url)
                 while not nextpage_songs:
                     print(
-                        f'Failed to get the page of {nextpage_url}, retrying...')
+                        f'Failed to get the page of [{nextpage_url}], retrying...')
                     rand_sleep(1, 2)
                     nextpage_songs = get_songs(nextpage_url)
 
@@ -123,7 +125,8 @@ def save_soundtracks(soundtrack_path='./data/soundtracks.json', force_upd=True):
         with open(soundtrack_path, 'w', encoding='utf-8') as json_file:
             json.dump(soundtrack_dict, json_file, ensure_ascii=False, indent=4)
 
-        print(f'Soundtracks have been updated into {soundtrack_path}.')
+        print(f'Soundtracks have been updated into {soundtrack_path}')
+        print(f'{len(soundtrack_dict.keys())} in total')
 
 
 if __name__ == "__main__":
