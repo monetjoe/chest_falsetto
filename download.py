@@ -156,8 +156,11 @@ def save_scores(keywords_json='./data/keywords.json', scores_json='./data/scores
     with open(scores_json, 'w', encoding='utf-8') as json_file:
         json.dump(scores, json_file, ensure_ascii=False, indent=4)
 
+    print(f'{len(scores.keys())} in total')
+
 
 def download_scores(scores_json='./data/scores.json', save_dir="./data/genshin_mids"):
+    print('Downloading scores...')
     with open(scores_json, 'r', encoding='utf-8') as json_file:
         scores = json.load(json_file)
 
