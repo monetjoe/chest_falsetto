@@ -171,7 +171,7 @@ if __name__ == "__main__":
 
     demo.launch(
         theme=gr.themes.Ocean(),
-        css="#gradio-share-link-button-0 { display: none; }",
+        css="#gradio-share-link-button-0, thead { display: none; }",
         ssr_mode=False,
         i18n=i18n,
     )
